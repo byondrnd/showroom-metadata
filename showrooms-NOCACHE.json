@@ -2,7 +2,7 @@
     {
         "title": "Fall 2020 Demo",
         "image": "https://viewer.byondxr.com/content/1299/7b798c9d_c733_4bd3_bc23_80ec510f2a36.jpg",
-        "id": "showroom-NOCACHE.json",
+        "id": "showroooms/showroom-NOCACHE.json",
         "description": "Planning of new byond fashion collection",
         "created_date": "",
         "updated_date": "",
@@ -11,7 +11,7 @@
     {
         "title": "Spring 2018",
         "image": "https://viewer.byondxr.com/content/1299/3c3e333f_5a39_4ed7_a7f3_2815d1812e12.jpg",
-        "id": "showroom-NOCACHE.json",
+        "id": "showroooms/showroom-NOCACHE.json",
         "description": "The planning and retrospective of Spring 2018",
         "created_date": "",
         "updated_date": "",
@@ -20,7 +20,7 @@
     {
         "title": "Summer Designs",
         "image": "https://viewer.byondxr.com/content/1299/f3e6dd6c_32fc_4481_8d79_716605ad3c48.jpg",
-        "id": "showroom-NOCACHE.json",
+        "id": "showroooms/showroom-NOCACHE.json",
         "description": "WIP – Summer design showroom",
         "created_date": "",
         "updated_date": "",
@@ -29,7 +29,7 @@
     {
         "title": "New PR Demo",
         "image": "https://viewer.byondxr.com/content/1299/136dd9c8_c6f1_4483_a20a_917e3612842e.jpg",
-        "id": "showroom-NOCACHE.json",
+        "id": "showroooms/showroom-NOCACHE.json",
         "description": "A PR oriented showroom for external release",
         "created_date": "",
         "updated_date": "",
