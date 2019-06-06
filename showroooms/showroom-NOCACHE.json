@@ -199,7 +199,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -282,7 +281,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -368,7 +366,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           }
@@ -444,7 +441,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -488,7 +484,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -538,7 +533,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -576,7 +570,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -658,7 +651,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -770,7 +762,6 @@
                     "x": 0
                   }
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none",
                 "rotation": {
@@ -814,7 +805,6 @@
                     "x": 0
                   }
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none",
                 "rotation": {
@@ -864,7 +854,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -908,7 +897,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -952,7 +940,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -996,7 +983,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -1040,7 +1026,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -1084,7 +1069,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -1128,7 +1112,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -1172,7 +1155,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -1216,7 +1198,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               }
@@ -1258,7 +1239,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -1340,7 +1320,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -1422,7 +1401,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -1504,7 +1482,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -1548,7 +1525,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -1597,7 +1573,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1641,7 +1616,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1684,7 +1658,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1728,7 +1701,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1773,7 +1745,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1817,7 +1788,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1861,7 +1831,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1905,7 +1874,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1949,7 +1917,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -1993,7 +1960,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2037,7 +2003,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2082,7 +2047,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2126,7 +2090,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2170,7 +2133,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2214,7 +2176,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2258,7 +2219,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2302,7 +2262,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2346,7 +2305,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2390,7 +2348,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2434,7 +2391,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2478,7 +2434,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2522,7 +2477,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2566,7 +2520,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2604,7 +2557,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -2654,7 +2606,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2689,7 +2640,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -2739,7 +2689,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2783,7 +2732,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2827,7 +2775,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           }
@@ -2909,7 +2856,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2953,7 +2899,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -2997,7 +2942,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -3041,7 +2985,6 @@
               "_z": 0,
               "_order": "YXZ"
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none"
           },
@@ -3079,7 +3022,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -3123,7 +3065,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -3167,7 +3108,6 @@
                 "z": 10
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -3243,7 +3183,6 @@
                     "x": 0
                   }
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none",
                 "rotation": {
@@ -3287,7 +3226,6 @@
                     "x": 0
                   }
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none",
                 "rotation": {
@@ -3337,7 +3275,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3381,7 +3318,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3425,7 +3361,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3469,7 +3404,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3513,7 +3447,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3557,7 +3490,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3601,7 +3533,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3722,7 +3653,11 @@
                         "category": "Black coat",
                         "season": "Winter 2019",
                         "garment": "67SFGVD",
-                        "company": "Milo"
+                        "company": "Milo",
+                        "title": "COAT BLACK",
+                        "sku": "#985Nk432",
+                        "collection": "spring 2020",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                       },
                       "variety": {
                         "icons": [
@@ -3797,7 +3732,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               }
@@ -3873,7 +3807,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3917,7 +3850,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -3961,7 +3893,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -4004,7 +3935,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -4350,7 +4280,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -4394,7 +4323,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -4432,7 +4360,6 @@
                     "x": 0
                   }
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none",
                 "rotation": {
@@ -4482,7 +4409,6 @@
                   "_z": 0,
                   "_order": "YXZ"
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
               },
@@ -4520,7 +4446,6 @@
                     "x": 0
                   }
                 },
-                "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none",
                 "rotation": {
@@ -4607,7 +4532,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
@@ -4692,7 +4616,6 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
