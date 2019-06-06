@@ -86,7 +86,11 @@
                 "season": "SPRING 2019",
                 "category": "SHIRT",
                 "style": "67679GGVC",
-                "designer": "RONI GABAI"
+                "designer": "RONI GABAI",
+                "title": "CLEAR SPRING",
+                "sku": "#985Nk432",
+                "collection": "spring 2020",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
               },
               "color": {
                 "image": "https://web-apps.byondxr.com/showroom-assets/DetailsPage/shirt.png",
@@ -4008,7 +4012,11 @@
                         "season": "spring 2019",
                         "category": "short",
                         "style": "67679GGVC",
-                        "designer": "RONI GABAI"
+                        "designer": "RONI GABAI",
+                        "title": "GREEN SHORTS",
+                        "sku": "#985Nk432",
+                        "collection": "spring 2020",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                       },
                       "color": {
                         "image": "https://viewer.byondxr.com/content/1299/c455e933_7dac_43c0_84b8_2d7e7d938d0d.png",
@@ -4205,7 +4213,11 @@
                         "category": "short",
                         "season": "spring 2019",
                         "garment": "67SFGVD",
-                        "company": "Byond Wear"
+                        "company": "Byond Wear",
+                        "title": "WHITE PANS",
+                        "sku": "#985Nk432",
+                        "collection": "spring 2020",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                       },
                       "variety": {
                         "icons": [
