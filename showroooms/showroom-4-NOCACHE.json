@@ -10,30 +10,6 @@
     "title": "Byond Apparel Demo Showroom",
     "artBoards": [
       {
-        "metadataName": "Element3DMetadata",
-        "position": {
-          "x": 49.05065174379297,
-          "y": 36.51899440391523,
-          "z": 0
-        },
-        "scale": {
-          "x": 1,
-          "y": 1,
-          "z": 1
-        },
-        "is_cast_shadow": false,
-        "is_receive_shadow": false,
-        "backgroundScale": {
-          "x": 9,
-          "y": 9,
-          "z": 1
-        },
-        "rotation": {
-          "_x": 0,
-          "_y": 3.141592653589793,
-          "_z": 0,
-          "_order": "YXZ"
-        },
         "byond_id": "artBoards_11111",
         "id": "1",
         "title": "Clear Spring",
@@ -43,6 +19,16 @@
           "bottom": 4.5,
           "left": 3,
           "rigth": 3
+        },
+        "position": {
+          "x": 49.05065174379297,
+          "y": 36.51899440391523,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
         },
         "looks": [],
         "custom_attributes": [
@@ -158,6 +144,20 @@
             }
           }
         ],
+        "metadataName": "Element3DMetadata",
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
         "screens": [
           {
             "metadataName": "Element3DMetadata",
@@ -205,7 +205,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_22222",
+        "id": "2",
+        "title": "Nine To Five",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": 14.324891376034493,
           "y": 36.51899440391523,
@@ -216,6 +225,8 @@
           "y": 1,
           "z": 1
         },
+        "looks": [],
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -229,17 +240,6 @@
           "_z": 0,
           "_order": "YXZ"
         },
-        "byond_id": "artBoards_22222",
-        "id": "2",
-        "title": "Nine To Five",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
-        },
-        "looks": [],
         "screens": [
           {
             "metadataName": "Element3DMetadata",
@@ -287,7 +287,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_33333",
+        "id": "2",
+        "title": "Color Inspiration",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": -20.569646147708205,
           "y": 36.35021724793099,
@@ -298,6 +307,7 @@
           "y": 1,
           "z": 1
         },
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -310,16 +320,6 @@
           "_y": 3.141592653589793,
           "_z": 0,
           "_order": "YXZ"
-        },
-        "byond_id": "artBoards_33333",
-        "id": "2",
-        "title": "Color Inspiration",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
         },
         "screens": [
           {
@@ -366,7 +366,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_44444",
+        "id": "4",
+        "title": "Ambiance",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": -55.57482260139268,
           "y": 36.35574648736024,
@@ -377,6 +386,7 @@
           "y": 1,
           "z": 1
         },
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -389,16 +399,6 @@
           "_y": 3.141592653589793,
           "_z": 0,
           "_order": "YXZ"
-        },
-        "byond_id": "artBoards_44444",
-        "id": "4",
-        "title": "Ambiance",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
         },
         "screens": [
           {
@@ -576,7 +576,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_55555",
+        "id": "5",
+        "title": "Social Feed",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": -55.48942211157519,
           "y": -1.4667930772883366,
@@ -587,6 +596,7 @@
           "y": 1,
           "z": 1
         },
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -599,16 +609,6 @@
           "_y": 3.141592653589793,
           "_z": 0,
           "_order": "YXZ"
-        },
-        "byond_id": "artBoards_55555",
-        "id": "5",
-        "title": "Social Feed",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
         },
         "screens": [
           {
@@ -657,7 +657,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_7",
+        "id": "7",
+        "title": "Boho Chic",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": 14.596560688015664,
           "y": -1.2103179359529506,
@@ -668,6 +677,7 @@
           "y": 1,
           "z": 1
         },
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -680,16 +690,6 @@
           "_y": 3.141592653589793,
           "_z": 0,
           "_order": "YXZ"
-        },
-        "byond_id": "artBoards_7",
-        "id": "7",
-        "title": "Boho Chic",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
         },
         "screens": [
           {
@@ -738,7 +738,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_8",
+        "id": "8",
+        "title": "Ranges",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": -19.933285997887314,
           "y": -77.09597465798117,
@@ -749,6 +758,7 @@
           "y": 1,
           "z": 1
         },
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -761,16 +771,6 @@
           "_y": 3.141592653589793,
           "_z": 0,
           "_order": "YXZ"
-        },
-        "byond_id": "artBoards_8",
-        "id": "8",
-        "title": "Ranges",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
         },
         "screens": [
           {
@@ -819,7 +819,16 @@
         ]
       },
       {
-        "metadataName": "Element3DMetadata",
+        "byond_id": "artBoards_33333111",
+        "id": "2",
+        "title": "Ranges Mix&Match",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
         "position": {
           "x": 14.872077171575945,
           "y": -77.0789454143669,
@@ -830,6 +839,7 @@
           "y": 1,
           "z": 1
         },
+        "metadataName": "Element3DMetadata",
         "is_cast_shadow": false,
         "is_receive_shadow": false,
         "backgroundScale": {
@@ -842,16 +852,6 @@
           "_y": 3.141592653589793,
           "_z": 0,
           "_order": "YXZ"
-        },
-        "byond_id": "artBoards_33333111",
-        "id": "2",
-        "title": "Ranges Mix&Match",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "left": 3,
-          "rigth": 3
         },
         "screens": [
           {
@@ -3141,7 +3141,8 @@
                 "show_time": [],
                 "grow_type": "none"
               }
-            ]
+            ],
+            "title": "a"
           },
           {
             "metadataName": "Element3DMetadata",
@@ -3869,7 +3870,8 @@
                   "_order": "YXZ"
                 }
               }
-            ]
+            ],
+            "title": "Elegant"
           }
         ]
       },
@@ -4857,14 +4859,22 @@
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
-            "_id": "5cfd720fb242636152b6e079",
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/6accdd60_7812_430c_b1ec_9d7ce9567a50.png",
+            "medium": "https://viewer.byondxr.com/content/1299/medium/6accdd60_7812_430c_b1ec_9d7ce9567a50.png",
             "title": "media_4",
+            "grow_type": "none",
+            "custom_attributes": [],
+            "byond_id": "cbad6f00-8e11-11e9-9307-714109623f10",
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "_id": "5cfd720fb242636152b6e079",
             "display_video_controls": true,
             "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/6accdd60_7812_430c_b1ec_9d7ce9567a50.png",
-            "medium": "https://viewer.byondxr.com/content/1299/medium/6accdd60_7812_430c_b1ec_9d7ce9567a50.png",
-            "picture": "https://viewer.byondxr.com/content/1299/6accdd60_7812_430c_b1ec_9d7ce9567a50.png",
-            "type": "photo",
-            "byond_id": "cbad6f00-8e11-11e9-9307-714109623f10",
             "video_controls": {
               "scale": {
                 "z": 1,
@@ -4877,15 +4887,7 @@
                 "x": 0
               }
             },
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            },
-            "custom_attributes": [],
-            "show_time": [],
-            "grow_type": "none"
+            "show_time": []
           }
         ]
       },
@@ -5417,17 +5419,6 @@
                     "image": "https://viewer.byondxr.com/content/1198/9bfe2f27_0eaa_4d21_8495_2befeed2f223.png",
                     "color": ""
                   },
-                  "color": {
-                    "icons": [],
-                    "image": "https://viewer.byondxr.com/content/1198/9bfe2f27_0eaa_4d21_8495_2befeed2f223.png",
-                    "color": "",
-                    "colors": [
-                      "#B6A6C4",
-                      "#9D85A8",
-                      "#FAFAFA",
-                      "#7D6C7F"
-                    ]
-                  },
                   "info": {
                     "company": "brawzwear",
                     "garment": "8623-11-30T22:00:00.000Z",
@@ -5474,7 +5465,18 @@
                     "number_size": 64,
                     "waist_size": 71
                   },
-                  "models": []
+                  "models": [],
+                  "color": {
+                    "icons": [],
+                    "image": "https://viewer.byondxr.com/content/1198/9bfe2f27_0eaa_4d21_8495_2befeed2f223.png",
+                    "color": "",
+                    "colors": [
+                      "#B6A6C4",
+                      "#9D85A8",
+                      "#FAFAFA",
+                      "#7D6C7F"
+                    ]
+                  }
                 }
               }
             ],
@@ -5824,114 +5826,6 @@
               {
                 "key": "detail",
                 "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/9bfe2f27_0eaa_4d21_8495_2befeed2f223.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/19d0d0f9_9ed9_40d7_83c7_0d775a5f9770.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
-                    "color": ""
-                  },
-                  "color": {
-                    "icons": [
-                      {
-                        "icon": "https://webxr-apps.byondxr.com/static_assets/pvh_ck/tech.svg"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/1761925d_73c8_4fe3_ac23_d7abe6a70ccc.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/3f3a960f_cf72_4899_9867_58f93989f968.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/758f2a94_7d96_4c19_9b43_14150cb35ba9.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
-                    "color": "",
-                    "colors": [
-                      "#7286BF",
-                      "#5D6FA7",
-                      "#FAFAFA",
-                      "#4A577C"
-                    ]
-                  },
-                  "info": {
-                    "company": "brawzwear",
-                    "garment": "8623-11-30T22:00:00.000Z",
-                    "season": "Winter 2020",
-                    "category": "dress shirt",
-                    "style": "KCMmdo",
-                    "designer": "Roni Gabai",
-                    "title": "blue dress shirt- body",
-                    "sku": "b-6.1",
-                    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ",
-                    "collection": ""
-                  },
-                  "texture": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/3dc7ac11_b9eb_45bc_a09d_561c6fb26381.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/30512022_d1bd_4b90_b427_b2e929148f44.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/3deb5fe5_81e3_46e9_a337_5d7a465cf22a.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/f26eaab6_76cc_42c3_8b74_b4d0f1059444.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/f26eaab6_76cc_42c3_8b74_b4d0f1059444.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
-                    "texture_name": "",
-                    "texture_number": ""
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
                   "models": [
                     {
                       "byond_id": "ce2941c4-9004-11e9-8742-8de704c40735",
@@ -6084,7 +5978,115 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/9bfe2f27_0eaa_4d21_8495_2befeed2f223.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/19d0d0f9_9ed9_40d7_83c7_0d775a5f9770.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "icon": "https://webxr-apps.byondxr.com/static_assets/pvh_ck/tech.svg"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/1761925d_73c8_4fe3_ac23_d7abe6a70ccc.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/3f3a960f_cf72_4899_9867_58f93989f968.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/758f2a94_7d96_4c19_9b43_14150cb35ba9.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
+                    "color": "",
+                    "colors": [
+                      "#7286BF",
+                      "#5D6FA7",
+                      "#FAFAFA",
+                      "#4A577C"
+                    ]
+                  },
+                  "info": {
+                    "company": "brawzwear",
+                    "garment": "8623-11-30T22:00:00.000Z",
+                    "season": "Winter 2020",
+                    "category": "dress shirt",
+                    "style": "KCMmdo",
+                    "designer": "Roni Gabai",
+                    "title": "blue dress shirt- body",
+                    "sku": "b-6.1",
+                    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. ",
+                    "collection": ""
+                  },
+                  "texture": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/3dc7ac11_b9eb_45bc_a09d_561c6fb26381.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/30512022_d1bd_4b90_b427_b2e929148f44.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/3deb5fe5_81e3_46e9_a337_5d7a465cf22a.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/f26eaab6_76cc_42c3_8b74_b4d0f1059444.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/f26eaab6_76cc_42c3_8b74_b4d0f1059444.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
+                    "texture_name": "",
+                    "texture_number": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/12b74936_69b0_4569_94af_aaa01cc4818e.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  }
                 }
               }
             ],
