@@ -4512,7 +4512,7 @@
                     {
                       "byond_id": "0bffd510-9080-11e9-b58f-152ea2361f1d",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/7a862c74_5933_4700_91b5_0f5e2c39e990.glb",
+                      "source": "https://viewer.byondxr.com/content/1198/8b72dae2_e0b2_4757_891f_ea9cb9eaf72b.glb",
                       "custom_attributes": [
                         {
                           "key": "$$set_double_sided_material",
@@ -7124,7 +7124,7 @@
                     {
                       "byond_id": "0bffd508-9080-11e9-b58f-152ea2361f1d",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/7a862c74_5933_4700_91b5_0f5e2c39e990.glb",
+                      "source": "https://viewer.byondxr.com/content/1198/8b72dae2_e0b2_4757_891f_ea9cb9eaf72b.glb",
                       "custom_attributes": [
                         {
                           "key": "$$set_double_sided_material",
@@ -7750,7 +7750,7 @@
                     {
                       "byond_id": "edf0e718-9067-11e9-bd62-35ea067b4ad6",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/7a862c74_5933_4700_91b5_0f5e2c39e990.glb",
+                      "source": "https://viewer.byondxr.com/content/1198/8b72dae2_e0b2_4757_891f_ea9cb9eaf72b.glb",
                       "custom_attributes": [
                         {
                           "key": "$$set_double_sided_material",
