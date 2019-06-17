@@ -6944,7 +6944,7 @@
                     {
                       "byond_id": "0bfffc29-9080-11e9-b58f-152ea2361f1d",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/329e4d95_394b_4079_af63_2ee4ee2d41c1.glb",
+                      "source": "https://viewer.byondxr.com/content/1198/5f1c508f_d6e0_464d_98cb_9a0ee122c808.glb",
                       "custom_attributes": [
                         {
                           "key": "$$set_double_sided_material",
@@ -9029,7 +9029,7 @@
                     {
                       "byond_id": "edf10e35-9067-11e9-bd62-35ea067b4ad6",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/329e4d95_394b_4079_af63_2ee4ee2d41c1.glb",
+                      "source": "https://viewer.byondxr.com/content/1198/5f1c508f_d6e0_464d_98cb_9a0ee122c808.glb",
                       "custom_attributes": [
                         {
                           "key": "$$set_double_sided_material",
