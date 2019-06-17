@@ -2575,170 +2575,6 @@
               "_order": "YXZ"
             },
             "byond_id": "70aae230-9088-11e9-b58f-152ea2361f1d"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -8.766591321913051,
-              "y": 1.9600904655999736,
-              "z": 0
-            },
-            "scale": {
-              "x": 0.5143425060080874,
-              "y": 0.5113148283378112,
-              "z": 0.7420796632381793
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/8553dbe8_042f_4f5a_b078_6345d15a5300.png",
-            "medium": "https://viewer.byondxr.com/content/1198/8553dbe8_042f_4f5a_b078_6345d15a5300.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/8553dbe8_042f_4f5a_b078_6345d15a5300.png",
-            "title": " White Denim",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/92f96b53_711e_425f_af50_5b6145f8077c.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/a37c26ac_82ea_4aac_8532_3d6a8bcd850b.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/8553dbe8_042f_4f5a_b078_6345d15a5300.png",
-                    "color": ""
-                  },
-                  "info": {
-                    "company": "Demo-Fashion",
-                    "garment": "02938fj9",
-                    "season": "summer",
-                    "category": "summer2020",
-                    "style": "Shorts",
-                    "designer": "Emilia",
-                    "title": " White Denim",
-                    "sku": "B-24",
-                    "description": "Women’s Denim Shorts\n\nOff-white color with flowers embodiments.\nWonderful High Waisted Design-Everyone's\nWearing Them. Front & Back Pockets With A\nButton & Zip Fasten.. 100% Cotton. Machine\nWashable",
-                    "collection": "summer 2020"
-                  },
-                  "texture": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/247453a5_9ea9_48bb_8456_f49c4d49bdfc.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/343489bc_4f3d_4bc6_9403_ae8ffec78ab9.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/3c5b6ec3_4597_4908_9a34_231e5ee82d46.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1b2b992e_4b02_451c_8736_abde4a7e73be.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/343489bc_4f3d_4bc6_9403_ae8ffec78ab9.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/8553dbe8_042f_4f5a_b078_6345d15a5300.png",
-                    "texture_name": "",
-                    "texture_number": ""
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/8553dbe8_042f_4f5a_b078_6345d15a5300.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            },
-            "byond_id": "0f5c5760-9089-11e9-b58f-152ea2361f1d"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -7.047724884019993,
-              "y": 5.112955176049979,
-              "z": 0
-            },
-            "scale": {
-              "x": 0.358589961621851,
-              "y": 0.358589961621851,
-              "z": 0.358589961621851
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "byond_id": "990c9a10-9089-11e9-b58f-152ea2361f1d",
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1299/d711f692_d2fa_450b_8bdc_c3461ea3718a.png",
-            "medium": "https://viewer.byondxr.com/content/1299/medium/d711f692_d2fa_450b_8bdc_c3461ea3718a.png",
-            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/d711f692_d2fa_450b_8bdc_c3461ea3718a.png",
-            "display_video_controls": true,
-            "title": "LOOK8-bag",
-            "_id": "5cebc9f9b242636152b6df26",
-            "video_controls": {
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "position": {
-                "x": 0,
-                "y": 0,
-                "z": 10
-              }
-            },
-            "custom_attributes": [],
-            "show_time": [],
-            "grow_type": "none",
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            }
           }
         ],
         "looks": [
@@ -3363,37 +3199,6 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -6.197814642438578,
-              "y": 3.7326048808142316,
-              "z": 0
-            },
-            "scale": {
-              "x": 0.16392540699690947,
-              "y": 0.30537910307945937,
-              "z": 0.3629974002427245
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "backgroundScale": {
-              "x": 1.98,
-              "y": 1.98,
-              "z": 1
-            },
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            },
-            "type": "look",
-            "background": "#ffffff",
-            "byond_id": "green_look",
-            "id": "4",
-            "screens": []
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
               "x": -6.904631095363446,
               "y": -9.89406340072831,
               "z": 0
@@ -3425,14 +3230,14 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -7.0401239567309855,
-              "y": 4.084845539623388,
+              "x": -7.057732151654728,
+              "y": 4.19250306457534,
               "z": 0
             },
             "scale": {
-              "x": 0.2544858420146389,
-              "y": 0.24901220185863793,
-              "z": 0.32294867133750543
+              "x": 0.27283039696167,
+              "y": 0.27283039696167,
+              "z": 0.27283039696167
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
@@ -3449,19 +3254,19 @@
             },
             "type": "look",
             "background": "#ffffff",
-            "byond_id": "b6840c50-9088-11e9-b58f-152ea2361f1d",
+            "byond_id": "e6720260-90e6-11e9-b265-dba3f6913f42",
             "id": "4",
             "screens": [
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
                   "x": 6.626556658110452,
-                  "y": -3.7001249800208775,
+                  "y": -4.621513755681704,
                   "z": 0
                 },
                 "scale": {
-                  "x": -2.17250357587495,
-                  "y": 2.482900109382802,
+                  "x": -2.4127427705572546,
+                  "y": 2.8397968559828826,
                   "z": 1
                 },
                 "is_cast_shadow": false,
@@ -3499,8 +3304,8 @@
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
-                  "x": 0.8742272772961878,
-                  "y": -1.0594095649079076,
+                  "x": 1.3166296781688231,
+                  "y": -1.1703053341627232,
                   "z": 0
                 },
                 "scale": {
@@ -3544,7 +3349,7 @@
                 "metadataName": "Element3DMetadata",
                 "position": {
                   "x": -0.24338224353933668,
-                  "y": -7.139682178052448,
+                  "y": -8.309348383065807,
                   "z": 0
                 },
                 "scale": {
@@ -3587,14 +3392,14 @@
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
-                  "x": -0.4492204443989131,
-                  "y": 9.048847598239362,
+                  "x": -0.8663873206337698,
+                  "y": 9.90152118585167,
                   "z": 0
                 },
                 "scale": {
-                  "x": -1.7909878451693668,
-                  "y": 1.614096119368844,
-                  "z": 0.8410115666449908
+                  "x": -2.1295638683235634,
+                  "y": 1.9192317720526535,
+                  "z": 1
                 },
                 "is_cast_shadow": false,
                 "is_receive_shadow": false,
@@ -3630,14 +3435,14 @@
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
-                  "x": 6.805285776621588,
-                  "y": -8.982311284988599,
+                  "x": 7.4153309555049916,
+                  "y": -10.158498508586547,
                   "z": 0
                 },
                 "scale": {
-                  "x": 2.1223623143375674,
-                  "y": 2.219474288657698,
-                  "z": 0.8399503717172252
+                  "x": 2.5267710876757308,
+                  "y": 2.642387411675435,
+                  "z": 1
                 },
                 "is_cast_shadow": false,
                 "is_receive_shadow": false,
@@ -3675,14 +3480,59 @@
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
-                  "x": 7.456049302563325,
-                  "y": 6.2054818608942846,
+                  "x": -7.241135919480598,
+                  "y": -9.845692676240946,
                   "z": 0
                 },
                 "scale": {
-                  "x": 2.3217910235498573,
-                  "y": 2.5609908254784077,
-                  "z": 0.7765278376667261
+                  "x": 2.5856691054382126,
+                  "y": 2.4730450395665486,
+                  "z": 1
+                },
+                "is_cast_shadow": false,
+                "is_receive_shadow": false,
+                "byond_id": "636f940d_4e95_4f04_99a9_7f43e1ca3b30",
+                "type": "photo",
+                "picture": "https://viewer.byondxr.com/content/1299/5398b298_13ab_49b6_9f40_45a52defa0de.png",
+                "medium": "https://viewer.byondxr.com/content/1299/medium/5398b298_13ab_49b6_9f40_45a52defa0de.png",
+                "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/5398b298_13ab_49b6_9f40_45a52defa0de.png",
+                "animated_gif": true,
+                "display_video_controls": true,
+                "title": "LOOK1- white pants ",
+                "_id": "5cea00f0b242636152b6de09",
+                "video_controls": {
+                  "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                  },
+                  "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 10
+                  }
+                },
+                "rotation": {
+                  "_x": 0,
+                  "_y": 3.141592653589793,
+                  "_z": 0,
+                  "_order": "YXZ"
+                },
+                "custom_attributes": [],
+                "show_time": [],
+                "grow_type": "none"
+              },
+              {
+                "metadataName": "Element3DMetadata",
+                "position": {
+                  "x": 7.456048314037545,
+                  "y": 6.607311075537986,
+                  "z": 0
+                },
+                "scale": {
+                  "x": 2.989964958019103,
+                  "y": 3.2980025972714015,
+                  "z": 1
                 },
                 "is_cast_shadow": false,
                 "is_receive_shadow": false,
@@ -3719,14 +3569,14 @@
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
-                  "x": -7.1974253002695345,
-                  "y": 4.863556433570695,
+                  "x": -7.896423382696128,
+                  "y": 5.131442576666494,
                   "z": 0
                 },
                 "scale": {
-                  "x": 1.9987421149591948,
-                  "y": 2.004078607406184,
-                  "z": 0.7789767359081566
+                  "x": 2.565855978521612,
+                  "y": 2.5727066227077544,
+                  "z": 1
                 },
                 "is_cast_shadow": false,
                 "is_receive_shadow": false,
@@ -3763,8 +3613,8 @@
               {
                 "metadataName": "Element3DMetadata",
                 "position": {
-                  "x": -7.420809546104827,
-                  "y": -4.02083482148664,
+                  "x": -6.13619969371539,
+                  "y": -4.5790846011520845,
                   "z": 0
                 },
                 "scale": {
@@ -3847,6 +3697,50 @@
                 "custom_attributes": [],
                 "show_time": [],
                 "grow_type": "none"
+              },
+              {
+                "metadataName": "Element3DMetadata",
+                "position": {
+                  "x": -0.6394644344197857,
+                  "y": 4.984587044908977,
+                  "z": 0
+                },
+                "scale": {
+                  "x": 1.5846153846175564,
+                  "y": 1.5938697318003492,
+                  "z": 1
+                },
+                "is_cast_shadow": false,
+                "is_receive_shadow": false,
+                "_id": "5cebc9f9b242636152b6df21",
+                "title": "LOOK8-bag",
+                "display_video_controls": true,
+                "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/d711f692_d2fa_450b_8bdc_c3461ea3718a.png",
+                "medium": "https://viewer.byondxr.com/content/1299/medium/d711f692_d2fa_450b_8bdc_c3461ea3718a.png",
+                "picture": "https://viewer.byondxr.com/content/1299/d711f692_d2fa_450b_8bdc_c3461ea3718a.png",
+                "type": "photo",
+                "byond_id": "6e5a5efa_2ea5_45d4_b03f_e2235db8e44c",
+                "video_controls": {
+                  "scale": {
+                    "z": 1,
+                    "y": 1,
+                    "x": 1
+                  },
+                  "position": {
+                    "z": 10,
+                    "y": 0,
+                    "x": 0
+                  }
+                },
+                "custom_attributes": [],
+                "show_time": [],
+                "grow_type": "none",
+                "rotation": {
+                  "_x": 0,
+                  "_y": 3.141592653589793,
+                  "_z": 0,
+                  "_order": "YXZ"
+                }
               }
             ]
           }
@@ -8278,13 +8172,13 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 49.25839029612391,
-          "y": -37.22680672132364,
+          "y": -37.604374161309785,
           "z": 0
         },
         "scale": {
-          "x": 1.1301625946506348,
-          "y": 1.0222126828486782,
-          "z": 1.1301625946506348
+          "x": 0.9978346719279573,
+          "y": 0.8849576244978291,
+          "z": 1.3996532053197792
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
