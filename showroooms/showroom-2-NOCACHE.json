@@ -7598,7 +7598,7 @@
           "_z": 0,
           "_order": "YXZ"
         },
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/HANGER_WALL/2048_hanger_wall.png",
         "padding": {
           "top": 3,
           "bottom": 4.5,
@@ -7608,50 +7608,6 @@
         "title": "e",
         "byond_id": "9f9ad540-8d2d-11e9-acc3-65429fc579c8",
         "screens": [
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 0.9652937837793099,
-              "y": -6.415467578950684,
-              "z": 0
-            },
-            "scale": {
-              "x": 9.977472955146494,
-              "y": 10.21496454750239,
-              "z": 1.1811204245108136
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "byond_id": "a28898c0-8e11-11e9-9307-714109623f10",
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1299/3c8fc5bb_8f2c_4024_bb45_8b7f79878628.png",
-            "medium": "https://viewer.byondxr.com/content/1299/medium/3c8fc5bb_8f2c_4024_bb45_8b7f79878628.png",
-            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/3c8fc5bb_8f2c_4024_bb45_8b7f79878628.png",
-            "display_video_controls": true,
-            "title": "***white backround",
-            "_id": "5cebdf0cb242636152b6df3f",
-            "video_controls": {
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "position": {
-                "x": 0,
-                "y": 0,
-                "z": 10
-              }
-            },
-            "custom_attributes": [],
-            "show_time": [],
-            "grow_type": "none",
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            }
-          },
           {
             "metadataName": "Element3DMetadata",
             "position": {
