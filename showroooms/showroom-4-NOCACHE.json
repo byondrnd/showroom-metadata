@@ -301,8 +301,8 @@
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 14.672331052608591,
-          "y": 36.244243077963475,
+          "x": 14.516691658801292,
+          "y": 36.24424307796295,
           "z": 0
         },
         "scale": {
@@ -469,7 +469,7 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 49.81853070525246,
-          "y": -37.772656020959154,
+          "y": -38.0295887396088,
           "z": 0
         },
         "scale": {
@@ -492,7 +492,7 @@
         },
         "byond_id": "artBoards_8",
         "id": "8",
-        "title": "e",
+        "title": "Ranges",
         "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
         "padding": {
           "top": 3,
@@ -6119,13 +6119,13 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 14.611829556604881,
-          "y": -38.276709852554525,
+          "y": -38.79104830520495,
           "z": 0
         },
         "scale": {
-          "x": 1.1360208312488502,
-          "y": 1.0892757018919192,
-          "z": 1.4698014392131031
+          "x": 1.1692084722057843,
+          "y": 1.1210977335863208,
+          "z": 1.5127401258118034
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
@@ -6147,7 +6147,7 @@
           "rigth": 3,
           "left": 3
         },
-        "title": "Men's Collection",
+        "title": "Spring 2020",
         "byond_id": "9f9ad540-8d2d-11e9-acc3-65429fc579c8",
         "screens": [
           {
@@ -6724,7 +6724,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 0.24287156003571547,
-              "y": -1.572495917333411,
+              "y": -0.8964719641101676,
               "z": 0
             },
             "scale": {
@@ -7019,8 +7019,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -5.04802046474984,
-              "y": -1.5508665464454938,
+              "x": -4.788737731233232,
+              "y": -0.739637802576608,
               "z": 0
             },
             "scale": {
@@ -7296,7 +7296,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 5.3342732571998415,
-              "y": -1.540554713681917,
+              "y": -0.9997355511043162,
               "z": 0
             },
             "scale": {
@@ -7577,8 +7577,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -6.0052269013291255,
-              "y": -7.131475223090782,
+              "x": -6.005226901329126,
+              "y": -6.41038300631569,
               "z": 0
             },
             "scale": {
@@ -7742,8 +7742,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 0.23798927287909938,
-              "y": -7.179032103194731,
+              "x": 0.3244168507175727,
+              "y": -6.3227350957789525,
               "z": 0
             },
             "scale": {
@@ -8033,8 +8033,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 6.795280867707197,
-              "y": -7.336449384674445,
+              "x": 6.708853289868727,
+              "y": -6.254811059514281,
               "z": 0
             },
             "scale": {
@@ -8199,7 +8199,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 3.573232223540356,
-              "y": -7.176801832266832,
+              "y": -6.320504824846091,
               "z": 0
             },
             "scale": {
@@ -8364,7 +8364,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": -2.801731001985208,
-              "y": -7.164838449416258,
+              "y": -6.398677969094272,
               "z": 0
             },
             "scale": {
@@ -8817,7 +8817,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 3.5044054321177747,
-              "y": -11.89027040412148,
+              "y": -10.853700342508203,
               "z": 0
             },
             "scale": {
@@ -9073,7 +9073,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 0.27198676555966994,
-              "y": -11.875613732973953,
+              "y": -10.839760716876047,
               "z": 0
             },
             "scale": {
@@ -9113,8 +9113,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -2.8671012075720337,
-              "y": -11.808837372276237,
+              "x": -2.823887418651609,
+              "y": -10.99760862840735,
               "z": 0
             },
             "scale": {
@@ -9158,7 +9158,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 8.112941243311642,
-              "y": 1.0187109141787922,
+              "y": 1.4243252861157132,
               "z": 0
             },
             "scale": {
@@ -9206,7 +9206,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": -0.9769146212311863,
-              "y": 0.09353042440197412,
+              "y": 1.0399625992204293,
               "z": 0
             },
             "scale": {
@@ -9302,7 +9302,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": 2.198493682633565,
-              "y": -4.701667504376145,
+              "y": -4.025644570919097,
               "z": 0
             },
             "scale": {
@@ -9380,7 +9380,7 @@
           "rigth": 3,
           "left": 3
         },
-        "title": "mix & match creation",
+        "title": "Mix&Match",
         "byond_id": "3230c5e0-8d2e-11e9-acc3-65429fc579c8",
         "screens": [
           {
@@ -9932,14 +9932,14 @@
           "rigth": 3,
           "left": 3
         },
-        "title": "New Artboard",
+        "title": "winter 2021",
         "byond_id": "f8b8ded0-8dd0-11e9-9054-bf3507d0450d",
         "screens": [
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 3.273165844180196,
-              "y": -5.464492407100245,
+              "x": 3.640174412359827,
+              "y": -5.097483838919346,
               "z": 0
             },
             "scale": {
@@ -10531,7 +10531,7 @@
           "rigth": 3,
           "left": 3
         },
-        "title": "New Artboard",
+        "title": "summer process",
         "byond_id": "8a0b74c0-9118-11e9-a11f-cd6a672f6b23"
       }
     ]
