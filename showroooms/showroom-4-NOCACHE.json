@@ -1,5 +1,5 @@
 {
-  "title": "Byond Apparel Demo Showroom",
+  "title": "PI Demo - Design Review Draft",
   "byond_id": "showroom_11111",
   "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
   "id": "1",
@@ -479,7 +479,7 @@
         },
         "scale": {
           "x": 1.0025767743408427,
-          "y": 0.9122239825117534,
+          "y": 0.84,
           "z": 0.9030977818386142
         },
         "is_cast_shadow": false,
