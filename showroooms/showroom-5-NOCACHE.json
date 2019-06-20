@@ -37,7 +37,7 @@
         "byond_id": "artBoards_22222",
         "id": "2",
         "title": "Spring",
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/512_png/512_basic.png",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
         "padding": {
           "top": 3,
           "bottom": 4.5,
@@ -1104,7 +1104,7 @@
           "_z": 0,
           "_order": "YXZ"
         },
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/512_png/512_basic.png",
         "padding": {
           "top": 3,
           "bottom": 4.5,
