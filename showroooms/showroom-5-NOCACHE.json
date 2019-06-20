@@ -1,2064 +1,2099 @@
 {
-    "title": "PI Demo - Wholesale Draft",
-    "byond_id": "showroom_555555",
-    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
-    "id": "1",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "canvas": {
-      "byond_id": "canvas_11111",
-      "background": "#ffffff",
-      "title": "Pucci Wholesale Demo Showroom",
-      "artBoards": [
-        {
-          "metadataName": "Element3DMetadata",
-          "position": {
-            "x": -20.5111557217866,
-            "y": 36.38603239209158,
-            "z": 0
-          },
-          "scale": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "is_cast_shadow": false,
-          "is_receive_shadow": false,
-          "backgroundScale": {
-            "x": 9,
-            "y": 9,
-            "z": 1
-          },
-          "rotation": {
-            "_x": 0,
-            "_y": 3.141592653589793,
-            "_z": 0,
-            "_order": "YXZ"
-          },
-          "byond_id": "artBoards_22222",
-          "id": "2",
-          "title": "Spring",
-          "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-          "padding": {
-            "top": 3,
-            "bottom": 4.5,
-            "left": 3,
-            "rigth": 3
-          },
-          "looks": [],
-          "screens": [
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -5.6511143832334,
-                "y": -8.621102333085496,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.7367507634971913,
-                "y": 1.7367507634971913,
-                "z": 1.7367507634971913
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/e7600932_d43a_47f6_abfd_f20c6703cd25.png",
-              "medium": "https://viewer.byondxr.com/content/1198/e7600932_d43a_47f6_abfd_f20c6703cd25.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/e7600932_d43a_47f6_abfd_f20c6703cd25.png",
-              "title": "MODEL2",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "MODEL2",
-                      "sku": " B-59",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "372ecfc0-92c8-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 4.1079134141116,
-                "y": -8.545593634952716,
-                "z": 0
-              },
-              "scale": {
-                "x": 3.8349854873040257,
-                "y": 1.8309051635812759,
-                "z": 0.9213984810418014
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
-              "medium": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
-              "title": "insparation pucci2",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci2",
-                      "sku": "B-41",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "4b651120-92c8-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.8695448509698878,
-                "y": 0.5685057888693308,
-                "z": 0
-              },
-              "scale": {
-                "x": 5.724176031310072,
-                "y": 5.072942072155244,
-                "z": 5.724176031310072
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/34509ee3_f3be_4391_bcde_6e80805488b3.png",
-              "medium": "https://viewer.byondxr.com/content/1198/34509ee3_f3be_4391_bcde_6e80805488b3.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/34509ee3_f3be_4391_bcde_6e80805488b3.png",
-              "title": "MODEL2",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "MODEL2",
-                      "sku": " B-59",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "be1b12a0-92d7-11e9-bcd2-6fbe25076c9d"
-            }
-          ]
-        },
-        {
-          "metadataName": "Element3DMetadata",
-          "position": {
-            "x": -54.778049398428266,
-            "y": 36.35574648736024,
-            "z": 0
-          },
-          "scale": {
-            "x": 1,
-            "y": 1,
-            "z": 1
-          },
-          "is_cast_shadow": false,
-          "is_receive_shadow": false,
-          "backgroundScale": {
-            "x": 9,
-            "y": 9,
-            "z": 1
-          },
-          "rotation": {
-            "_x": 0,
-            "_y": 3.141592653589793,
-            "_z": 0,
-            "_order": "YXZ"
-          },
-          "byond_id": "artBoards_44444",
-          "id": "4",
-          "title": "Ambiance",
-          "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-          "padding": {
-            "top": 3,
-            "bottom": 4.5,
-            "left": 3,
-            "rigth": 3
-          },
-          "screens": [
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -6.87170973625274,
-                "y": 1.9093584376628527,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.5640285792679443,
-                "y": 1.6288295481621196,
-                "z": 0.7352344760217725
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
-              "medium": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
-              "title": "insparation pucci2",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci2",
-                      "sku": "B-41",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "f4bb3310-92ac-11e9-a17c-8fe6911670fb"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.25000428003846054,
-                "y": 1.785967015236558,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.2773305250205085,
-                "y": 2.303998199299368,
-                "z": 2.99638124255383
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/c1089fab_5a96_4c52_a358_6e75aaf58802.png",
-              "medium": "https://viewer.byondxr.com/content/1299/c1089fab_5a96_4c52_a358_6e75aaf58802.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/c1089fab_5a96_4c52_a358_6e75aaf58802.png",
-              "title": "insparation pucci 1",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci 1",
-                      "sku": "B-40",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "25a727e0-92ad-11e9-a17c-8fe6911670fb"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -6.85393690095804,
-                "y": -7.319233863700543,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.5831420290957507,
-                "y": 2.937928721765428,
-                "z": 0.7012918685162355
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/fb5b6ccc_29b0_46f4_846a_e5aeab4b520a.png",
-              "medium": "https://viewer.byondxr.com/content/1299/fb5b6ccc_29b0_46f4_846a_e5aeab4b520a.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/fb5b6ccc_29b0_46f4_846a_e5aeab4b520a.png",
-              "title": "insparation pucci4",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci4",
-                      "sku": "B-43",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "27df3d90-92ad-11e9-a17c-8fe6911670fb"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.32586287804240754,
-                "y": -4.817985002974979,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.3305326508807007,
-                "y": 2.0326703930758545,
-                "z": 2.0326703930758545
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/41f6ae9e_ea05_4de4_9fc8_a6eba50e0be0.png",
-              "medium": "https://viewer.byondxr.com/content/1299/41f6ae9e_ea05_4de4_9fc8_a6eba50e0be0.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/41f6ae9e_ea05_4de4_9fc8_a6eba50e0be0.png",
-              "title": "insparation pucci3",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci3",
-                      "sku": "B-42",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "290c4be0-92ad-11e9-a17c-8fe6911670fb"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 7.980724466162279,
-                "y": -3.372301546858342,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.8933554503879562,
-                "y": 4.10201963993155,
-                "z": 2.356317040049613
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/cd0a21a8_d2f7_4a91_bcf9_18c09825dd57.png",
-              "medium": "https://viewer.byondxr.com/content/1299/cd0a21a8_d2f7_4a91_bcf9_18c09825dd57.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/cd0a21a8_d2f7_4a91_bcf9_18c09825dd57.png",
-              "title": "insparation pucci5",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci5",
-                      "sku": "B-44",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "2a181690-92ad-11e9-a17c-8fe6911670fb"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.3785519637938535,
-                "y": -9.937579986391455,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.3271135557003984,
-                "y": 0.8450050589138477,
-                "z": 0.9487776100084889
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/daa345fb_8f30_4acd_8135_103ae8a2f2f7.png",
-              "medium": "https://viewer.byondxr.com/content/1198/daa345fb_8f30_4acd_8135_103ae8a2f2f7.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/daa345fb_8f30_4acd_8135_103ae8a2f2f7.png",
-              "title": "insparation pucci 6",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "insparation pucci 6",
-                      "sku": "B-50",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "34dbc290-92c9-11e9-af27-4dcae894077b"
-            }
-          ]
-        },
-        {
-          "metadataName": "Element3DMetadata",
-          "position": {
-            "x": -54.5625972035166,
-            "y": -1.225050469461566,
-            "z": 0
-          },
-          "scale": {
-            "x": 0.9999999999999837,
-            "y": 0.9999999999999837,
-            "z": 0.9999999999999837
-          },
-          "is_cast_shadow": false,
-          "is_receive_shadow": false,
-          "backgroundScale": {
-            "x": 9,
-            "y": 9,
-            "z": 1
-          },
-          "rotation": {
-            "_x": 0,
-            "_y": 3.141592653589793,
-            "_z": 0,
-            "_order": "YXZ"
-          },
-          "byond_id": "artBoards_55555",
-          "id": "5",
-          "title": "Social Feed",
-          "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-          "padding": {
-            "top": 3,
-            "bottom": 4.5,
-            "left": 3,
-            "rigth": 3
-          },
-          "screens": [
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.49452255465202166,
-                "y": -3.099681951349409,
-                "z": 0
-              },
-              "scale": {
-                "x": 8.169813890457611,
-                "y": 8.169813890457611,
-                "z": 8.169813890457611
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "_id": "5d09e2c6b242636152b6e45b",
-              "title": "pucci video",
-              "display_video_controls": true,
-              "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.png",
-              "medium": "https://viewer.byondxr.com/content/1299/medium/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.png",
-              "picture": "https://viewer.byondxr.com/content/1299/thumb/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.png",
-              "source": "https://viewer.byondxr.com/content/1299/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.mp4",
-              "type": "video",
-              "byond_id": "3c8ea290-92d9-11e9-bcd2-6fbe25076c9d",
-              "video_controls": {
-                "scale": {
-                  "z": 1,
-                  "y": 1,
-                  "x": 1
-                },
-                "position": {
-                  "z": 10,
-                  "y": 0,
-                  "x": 0
-                }
-              },
-              "custom_attributes": [],
-              "show_time": [],
-              "grow_type": "none",
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              }
-            }
-          ]
-        },
-        {
-          "metadataName": "Element3DMetadata",
-          "position": {
-            "x": 13.65122120106767,
-            "y": -1.3316729635775348,
-            "z": 0
-          },
-          "scale": {
-            "x": 1.0090847933905676,
-            "y": 0.9955007898456347,
-            "z": 1.0090847933905676
-          },
-          "is_cast_shadow": false,
-          "is_receive_shadow": false,
-          "backgroundScale": {
-            "x": 9,
-            "y": 9,
-            "z": 1
-          },
-          "rotation": {
-            "_x": 0,
-            "_y": 3.141592653589793,
-            "_z": 0,
-            "_order": "YXZ"
-          },
-          "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_grid.png",
-          "padding": {
-            "top": 3,
-            "bottom": 4.5,
-            "rigth": 3,
-            "left": 3
-          },
-          "title": "Mix & Match",
-          "byond_id": "3230c5e0-8d2e-11e9-acc3-65429fc579c8",
-          "screens": [
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -4.279568218778257,
-                "y": -2.7972651398363704,
-                "z": 0
-              },
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "title": "hanger",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "models": []
-                  }
-                }
-              ],
-              "byond_id": "c4693ee0-8dcb-11e9-a038-71004edbaf5d",
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              }
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 4.26476394371751,
-                "y": -3.3989294024580636,
-                "z": 0
-              },
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "title": "hanger",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "models": []
-                  }
-                }
-              ],
-              "byond_id": "c634d720-8dcb-11e9-a038-71004edbaf5d",
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              }
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 4.095084321801176,
-                "y": 4.779999576043094,
-                "z": 0
-              },
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "title": "hanger",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "hanger",
-                      "sku": "B-17",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "dc239650-90de-11e9-ac76-e50807640564"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 4.346687533609625,
-                "y": -7.9606360732612576,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.015325485733184,
-                "y": 2.015325485733184,
-                "z": 2.015325485733184
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
-              "medium": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
-              "title": "dress1",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "dress1",
-                      "sku": "B-45",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a2c-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/cf4502dc_8ba0_475a_9083_8f564a342427.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a2d-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/dfba6fb0_23b3_41fa_b0ca_2ab293b40872.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a2e-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/062ff1c5_f12d_44c6_91f4_32d335aa4800.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "8c34cb30-92ca-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 4.2012421960975095,
-                "y": 0.8263337859302176,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.933790628127495,
-                "y": 1.8307519838910613,
-                "z": 1.3374157709347965
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
-              "medium": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
-              "title": "Yellow Silk Shirt",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Yellow Silk Shirt",
-                      "sku": "B-49",
-                      "description": "This sunshine-yellow silk shirt is styled with a collapsed collar, designed to slope sensually from the collarbones. Effortlessly elegant, it has a front button closure and an elongated hem for versatility.",
-                      "collection": "Women / Clothing"
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a37-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/9413578c_265f_4f1f_a800_89c8c0962115.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a38-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/3421455f_3d21_4a14_b6c6_8e049e953f94.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a39-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/47008bc7_c88e_4a50_b54c_0c9bc5ed322e.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "8e88f460-92ca-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -4.145429473871826,
-                "y": -8.518912054152068,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.6575086395946235,
-                "y": 2.651812111551512,
-                "z": 2.2826986408338614
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
-              "medium": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
-              "title": "Mirabilis Print Plissé Pleated Skirt",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Mirabilis Print Plissé Pleated Skirt",
-                      "sku": "B-48",
-                      "description": "Ultra-fine pleats bring weightless movement to this ankle-skimming skirt. It's crafted to sit high on the waist for a flattering silhouette, and printed with the new season Mirabilis pattern – a floral design inspired by the vibrant beauty of South America.",
-                      "collection": "Women / Clothing"
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a34-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/4b182074_b2c0_492f_82ac_e6937334e099.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a35-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/c0163bf5_66f7_4cb9_9e25_ffed2935ef56.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a36-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/7a37f10b_c546_4ebb_af03_decef7e84fa4.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "8ffe2f40-92ca-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -3.8971563352953593,
-                "y": 4.896327871210354,
-                "z": 0
-              },
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
-              "title": "hanger",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "hanger",
-                      "sku": "B-17",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "af55ae50-92d8-11e9-bcd2-6fbe25076c9d"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -3.549160890279194,
-                "y": 1.4668351286741763,
-                "z": 0
-              },
-              "scale": {
-                "x": 1,
-                "y": 1,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/305179c0_b595_4005_985c_7f06fbacf1a9.png",
-              "medium": "https://viewer.byondxr.com/content/1198/305179c0_b595_4005_985c_7f06fbacf1a9.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/305179c0_b595_4005_985c_7f06fbacf1a9.png",
-              "title": "Burle Print Scarf",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Burle Print Scarf",
-                      "sku": "B-56",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "84c2db29-92d6-11e9-bcd2-6fbe25076c9d",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/8dde78e3_7ad1_4149_9022_b9b66af592c4.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "84c2db2a-92d6-11e9-bcd2-6fbe25076c9d",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/9cd6fa8b_97d9_4c2f_ada2_624b449ebbd0.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "b1672930-92d8-11e9-bcd2-6fbe25076c9d"
-            }
-          ]
-        },
-        {
-          "metadataName": "Element3DMetadata",
-          "position": {
-            "x": 13.72472453982283,
-            "y": 37.50599432531428,
-            "z": 0
-          },
-          "scale": {
-            "x": 1.0044313183067362,
-            "y": 0.8899686510544341,
-            "z": 1.0044313183067362
-          },
-          "is_cast_shadow": false,
-          "is_receive_shadow": false,
-          "backgroundScale": {
-            "x": 9,
-            "y": 9,
-            "z": 1
-          },
-          "rotation": {
-            "_x": 0,
-            "_y": 3.141592653589793,
-            "_z": 0,
-            "_order": "YXZ"
-          },
-          "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-          "padding": {
-            "top": 3,
-            "bottom": 4.5,
-            "rigth": 3,
-            "left": 3
-          },
-          "title": "From catalog",
-          "byond_id": "f8b8ded0-8dd0-11e9-9054-bf3507d0450d",
-          "screens": [
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.47264732386893155,
-                "y": -6.850516764368422,
-                "z": 0
-              },
-              "scale": {
-                "x": 7.196004621129414,
-                "y": 7.30703833524994,
-                "z": 7.376322368920462
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-              "medium": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-              "title": "white backround",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "white backround",
-                      "sku": "B-20",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "b5da1180-92c9-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -4.806558929630223,
-                "y": -2.3228916618951523,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.696283075786482,
-                "y": 1.8724905812195844,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
-              "medium": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
-              "title": "model5",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "model5",
-                      "sku": "B-63",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "b5c2e230-92d8-11e9-bcd2-6fbe25076c9d"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -4.709068154883492,
-                "y": -12.157194475258171,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.7326060866171222,
-                "y": 1.9031784102310714,
-                "z": 0.8055146338468201
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
-              "medium": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
-              "title": "model4",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "model4",
-                      "sku": "B-62",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "b6d38ee0-92d8-11e9-bcd2-6fbe25076c9d"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 4.153428290588382,
-                "y": -7.845396344498721,
-                "z": 0
-              },
-              "scale": {
-                "x": 4.608187570331762,
-                "y": 4.726415941730761,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png",
-              "medium": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png",
-              "title": "La Villa Print Bead-Embroidered Dress",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "La Villa Print Bead-Embroidered Dress",
-                      "sku": "B-64",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "84c2db2e-92d6-11e9-bcd2-6fbe25076c9d",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/5cbcc470_d478_41ac_8cd4_c2bb7b2031d6.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "84c2db2f-92d6-11e9-bcd2-6fbe25076c9d",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "84c2db30-92d6-11e9-bcd2-6fbe25076c9d",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "bbcf5870-92d8-11e9-bcd2-6fbe25076c9d"
-            }
-          ],
-          "looks": []
-        },
-        {
-          "metadataName": "Element3DMetadata",
-          "position": {
-            "x": -20.525800932113306,
-            "y": -1.2002025132216332,
-            "z": 0
-          },
-          "scale": {
-            "x": 1.0112826271007562,
-            "y": 1.0112826271007562,
-            "z": 1.0112826271007562
-          },
-          "is_cast_shadow": false,
-          "is_receive_shadow": false,
-          "backgroundScale": {
-            "x": 9,
-            "y": 9,
-            "z": 1
-          },
-          "rotation": {
-            "_x": 0,
-            "_y": 3.141592653589793,
-            "_z": 0,
-            "_order": "YXZ"
-          },
-          "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
-          "padding": {
-            "top": 3,
-            "bottom": 4.5,
-            "rigth": 3,
-            "left": 3
-          },
-          "title": "PUCCI",
-          "byond_id": "f60c9bc0-910b-11e9-abfe-af7d56610d6c",
-          "screens": [
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.29433424705313194,
-                "y": -3.921377147586595,
-                "z": 0
-              },
-              "scale": {
-                "x": 6.728813559322796,
-                "y": 6.362068965517219,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-              "medium": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-              "title": "white backround",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "white backround",
-                      "sku": "B-20",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": []
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "a64ba2c0-92c8-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -2.6251046669402136,
-                "y": -10.498113918752535,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.3410202817875982,
-                "y": 1.3675154715230387,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/85ee3c39_6131_415e_b57d_86ad013ea3dc.png",
-              "medium": "https://viewer.byondxr.com/content/1299/85ee3c39_6131_415e_b57d_86ad013ea3dc.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/85ee3c39_6131_415e_b57d_86ad013ea3dc.png",
-              "title": "bag",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "bag",
-                      "sku": "B-46",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a2f-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/c95e71aa_79f1_4f86_9dcd_e17cbd0753c6.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a30-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/dc35bbef_ce27_4941_b737_da291577d969.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a31-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/8c94941d_ebae_43da_bc5d_5826ac498d1b.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "d8665390-92c8-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.8672198677140813,
-                "y": -10.926462722926505,
-                "z": 0
-              },
-              "scale": {
-                "x": 0.9278079959035589,
-                "y": 0.9823842548716808,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
-              "medium": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
-              "title": "Vallauris print Bonita mini bucket bag",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "variety": {
-                      "icons": [
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/f83f14b2_a652_44d0_9976_6d08c29685c4.png"
-                        }
-                      ],
-                      "image": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
-                      "color": ""
-                    },
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Vallauris print Bonita mini bucket bag",
-                      "sku": "B-55",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a3d-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/5570c1b5_e0e8_4b77_874d_4817ad4bbbef.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a3e-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/b100e1f5_64da_4932_b017_1cf27c1a99b9.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "dadf69e0-92c8-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -6.166826583028186,
-                "y": -10.47865337013736,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.336640891418702,
-                "y": 1.368665438714186,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png",
-              "medium": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png",
-              "title": "Transparent Purple Twist Tote Bag",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Transparent Purple Twist Tote Bag",
-                      "sku": "B-58",
-                      "description": "This transparent purple tote bag will take you from the beach to city with ease. It's printed with the house's logo across the front and includes a detachable zipped pouch in the season's key Burle print.",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a41-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/f7c90961_42f1_4d49_9f92_42f4b343d3b0.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a42-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/90b83c24_d54b_4868_b998_32550d18b790.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a43-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/ce50f802_0f68_494f_b58d_a45c5c5f979c.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "dbde1530-92c8-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -5.786148198655228,
-                "y": 0.11416307951393057,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.3343925241418306,
-                "y": 2.3343925241418306,
-                "z": 2.3343925241418306
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
-              "medium": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
-              "title": "dress1",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "dress1",
-                      "sku": "B-45",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a2c-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/cf4502dc_8ba0_475a_9083_8f564a342427.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a2d-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/dfba6fb0_23b3_41fa_b0ca_2ab293b40872.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a2e-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/062ff1c5_f12d_44c6_91f4_32d335aa4800.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "469459c0-92c9-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 0.10730134226446789,
-                "y": -0.6559863006005416,
-                "z": 0
-              },
-              "scale": {
-                "x": 3.021323580523511,
-                "y": 2.5204052927500187,
-                "z": 2.5204052927500187
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
-              "medium": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
-              "thumb": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
-              "title": "Rivera Print V-Neck Silk Kaftan",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "variety": {
-                      "icons": [
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/2b65af3b_d4c8_4884_9077_dcfb5e5d28ae.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/1199828c_02aa_48c0_bcdc_742672748bee.png"
-                        }
-                      ],
-                      "image": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
-                      "color": ""
-                    },
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Rivera Print V-Neck Silk Kaftan",
-                      "sku": "B-54",
-                      "description": "The yellow, pink, blue and purple hues of the Rivera print bring the free-spirited feel of the tropics to this flowing long sleeved silk kaftan. It has a V-neckline and is framed with a geometric print border.",
-                      "collection": ""
-                    },
-                    "texture": {
-                      "icons": [
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/6fad083e_29f6_44da_a7f6_79462fb65b1c.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/d71ccfb2_1860_4d00_b94a_6e7f1ba77c63.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/c3c926c1_5cb3_4dd4_813c_6af6da9e1360.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/778c0071_2d82_41ed_a4b6_58bebc1804c8.png"
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1198/78dfb2df_fa8d_4a73_8c50_861925521589.png"
-                        }
-                      ],
-                      "image": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
-                      "texture_name": "",
-                      "texture_number": ""
-                    },
-                    "size": {
-                      "icons": [
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                          "bust_size": 31,
-                          "number_size": 64,
-                          "waist_size": 71
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                          "bust_size": 31,
-                          "number_size": 64,
-                          "waist_size": 72
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                          "bust_size": 31,
-                          "number_size": 64,
-                          "waist_size": 73
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                          "bust_size": 31,
-                          "number_size": 64,
-                          "waist_size": 74
-                        },
-                        {
-                          "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                          "bust_size": 31,
-                          "number_size": 64,
-                          "waist_size": 75
-                        }
-                      ],
-                      "image": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
-                      "bust_size": 31,
-                      "number_size": 64,
-                      "waist_size": 71
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a3a-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/e9e41ac1_817b_4977_81da_a32179888ac4.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a3b-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/3f8fbf48_b904_4bd7_8de9_823cabbb1e35.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a3c-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1198/3c7a230a_0393_43df_995a_bb315d6f26a7.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "55058e20-92c9-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 6.387470558132012,
-                "y": -8.297155319977758,
-                "z": 0
-              },
-              "scale": {
-                "x": 2.654404086489416,
-                "y": 2.333109328386094,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
-              "medium": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
-              "title": "Mirabilis Print Plissé Pleated Skirt",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Mirabilis Print Plissé Pleated Skirt",
-                      "sku": "B-48",
-                      "description": "Ultra-fine pleats bring weightless movement to this ankle-skimming skirt. It's crafted to sit high on the waist for a flattering silhouette, and printed with the new season Mirabilis pattern – a floral design inspired by the vibrant beauty of South America.",
-                      "collection": "Women / Clothing"
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a34-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/4b182074_b2c0_492f_82ac_e6937334e099.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a35-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/c0163bf5_66f7_4cb9_9e25_ffed2935ef56.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a36-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/7a37f10b_c546_4ebb_af03_decef7e84fa4.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "57e2e480-92c9-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": 6.168936981718241,
-                "y": 1.3346918992541665,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.66074331860979,
-                "y": 1.6841628141091007,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
-              "medium": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
-              "title": "Yellow Silk Shirt",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "Yellow Silk Shirt",
-                      "sku": "B-49",
-                      "description": "This sunshine-yellow silk shirt is styled with a collapsed collar, designed to slope sensually from the collarbones. Effortlessly elegant, it has a front button closure and an elongated hem for versatility.",
-                      "collection": "Women / Clothing"
-                    },
-                    "models": [
-                      {
-                        "byond_id": "1b652a37-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/9413578c_265f_4f1f_a800_89c8c0962115.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a38-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/3421455f_3d21_4a14_b6c6_8e049e953f94.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "1b652a39-92c8-11e9-af27-4dcae894077b",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/47008bc7_c88e_4a50_b54c_0c9bc5ed322e.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "5a431ba0-92c9-11e9-af27-4dcae894077b"
-            },
-            {
-              "metadataName": "Element3DMetadata",
-              "position": {
-                "x": -5.579386103316733,
-                "y": -6.594504435331569,
-                "z": 0
-              },
-              "scale": {
-                "x": 1.4166666666666667,
-                "y": 1.3555555555555352,
-                "z": 1
-              },
-              "is_cast_shadow": false,
-              "is_receive_shadow": false,
-              "type": "photo",
-              "picture": "https://viewer.byondxr.com/content/1299/2b270d59_54d4_44d1_83f7_c1dec2850634.png",
-              "medium": "https://viewer.byondxr.com/content/1299/2b270d59_54d4_44d1_83f7_c1dec2850634.png",
-              "thumb": "https://viewer.byondxr.com/content/1299/2b270d59_54d4_44d1_83f7_c1dec2850634.png",
-              "title": "shoe",
-              "grow_type": "none",
-              "custom_attributes": [
-                {
-                  "key": "detail",
-                  "value": {
-                    "info": {
-                      "company": "",
-                      "garment": "",
-                      "season": "",
-                      "category": "",
-                      "style": "",
-                      "designer": "",
-                      "title": "shoe",
-                      "sku": "B-47",
-                      "description": "",
-                      "collection": ""
-                    },
-                    "models": [
-                      {
-                        "byond_id": "9e4a233b-92dc-11e9-a601-9ba12da685d4",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/f4ace133_3ab1_4a87_90a0_63171559298c.png",
-                        "grow_type": "none"
-                      },
-                      {
-                        "byond_id": "9e4a233c-92dc-11e9-a601-9ba12da685d4",
-                        "ElementName": "screen",
-                        "type": "photo",
-                        "picture": "https://viewer.byondxr.com/content/1299/42b6f57a_e59e_47d5_a7c7_c073374f3397.png",
-                        "grow_type": "none"
-                      }
-                    ]
-                  }
-                }
-              ],
-              "rotation": {
-                "_x": 0,
-                "_y": 3.141592653589793,
-                "_z": 0,
-                "_order": "YXZ"
-              },
-              "byond_id": "fe03cb40-92dd-11e9-a601-9ba12da685d4"
-            }
-          ]
-        }
-      ]
-    },
-    "custom_attributes": [
+  "title": "Pucci Summer 2019",
+  "byond_id": "showroom_555555",
+  "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
+  "id": "1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "canvas": {
+    "byond_id": "canvas_11111",
+    "background": "#ffffff",
+    "title": "Pucci Summer 2019",
+    "artBoards": [
       {
-        "key": "$$camera",
-        "value": {
-          "dolly_camera": {
-            "min_z": "0.1"
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 13.27084177215687,
+          "y": 36.24288833491434,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "byond_id": "artBoards_22222",
+        "id": "2",
+        "title": "Spring",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
+        "looks": [],
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -5.6511143832334,
+              "y": -8.621102333085496,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.7367507634971913,
+              "y": 1.7367507634971913,
+              "z": 1.7367507634971913
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/e7600932_d43a_47f6_abfd_f20c6703cd25.png",
+            "medium": "https://viewer.byondxr.com/content/1198/e7600932_d43a_47f6_abfd_f20c6703cd25.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/e7600932_d43a_47f6_abfd_f20c6703cd25.png",
+            "title": "MODEL2",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "MODEL2",
+                    "sku": " B-59",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "372ecfc0-92c8-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.1079134141116,
+              "y": -8.545593634952716,
+              "z": 0
+            },
+            "scale": {
+              "x": 3.8349854873040257,
+              "y": 1.8309051635812759,
+              "z": 0.9213984810418014
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
+            "medium": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
+            "title": "insparation pucci2",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci2",
+                    "sku": "B-41",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "4b651120-92c8-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.8695448509698878,
+              "y": 0.5685057888693308,
+              "z": 0
+            },
+            "scale": {
+              "x": 5.724176031310072,
+              "y": 5.072942072155244,
+              "z": 5.724176031310072
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/34509ee3_f3be_4391_bcde_6e80805488b3.png",
+            "medium": "https://viewer.byondxr.com/content/1198/34509ee3_f3be_4391_bcde_6e80805488b3.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/34509ee3_f3be_4391_bcde_6e80805488b3.png",
+            "title": "MODEL2",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "MODEL2",
+                    "sku": " B-59",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "be1b12a0-92d7-11e9-bcd2-6fbe25076c9d"
           }
-        }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -54.778049398428266,
+          "y": 36.35574648736024,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "byond_id": "artBoards_44444",
+        "id": "4",
+        "title": "Inspiration",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -6.87170973625274,
+              "y": 1.9093584376628527,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.5640285792679443,
+              "y": 1.6288295481621196,
+              "z": 0.7352344760217725
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
+            "medium": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/57d80a60_8ad7_4cf0_9089_ad80dd31044a.png",
+            "title": "insparation pucci2",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci2",
+                    "sku": "B-41",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "f4bb3310-92ac-11e9-a17c-8fe6911670fb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.25000428003846054,
+              "y": 1.785967015236558,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.2773305250205085,
+              "y": 2.303998199299368,
+              "z": 2.99638124255383
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/c1089fab_5a96_4c52_a358_6e75aaf58802.png",
+            "medium": "https://viewer.byondxr.com/content/1299/c1089fab_5a96_4c52_a358_6e75aaf58802.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/c1089fab_5a96_4c52_a358_6e75aaf58802.png",
+            "title": "insparation pucci 1",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci 1",
+                    "sku": "B-40",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "25a727e0-92ad-11e9-a17c-8fe6911670fb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -6.85393690095804,
+              "y": -7.319233863700543,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.5831420290957507,
+              "y": 2.937928721765428,
+              "z": 0.7012918685162355
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/fb5b6ccc_29b0_46f4_846a_e5aeab4b520a.png",
+            "medium": "https://viewer.byondxr.com/content/1299/fb5b6ccc_29b0_46f4_846a_e5aeab4b520a.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/fb5b6ccc_29b0_46f4_846a_e5aeab4b520a.png",
+            "title": "insparation pucci4",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci4",
+                    "sku": "B-43",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "27df3d90-92ad-11e9-a17c-8fe6911670fb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.32586287804240754,
+              "y": -4.817985002974979,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.3305326508807007,
+              "y": 2.0326703930758545,
+              "z": 2.0326703930758545
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/41f6ae9e_ea05_4de4_9fc8_a6eba50e0be0.png",
+            "medium": "https://viewer.byondxr.com/content/1299/41f6ae9e_ea05_4de4_9fc8_a6eba50e0be0.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/41f6ae9e_ea05_4de4_9fc8_a6eba50e0be0.png",
+            "title": "insparation pucci3",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci3",
+                    "sku": "B-42",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "290c4be0-92ad-11e9-a17c-8fe6911670fb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 7.980724466162279,
+              "y": -3.372301546858342,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8933554503879562,
+              "y": 4.10201963993155,
+              "z": 2.356317040049613
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/cd0a21a8_d2f7_4a91_bcf9_18c09825dd57.png",
+            "medium": "https://viewer.byondxr.com/content/1299/cd0a21a8_d2f7_4a91_bcf9_18c09825dd57.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/cd0a21a8_d2f7_4a91_bcf9_18c09825dd57.png",
+            "title": "insparation pucci5",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci5",
+                    "sku": "B-44",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "2a181690-92ad-11e9-a17c-8fe6911670fb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.3785519637938535,
+              "y": -9.937579986391455,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.3271135557003984,
+              "y": 0.8450050589138477,
+              "z": 0.9487776100084889
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/daa345fb_8f30_4acd_8135_103ae8a2f2f7.png",
+            "medium": "https://viewer.byondxr.com/content/1198/daa345fb_8f30_4acd_8135_103ae8a2f2f7.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/daa345fb_8f30_4acd_8135_103ae8a2f2f7.png",
+            "title": "insparation pucci 6",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "insparation pucci 6",
+                    "sku": "B-50",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "34dbc290-92c9-11e9-af27-4dcae894077b"
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -20.494311595215102,
+          "y": 36.42183656828331,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.9999999999999837,
+          "y": 0.9999999999999837,
+          "z": 0.9999999999999837
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "byond_id": "artBoards_55555",
+        "id": "5",
+        "title": "Campaign",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.49452255465202166,
+              "y": -3.099681951349409,
+              "z": 0
+            },
+            "scale": {
+              "x": 8.169813890457611,
+              "y": 8.169813890457611,
+              "z": 8.169813890457611
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "_id": "5d09e2c6b242636152b6e45b",
+            "title": "pucci video",
+            "display_video_controls": true,
+            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.png",
+            "medium": "https://viewer.byondxr.com/content/1299/medium/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.png",
+            "picture": "https://viewer.byondxr.com/content/1299/thumb/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.png",
+            "source": "https://viewer.byondxr.com/content/1299/b6721b3b_95f5_4f20_8b6f_805d61cb2c40.mp4",
+            "type": "video",
+            "byond_id": "3c8ea290-92d9-11e9-bcd2-6fbe25076c9d",
+            "video_controls": {
+              "scale": {
+                "z": 1,
+                "y": 1,
+                "x": 1
+              },
+              "position": {
+                "z": 10,
+                "y": 0,
+                "x": 0
+              }
+            },
+            "custom_attributes": [],
+            "show_time": [],
+            "grow_type": "none",
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            }
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 13.65122120106767,
+          "y": -1.3316729635775348,
+          "z": 0
+        },
+        "scale": {
+          "x": 1.0090847933905676,
+          "y": 0.9955007898456347,
+          "z": 1.0090847933905676
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_grid.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "rigth": 3,
+          "left": 3
+        },
+        "title": "Mix & Match",
+        "byond_id": "3230c5e0-8d2e-11e9-acc3-65429fc579c8",
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.279568218778257,
+              "y": -2.7972651398363704,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "title": "hanger",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "models": []
+                }
+              }
+            ],
+            "byond_id": "c4693ee0-8dcb-11e9-a038-71004edbaf5d",
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            }
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.26476394371751,
+              "y": -3.3989294024580636,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "title": "hanger",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "models": []
+                }
+              }
+            ],
+            "byond_id": "c634d720-8dcb-11e9-a038-71004edbaf5d",
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            }
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.095084321801176,
+              "y": 4.779999576043094,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "title": "hanger",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "hanger",
+                    "sku": "B-17",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "dc239650-90de-11e9-ac76-e50807640564"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.346687533609625,
+              "y": -7.9606360732612576,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.015325485733184,
+              "y": 2.015325485733184,
+              "z": 2.015325485733184
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
+            "medium": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
+            "title": "dress1",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "dress1",
+                    "sku": "B-45",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a2c-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/cf4502dc_8ba0_475a_9083_8f564a342427.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a2d-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/dfba6fb0_23b3_41fa_b0ca_2ab293b40872.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a2e-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/062ff1c5_f12d_44c6_91f4_32d335aa4800.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "8c34cb30-92ca-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.2012421960975095,
+              "y": 0.8263337859302176,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.933790628127495,
+              "y": 1.8307519838910613,
+              "z": 1.3374157709347965
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
+            "medium": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
+            "title": "Yellow Silk Shirt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Yellow Silk Shirt",
+                    "sku": "B-49",
+                    "description": "This sunshine-yellow silk shirt is styled with a collapsed collar, designed to slope sensually from the collarbones. Effortlessly elegant, it has a front button closure and an elongated hem for versatility.",
+                    "collection": "Women / Clothing"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a37-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/9413578c_265f_4f1f_a800_89c8c0962115.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a38-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/3421455f_3d21_4a14_b6c6_8e049e953f94.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a39-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/47008bc7_c88e_4a50_b54c_0c9bc5ed322e.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "8e88f460-92ca-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.145429473871826,
+              "y": -8.518912054152068,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.6575086395946235,
+              "y": 2.651812111551512,
+              "z": 2.2826986408338614
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
+            "medium": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
+            "title": "Mirabilis Print Plissé Pleated Skirt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Mirabilis Print Plissé Pleated Skirt",
+                    "sku": "B-48",
+                    "description": "Ultra-fine pleats bring weightless movement to this ankle-skimming skirt. It's crafted to sit high on the waist for a flattering silhouette, and printed with the new season Mirabilis pattern – a floral design inspired by the vibrant beauty of South America.",
+                    "collection": "Women / Clothing"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a34-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/4b182074_b2c0_492f_82ac_e6937334e099.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a35-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/c0163bf5_66f7_4cb9_9e25_ffed2935ef56.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a36-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/7a37f10b_c546_4ebb_af03_decef7e84fa4.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "8ffe2f40-92ca-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.8971563352953593,
+              "y": 4.896327871210354,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "medium": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/eb4c8fde_853d_4b84_9209_2a87a69218bc.png",
+            "title": "hanger",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "hanger",
+                    "sku": "B-17",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "af55ae50-92d8-11e9-bcd2-6fbe25076c9d"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.549160890279194,
+              "y": 1.4668351286741763,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/305179c0_b595_4005_985c_7f06fbacf1a9.png",
+            "medium": "https://viewer.byondxr.com/content/1198/305179c0_b595_4005_985c_7f06fbacf1a9.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/305179c0_b595_4005_985c_7f06fbacf1a9.png",
+            "title": "Burle Print Scarf",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Burle Print Scarf",
+                    "sku": "B-56",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "84c2db29-92d6-11e9-bcd2-6fbe25076c9d",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/8dde78e3_7ad1_4149_9022_b9b66af592c4.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "84c2db2a-92d6-11e9-bcd2-6fbe25076c9d",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/9cd6fa8b_97d9_4c2f_ada2_624b449ebbd0.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "b1672930-92d8-11e9-bcd2-6fbe25076c9d"
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -55.27071101984538,
+          "y": 0.28853945910467615,
+          "z": 0
+        },
+        "scale": {
+          "x": 1.0044313183067362,
+          "y": 0.8899686510544341,
+          "z": 1.0044313183067362
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "rigth": 3,
+          "left": 3
+        },
+        "title": "Looks",
+        "byond_id": "f8b8ded0-8dd0-11e9-9054-bf3507d0450d",
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.47264732386893155,
+              "y": -6.850516764368422,
+              "z": 0
+            },
+            "scale": {
+              "x": 7.196004621129414,
+              "y": 7.30703833524994,
+              "z": 7.376322368920462
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
+            "medium": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
+            "title": "white backround",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "white backround",
+                    "sku": "B-20",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "b5da1180-92c9-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.806558929630223,
+              "y": -2.3228916618951523,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.696283075786482,
+              "y": 1.8724905812195844,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
+            "medium": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
+            "title": "model5",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "model5",
+                    "sku": "B-63",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "b5c2e230-92d8-11e9-bcd2-6fbe25076c9d"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.709068154883492,
+              "y": -12.157194475258171,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.7326060866171222,
+              "y": 1.9031784102310714,
+              "z": 0.8055146338468201
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
+            "medium": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
+            "title": "model4",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "model4",
+                    "sku": "B-62",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "b6d38ee0-92d8-11e9-bcd2-6fbe25076c9d"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.153428290588382,
+              "y": -7.845396344498721,
+              "z": 0
+            },
+            "scale": {
+              "x": 4.608187570331762,
+              "y": 4.726415941730761,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png",
+            "medium": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png",
+            "title": "La Villa Print Bead-Embroidered Dress",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "La Villa Print Bead-Embroidered Dress",
+                    "sku": "B-64",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "84c2db2e-92d6-11e9-bcd2-6fbe25076c9d",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/5cbcc470_d478_41ac_8cd4_c2bb7b2031d6.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "84c2db2f-92d6-11e9-bcd2-6fbe25076c9d",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/8f13670e_b6d6_4305_a56c_e4279b59eca2.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "84c2db30-92d6-11e9-bcd2-6fbe25076c9d",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/79112974_c8d8_4e65_807c_7d80dd2c00e0.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "bbcf5870-92d8-11e9-bcd2-6fbe25076c9d"
+          }
+        ],
+        "looks": []
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -20.525800932113306,
+          "y": -1.2002025132216332,
+          "z": 0
+        },
+        "scale": {
+          "x": 1.0112826271007562,
+          "y": 1.0112826271007562,
+          "z": 1.0112826271007562
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "rigth": 3,
+          "left": 3
+        },
+        "title": "Assortment Table",
+        "byond_id": "f60c9bc0-910b-11e9-abfe-af7d56610d6c",
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.29433424705313194,
+              "y": -3.921377147586595,
+              "z": 0
+            },
+            "scale": {
+              "x": 6.728813559322796,
+              "y": 6.362068965517219,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
+            "medium": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
+            "title": "white backround",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "white backround",
+                    "sku": "B-20",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "a64ba2c0-92c8-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -2.6251046669402136,
+              "y": -10.498113918752535,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.3410202817875982,
+              "y": 1.3675154715230387,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/85ee3c39_6131_415e_b57d_86ad013ea3dc.png",
+            "medium": "https://viewer.byondxr.com/content/1299/85ee3c39_6131_415e_b57d_86ad013ea3dc.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/85ee3c39_6131_415e_b57d_86ad013ea3dc.png",
+            "title": "bag",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "bag",
+                    "sku": "B-46",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a2f-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/c95e71aa_79f1_4f86_9dcd_e17cbd0753c6.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a30-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/dc35bbef_ce27_4941_b737_da291577d969.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a31-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/8c94941d_ebae_43da_bc5d_5826ac498d1b.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "d8665390-92c8-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.8672198677140813,
+              "y": -10.926462722926505,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.9278079959035589,
+              "y": 0.9823842548716808,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
+            "medium": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
+            "title": "Vallauris print Bonita mini bucket bag",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/f83f14b2_a652_44d0_9976_6d08c29685c4.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c6b7473c_d0d5_4347_9b8d_a83465fe74ef.png",
+                    "color": ""
+                  },
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Vallauris print Bonita mini bucket bag",
+                    "sku": "B-55",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a3d-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/5570c1b5_e0e8_4b77_874d_4817ad4bbbef.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a3e-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/b100e1f5_64da_4932_b017_1cf27c1a99b9.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "dadf69e0-92c8-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -6.166826583028186,
+              "y": -10.47865337013736,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.336640891418702,
+              "y": 1.368665438714186,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png",
+            "medium": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/469858ae_71f7_4227_85ac_e26132db2eba.png",
+            "title": "Transparent Purple Twist Tote Bag",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Transparent Purple Twist Tote Bag",
+                    "sku": "B-58",
+                    "description": "This transparent purple tote bag will take you from the beach to city with ease. It's printed with the house's logo across the front and includes a detachable zipped pouch in the season's key Burle print.",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a41-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/f7c90961_42f1_4d49_9f92_42f4b343d3b0.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a42-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/90b83c24_d54b_4868_b998_32550d18b790.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a43-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ce50f802_0f68_494f_b58d_a45c5c5f979c.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "dbde1530-92c8-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -5.786148198655228,
+              "y": 0.11416307951393057,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.3343925241418306,
+              "y": 2.3343925241418306,
+              "z": 2.3343925241418306
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
+            "medium": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/0dbc071e_67ec_4ff8_a75c_bb429f77e7fb.png",
+            "title": "dress1",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "dress1",
+                    "sku": "B-45",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a2c-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/cf4502dc_8ba0_475a_9083_8f564a342427.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a2d-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/dfba6fb0_23b3_41fa_b0ca_2ab293b40872.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a2e-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/062ff1c5_f12d_44c6_91f4_32d335aa4800.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "469459c0-92c9-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.10730134226446789,
+              "y": -0.6559863006005416,
+              "z": 0
+            },
+            "scale": {
+              "x": 3.021323580523511,
+              "y": 2.5204052927500187,
+              "z": 2.5204052927500187
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
+            "medium": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
+            "title": "Rivera Print V-Neck Silk Kaftan",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/38a49ed9_db49_4040_9fe5_354b47ae22cc.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/2b65af3b_d4c8_4884_9077_dcfb5e5d28ae.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/1199828c_02aa_48c0_bcdc_742672748bee.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
+                    "color": ""
+                  },
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Rivera Print V-Neck Silk Kaftan",
+                    "sku": "B-54",
+                    "description": "The yellow, pink, blue and purple hues of the Rivera print bring the free-spirited feel of the tropics to this flowing long sleeved silk kaftan. It has a V-neckline and is framed with a geometric print border.",
+                    "collection": ""
+                  },
+                  "texture": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/6fad083e_29f6_44da_a7f6_79462fb65b1c.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/d71ccfb2_1860_4d00_b94a_6e7f1ba77c63.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/c3c926c1_5cb3_4dd4_813c_6af6da9e1360.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/778c0071_2d82_41ed_a4b6_58bebc1804c8.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/78dfb2df_fa8d_4a73_8c50_861925521589.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
+                    "texture_name": "",
+                    "texture_number": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/22260625_bbe5_4ffe_b29e_d782846484f4.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a3a-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/e9e41ac1_817b_4977_81da_a32179888ac4.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a3b-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/3f8fbf48_b904_4bd7_8de9_823cabbb1e35.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a3c-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/3c7a230a_0393_43df_995a_bb315d6f26a7.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "55058e20-92c9-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 6.387470558132012,
+              "y": -8.297155319977758,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.654404086489416,
+              "y": 2.333109328386094,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
+            "medium": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/2f8b420c_5cbc_40ad_9451_fdee276c7be1.png",
+            "title": "Mirabilis Print Plissé Pleated Skirt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Mirabilis Print Plissé Pleated Skirt",
+                    "sku": "B-48",
+                    "description": "Ultra-fine pleats bring weightless movement to this ankle-skimming skirt. It's crafted to sit high on the waist for a flattering silhouette, and printed with the new season Mirabilis pattern – a floral design inspired by the vibrant beauty of South America.",
+                    "collection": "Women / Clothing"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a34-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/4b182074_b2c0_492f_82ac_e6937334e099.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a35-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/c0163bf5_66f7_4cb9_9e25_ffed2935ef56.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a36-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/7a37f10b_c546_4ebb_af03_decef7e84fa4.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "57e2e480-92c9-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 6.168936981718241,
+              "y": 1.3346918992541665,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.66074331860979,
+              "y": 1.6841628141091007,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
+            "medium": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/ca375586_e21e_4354_a2da_e9813ac4bb75.png",
+            "title": "Yellow Silk Shirt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "Yellow Silk Shirt",
+                    "sku": "B-49",
+                    "description": "This sunshine-yellow silk shirt is styled with a collapsed collar, designed to slope sensually from the collarbones. Effortlessly elegant, it has a front button closure and an elongated hem for versatility.",
+                    "collection": "Women / Clothing"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "1b652a37-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/9413578c_265f_4f1f_a800_89c8c0962115.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a38-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/3421455f_3d21_4a14_b6c6_8e049e953f94.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "1b652a39-92c8-11e9-af27-4dcae894077b",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/47008bc7_c88e_4a50_b54c_0c9bc5ed322e.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "5a431ba0-92c9-11e9-af27-4dcae894077b"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -5.579386103316733,
+              "y": -6.594504435331569,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.4166666666666667,
+              "y": 1.3555555555555352,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/2b270d59_54d4_44d1_83f7_c1dec2850634.png",
+            "medium": "https://viewer.byondxr.com/content/1299/2b270d59_54d4_44d1_83f7_c1dec2850634.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/2b270d59_54d4_44d1_83f7_c1dec2850634.png",
+            "title": "shoe",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "shoe",
+                    "sku": "B-47",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "9e4a233b-92dc-11e9-a601-9ba12da685d4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/f4ace133_3ab1_4a87_90a0_63171559298c.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e4a233c-92dc-11e9-a601-9ba12da685d4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/42b6f57a_e59e_47d5_a7c7_c073374f3397.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "fe03cb40-92dd-11e9-a601-9ba12da685d4"
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -19.91786758380652,
+          "y": -38.31405258550665,
+          "z": 0
+        },
+        "scale": {
+          "x": 1.1400360871339557,
+          "y": 1.1400360871339557,
+          "z": 1.1400360871339557
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "rotation": {
+          "_x": 0,
+          "_y": 3.141592653589793,
+          "_z": 0,
+          "_order": "YXZ"
+        },
+        "background": "https://web-apps.byondxr.com/showroom-assets/artboard-shadow.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "rigth": 3,
+          "left": 3
+        },
+        "title": "Wishlist",
+        "byond_id": "866d84c0-934d-11e9-bd2d-3723f97b795e"
       }
     ]
-  }
+  },
+  "custom_attributes": [
+    {
+      "key": "$$camera",
+      "value": {
+        "dolly_camera": {
+          "min_z": "0.1"
+        }
+      }
+    }
+  ]
+}
