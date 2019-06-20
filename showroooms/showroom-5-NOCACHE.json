@@ -1087,9 +1087,9 @@
           "z": 0
         },
         "scale": {
-          "x": 1.0044313183067362,
-          "y": 0.8899686510544341,
-          "z": 1.0044313183067362
+          "x": 1.1390814850048863,
+          "y": 1.009274396540968,
+          "z": 1.1390814850048863
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
@@ -1117,56 +1117,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 0.47264732386893155,
-              "y": -6.850516764368422,
-              "z": 0
-            },
-            "scale": {
-              "x": 7.196004621129414,
-              "y": 7.30703833524994,
-              "z": 7.376322368920462
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-            "medium": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-            "title": "white backround",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "",
-                    "garment": "",
-                    "season": "",
-                    "category": "",
-                    "style": "",
-                    "designer": "",
-                    "title": "white backround",
-                    "sku": "B-20",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "models": []
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            },
-            "byond_id": "b5da1180-92c9-11e9-af27-4dcae894077b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -4.806558929630223,
-              "y": -2.3228916618951523,
+              "x": -4.806558929630216,
+              "y": -0.9116262405957163,
               "z": 0
             },
             "scale": {
@@ -1213,8 +1165,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -4.709068154883492,
-              "y": -12.157194475258171,
+              "x": -4.595391711092689,
+              "y": -11.323264908126722,
               "z": 0
             },
             "scale": {
@@ -1261,8 +1213,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 4.153428290588382,
-              "y": -7.845396344498721,
+              "x": 3.8692371811085615,
+              "y": -5.15116235838118,
               "z": 0
             },
             "scale": {
@@ -1339,9 +1291,9 @@
           "z": 0
         },
         "scale": {
-          "x": 1.0112826271007562,
-          "y": 1.0112826271007562,
-          "z": 1.0112826271007562
+          "x": 1.1342444394357418,
+          "y": 1.1342444394357418,
+          "z": 1.1342444394357418
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
@@ -1366,54 +1318,6 @@
         "title": "Assortment Table",
         "byond_id": "f60c9bc0-910b-11e9-abfe-af7d56610d6c",
         "screens": [
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 0.29433424705313194,
-              "y": -3.921377147586595,
-              "z": 0
-            },
-            "scale": {
-              "x": 6.728813559322796,
-              "y": 6.362068965517219,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-            "medium": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/b6602cba_bc65_461b_91b2_f59c890cce3e.png",
-            "title": "white backround",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "",
-                    "garment": "",
-                    "season": "",
-                    "category": "",
-                    "style": "",
-                    "designer": "",
-                    "title": "white backround",
-                    "sku": "B-20",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "models": []
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            },
-            "byond_id": "a64ba2c0-92c8-11e9-af27-4dcae894077b"
-          },
           {
             "metadataName": "Element3DMetadata",
             "position": {
