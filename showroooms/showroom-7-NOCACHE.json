@@ -506,9 +506,9 @@
           "z": 0
         },
         "scale": {
-          "x": 0.9987793275304466,
-          "y": 0.9524491198569569,
-          "z": 0.9987793275304466
+          "x": 1.15,
+          "y": 1.15,
+          "z": 1
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
@@ -523,7 +523,7 @@
           "_z": 0,
           "_order": "YXZ"
         },
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/512_png/512_basic.png",
         "padding": {
           "top": 3,
           "bottom": 4.5,
@@ -2552,50 +2552,6 @@
               "_order": "YXZ"
             },
             "byond_id": "cb6429a0-9085-11e9-b58f-152ea2361f1d"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 0.3858875839923428,
-              "y": -4.139395967364502,
-              "z": 0
-            },
-            "scale": {
-              "x": 8.967316804555448,
-              "y": 8.304358958008876,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "_id": "5cebdf0cb242636152b6df3f",
-            "title": "***white backround",
-            "display_video_controls": true,
-            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/3c8fc5bb_8f2c_4024_bb45_8b7f79878628.png",
-            "medium": "https://viewer.byondxr.com/content/1299/medium/3c8fc5bb_8f2c_4024_bb45_8b7f79878628.png",
-            "picture": "https://viewer.byondxr.com/content/1299/3c8fc5bb_8f2c_4024_bb45_8b7f79878628.png",
-            "type": "photo",
-            "byond_id": "d8defb80-9bc7-11e9-82de-7b7781c6b41f",
-            "video_controls": {
-              "scale": {
-                "z": 1,
-                "y": 1,
-                "x": 1
-              },
-              "position": {
-                "z": 10,
-                "y": 0,
-                "x": 0
-              }
-            },
-            "custom_attributes": [],
-            "show_time": [],
-            "grow_type": "none",
-            "rotation": {
-              "_x": 0,
-              "_y": 3.141592653589793,
-              "_z": 0,
-              "_order": "YXZ"
-            }
           },
           {
             "metadataName": "Element3DMetadata",
