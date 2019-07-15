@@ -4564,7 +4564,12 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
+            "custom_attributes": [
+              {
+                "key": "$$play_full_screen",
+                "value": true
+              }
+            ],
             "show_time": [],
             "grow_type": "none",
             "rotation": {
