@@ -4978,7 +4978,7 @@
           "_z": 0,
           "_order": "YXZ"
         },
-        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_grid.png",
+        "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_basic.png",
         "padding": {
           "top": 3,
           "bottom": 4.5,
