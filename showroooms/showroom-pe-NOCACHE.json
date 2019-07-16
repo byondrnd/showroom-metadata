@@ -35,7 +35,7 @@
           "_order": "YXZ"
         },
         "byond_id": "artBoards_8",
-        "id": "8",
+        "id": "board_4",
         "title": "Delivery 3",
         "background": "https://viewer.byondxr.com/content/1299/e1b7dff3_f244_45f6_8ffb_63c4b13bb82b.png",
         "padding": {
@@ -3025,7 +3025,7 @@
           "_order": "YXZ"
         },
         "byond_id": "artBoards_112",
-        "id": "12",
+        "id": "board_3",
         "title": "Delivery 2",
         "background": "https://viewer.byondxr.com/content/1299/e1b7dff3_f244_45f6_8ffb_63c4b13bb82b.png",
         "padding": {
@@ -6118,7 +6118,7 @@
         },
         "byond_id": "artBoards_12",
         "id": "12",
-        "title": "",
+        "title": "Inspiration",
         "background": "https://web-apps.byondxr.com/showroom-assets/board-backgrounds/1024_png/1024_main.png",
         "padding": {
           "top": 3,
@@ -7209,7 +7209,7 @@
           "_order": "YXZ"
         },
         "byond_id": "artBoards_33333111",
-        "id": "2",
+        "id": "board_2",
         "title": "Delivery 1",
         "background": "https://viewer.byondxr.com/content/1299/e1b7dff3_f244_45f6_8ffb_63c4b13bb82b.png",
         "padding": {
