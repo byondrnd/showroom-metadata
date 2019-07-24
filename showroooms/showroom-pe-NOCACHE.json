@@ -12680,30 +12680,35 @@
         {
           "element": "baf4a640-a718-11e9-838d-1f725b92bd82",
           "context": "artBoards_12",
+          "viewElement": "artBoards_12",
           "cameraZoom": 16.149918935924024,
           "index": 0
         },
         {
           "element": "board_2",
           "context": "board_2",
+          "viewElement": "board_2",
           "cameraZoom": 22.836872036909934,
           "index": 1
         },
         {
           "element": "board_3",
           "context": "board_3",
+          "viewElement": "board_3",
           "cameraZoom": 21.033865074096802,
           "index": 2
         },
         {
           "element": "board_4",
           "context": "board_4",
+          "viewElement": "board_4",
           "cameraZoom": 20.439948832434524,
           "index": 3
         },
         {
           "element": "3230c5e0-8d2e-11e9-acc3-65429fc579c8",
           "context": "canvas_11111",
+          "viewElement": "canvas_11111",
           "cameraZoom": 28.668827055586597,
           "index": 4
         }
