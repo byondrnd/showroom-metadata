@@ -9,7 +9,7 @@
         "owner": "Byond"
     },
     {
-        "title": "PI Demo - Wholesale",
+        "title": "Wholesale",
         "image": "https://viewer.byondxr.com/content/1299/7b798c9d_c733_4bd3_bc23_80ec510f2a36.jpg",
         "id": "/showroooms/showroom-NOCACHE.json",
         "description": "Full Summer collection 2020",
@@ -18,7 +18,7 @@
         "owner": ""
     },
     {
-        "title": "PI Demo - Design Review",
+        "title": "Design Review",
         "image": "https://viewer.byondxr.com/content/1299/3c3e333f_5a39_4ed7_a7f3_2815d1812e12.jpg",
         "id": "/showroooms/showroom-2-NOCACHE.json",
         "description": "Planning of new byond fashion collection",
@@ -27,28 +27,19 @@
         "owner": ""
     },
     {
-        "title": "PI Demo - Wholesale Draft",
+        "title": "Summer Collection 2020",
         "image": "https://viewer.byondxr.com/content/1299/f3e6dd6c_32fc_4481_8d79_716605ad3c48.jpg",
         "id": "/showroooms/showroom-3-NOCACHE.json",
-        "description": "WIP – Summer design showroom",
+        "description": "Summer 2020 design showroom",
         "created_date": "",
         "updated_date": "",
         "owner": ""
     },
     {
-        "title": "PI Demo - Design Review Draft",
+        "title": "Design Review Draft",
         "image": "https://viewer.byondxr.com/content/1198/9a40e384_b9c5_4dad_a618_7ebb7d0f0218.png",
         "id": "/showroooms/showroom-4-NOCACHE.json",
-        "description": "A PR oriented showroom for external release",
-        "created_date": "",
-        "updated_date": "",
-        "owner": ""
-    },
-    {
-        "title": "Pucci Summer 2019",
-        "image": "https://viewer.byondxr.com/content/1198/15249ca9_9028_4c56_93d4_671192339671.png",
-        "id": "/showroooms/showroom-5-NOCACHE.json",
-        "description": "A PUCCI showroom for external release",
+        "description": "",
         "created_date": "",
         "updated_date": "",
         "owner": ""
@@ -76,6 +67,15 @@
         "image": "https://viewer.byondxr.com/content/1198/8c4e4ae2_7054_4246_8e5a_19187eb86eb1.png",
         "id": "/showroooms/showroom-8-NOCACHE.json",
         "description": "Full Spring collection 2020",
+        "created_date": "",
+        "updated_date": "",
+        "owner": ""
+    },
+    {
+        "title": "Pucci Summer 2019",
+        "image": "https://viewer.byondxr.com/content/1198/15249ca9_9028_4c56_93d4_671192339671.png",
+        "id": "/showroooms/showroom-5-NOCACHE.json",
+        "description": "A PUCCI showroom for external release",
         "created_date": "",
         "updated_date": "",
         "owner": ""
