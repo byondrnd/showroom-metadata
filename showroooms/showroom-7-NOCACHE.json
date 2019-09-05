@@ -3,11 +3,11 @@
   "byond_id": "showroom_11111",
   "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
   "id": "1",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "description": "Spring 2020 - Design Review",
   "canvas": {
     "byond_id": "canvas_11111",
     "background": "#ffffff",
-    "title": "Byond Apparel Design Review Demo Showroom",
+    "title": "Spring 2020 - Design Review",
     "artBoards": [
       {
         "metadataName": "Element3DMetadata",
