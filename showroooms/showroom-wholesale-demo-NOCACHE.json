@@ -2963,7 +2963,7 @@
         "view_type": "base_board_view",
         "rotation": {
           "_x": 0,
-          "_y": 180,
+          "_y": 0,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -8894,6 +8894,10 @@
                 }
               },
               {
+                "key": "$$render_order",
+                "value": 59
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "preview": [
@@ -8904,15 +8908,11 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
-              },
-              {
-                "key": "$$render_order",
-                "value": 59
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -8936,12 +8936,12 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 214.84881701409014,
-          "y": 52.25398982547057,
+          "y": 52.73335181801952,
           "z": 0
         },
         "scale": {
           "x": 1.2191693392355776,
-          "y": 1.0642446962179493,
+          "y": 1.0425350826112612,
           "z": 1.2191693392355776
         },
         "is_cast_shadow": false,
@@ -10982,12 +10982,12 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 87.05208808832771,
-          "y": 4.869669497243351,
+          "y": 5.083223831639905,
           "z": 0
         },
         "scale": {
           "x": 1.2424335593740907,
-          "y": 1.010402512907702,
+          "y": 1.0150833172859746,
           "z": 1.2424335593740907
         },
         "is_cast_shadow": false,
@@ -11000,7 +11000,7 @@
         "view_type": "base_board_view",
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -11858,7 +11858,7 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -4.695216605443389,
+              "x": -4.445784404690738,
               "y": -0.3986238337468033,
               "z": 0
             },
@@ -12264,6 +12264,10 @@
                 }
               },
               {
+                "key": "$$render_order",
+                "value": 14
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "preview": [
@@ -12274,15 +12278,11 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
-              },
-              {
-                "key": "$$render_order",
-                "value": 14
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14006,12 +14006,12 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 86.9382864706767,
-          "y": 52.40822782326906,
+          "y": 51.09489898189752,
           "z": 0
         },
         "scale": {
           "x": 1.2348374284199024,
-          "y": 1.0536434587565182,
+          "y": 1.1438096956287012,
           "z": 1.2348374284199024
         },
         "is_cast_shadow": false,
@@ -14024,7 +14024,7 @@
         "view_type": "base_board_view",
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -14041,77 +14041,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 3.6953188218982955,
-              "y": -6.4726001537284255,
+              "x": -9.045437914929167,
+              "y": -1.107088797619479,
               "z": 0
             },
             "scale": {
-              "x": 5.428636561313195,
-              "y": 6.55430256025919,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/376a01fd_2e7a_481f_9d07_8dd50e7edbe7.png",
-            "medium": "https://viewer.byondxr.com/content/1198/376a01fd_2e7a_481f_9d07_8dd50e7edbe7.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/376a01fd_2e7a_481f_9d07_8dd50e7edbe7.png",
-            "title": "",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "",
-                    "garment": "",
-                    "season": "",
-                    "category": "",
-                    "style": "",
-                    "designer": "",
-                    "title": "",
-                    "sku": "b-404",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 3
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "preview": [
-                    "https://viewer.byondxr.com/content/1198/376a01fd_2e7a_481f_9d07_8dd50e7edbe7.png"
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "dca209b0-ceda-11e9-b7e4-e18d4965c6e7"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -9.189183688240234,
-              "y": -0.7237667355026467,
-              "z": 0
-            },
-            "scale": {
-              "x": 1.985877763699227,
-              "y": 2.170738273460439,
+              "x": 1.7271918435732376,
+              "y": 1.7137462472229974,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -14361,7 +14297,7 @@
               },
               {
                 "key": "$$render_order",
-                "value": 9999999
+                "value": 10000000
               },
               {
                 "key": "$$progressive_loading",
@@ -14378,7 +14314,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14387,13 +14323,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -8.919529995298472,
-              "y": -10.093244850192395,
+              "x": -9.063275768595734,
+              "y": -8.128719281858107,
               "z": 0
             },
             "scale": {
-              "x": 2.203170853559338,
-              "y": 2.382222571050315,
+              "x": 1.850417326113942,
+              "y": 1.798288315301817,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -14425,7 +14361,7 @@
               },
               {
                 "key": "$$render_order",
-                "value": 5
+                "value": 9999999
               },
               {
                 "key": "$$progressive_loading",
@@ -14442,7 +14378,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14511,6 +14447,54 @@
               "_order": "XYZ"
             },
             "byond_id": "3a007240-d282-11e9-b1a5-c7841806d351"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.033625978071324,
+              "y": -4.531363466134193,
+              "z": 0
+            },
+            "scale": {
+              "x": 6.2762597582754305,
+              "y": 7.318029048007348,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/ea1b79f4_fa12_4c0a_a24e_057361fd6ae5.png",
+            "medium": "https://viewer.byondxr.com/content/1198/ea1b79f4_fa12_4c0a_a24e_057361fd6ae5.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/ea1b79f4_fa12_4c0a_a24e_057361fd6ae5.png",
+            "title": "",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "",
+                    "sku": "b-403",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "a0ec3120-d30d-11e9-aefd-f9a3ba43ee5e"
           }
         ],
         "custom_attributes": [
@@ -15014,8 +14998,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 0.5066002796781852,
-              "y": 2.3914781519233568,
+              "x": 0.8599546185991152,
+              "y": 2.3925406622011707,
               "z": 0
             },
             "scale": {
@@ -15078,12 +15062,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 8.786358527943083,
+              "x": 9.122065536150686,
               "y": 2.3232941355340166,
               "z": 0
             },
             "scale": {
-              "x": 1.6631793326092503,
+              "x": 1.5011838433110052,
               "y": 1.7228567478233416,
               "z": 1
             },
@@ -15142,12 +15126,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -10.25618877536428,
-              "y": 2.4005445790251514,
+              "x": -10.13250868744624,
+              "y": 2.435881749715371,
               "z": 0
             },
             "scale": {
-              "x": 1.7098018499311722,
+              "x": 1.513704322028554,
               "y": 1.7736746783430777,
               "z": 1
             },
@@ -15206,12 +15190,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 10.468317721998009,
+              "x": 10.78635225820948,
               "y": 2.5530009943365037,
               "z": 0
             },
             "scale": {
-              "x": 1.6181088925275324,
+              "x": 1.5157971364484604,
               "y": 1.6737305610764557,
               "z": 1
             },
@@ -15270,12 +15254,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 7.089355209391204,
-              "y": 2.637511881943066,
+              "x": 7.124692380078876,
+              "y": 2.6021747112533555,
               "z": 0
             },
             "scale": {
-              "x": 1.6760564568650589,
+              "x": 1.4373290260129037,
               "y": 1.7036984559867134,
               "z": 1
             },
@@ -15334,12 +15318,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -7.977072440559094,
+              "x": -8.400726687637235,
               "y": 2.5268085975288654,
               "z": 0
             },
             "scale": {
-              "x": 1.6097014649976298,
+              "x": 1.405267016592365,
               "y": 1.5839571205063596,
               "z": 1
             },
@@ -15418,12 +15402,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.8779881265951155,
+              "x": -0.5776198145381515,
               "y": 2.3683906275672846,
               "z": 0
             },
             "scale": {
-              "x": 1.415303903953328,
+              "x": 1.2703611101130952,
               "y": 1.37848725279382,
               "z": 1
             },
@@ -16256,13 +16240,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 5.517997313509792,
-              "y": -7.855892963747778,
+              "x": 4.113798277494318,
+              "y": -7.8761388103521455,
               "z": 0
             },
             "scale": {
-              "x": 1.655546194801048,
-              "y": 2.3499652066161083,
+              "x": 1.7529742673912687,
+              "y": 2.420206158161925,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -16291,16 +16275,17 @@
                   },
                   "models": [
                     {
-                      "byond_id": "1077c544-d095-11e9-a700-cdc9ff6b1e9e",
+                      "byond_id": "0b6e62d4-d30d-11e9-aab6-b7d1e3f58ed8",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/1c5df935_abd0_4afb_84c4_86fedc7f1f1b.glb"
+                    },
+                    {
+                      "byond_id": "0b6e62d5-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "usdz",
-                      "source": "http://web-apps.byondxr.com/assets/models/hanger.usdz"
+                      "source": "https://web-apps.byondxr.com/assets/models/Stand_USZD.usdz"
                     }
                   ]
                 }
-              },
-              {
-                "key": "$$render_order",
-                "value": 12
               },
               {
                 "key": "$$progressive_loading",
@@ -16313,6 +16298,10 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 13
               }
             ],
             "rotation": {
@@ -16321,18 +16310,18 @@
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "b8622240-d09e-11e9-a700-cdc9ff6b1e9e"
+            "byond_id": "2945b2e0-d30d-11e9-aab6-b7d1e3f58ed8"
           },
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -5.7924226251310245,
-              "y": -10.021413883685659,
+              "x": -5.952647657974625,
+              "y": -9.885474268659042,
               "z": 0
             },
             "scale": {
-              "x": 3.1087682357640154,
-              "y": 2.596869097051112,
+              "x": 2.965660211527134,
+              "y": 2.5724004407953323,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -16350,10 +16339,13 @@
                   "variety": {
                     "icons": [
                       {
-                        "icon": "https://viewer.byondxr.com/content/1198/409df2d7_c8e4_4085_9981_036c89c5259f.png"
+                        "icon": "https://viewer.byondxr.com/content/1198/08d9e2be_d6f7_403b_80f2_ed4835238086.png"
                       },
                       {
-                        "icon": "https://viewer.byondxr.com/content/1198/62789ec6_738b_4aec_932c_32fb79075f29.png"
+                        "icon": "https://viewer.byondxr.com/content/1198/8726279f_e7b1_4cf4_ba7a_01ccfc9416bb.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/57c941ef_3eb3_4a07_af91_c8e0578c03b9.png"
                       }
                     ],
                     "image": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png",
@@ -16362,19 +16354,19 @@
                   "color": {
                     "icons": [
                       {
-                        "color": "#B8B0A5"
+                        "color": "#273036"
                       },
                       {
-                        "color": "#5991A8"
+                        "color": "#2A2420"
                       },
                       {
-                        "color": "#257AAE"
+                        "color": "#787878"
                       },
                       {
-                        "color": "#0E5277"
+                        "color": "#DEDEDB"
                       },
                       {
-                        "color": "#272935"
+                        "color": "#685E4F"
                       }
                     ],
                     "image": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png",
@@ -16385,7 +16377,7 @@
                     "company": "Demo-Fashion",
                     "garment": "81409-10",
                     "season": "Winter 2020",
-                    "category": "hoodies",
+                    "category": "hoodiesaaaa",
                     "style": "GDJ9DNF",
                     "designer": "Roni Gabai",
                     "title": "",
@@ -16455,55 +16447,43 @@
                   },
                   "models": [
                     {
-                      "byond_id": "2177dc7b-d2f3-11e9-bcf4-c951a6076e6a",
+                      "byond_id": "0b6e62ec-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/57c941ef_3eb3_4a07_af91_c8e0578c03b9.png",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "2177dc7c-d2f3-11e9-bcf4-c951a6076e6a",
+                      "byond_id": "0b6e62ed-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/08d9e2be_d6f7_403b_80f2_ed4835238086.png",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "2177dc7d-d2f3-11e9-bcf4-c951a6076e6a",
+                      "byond_id": "0b6e62ee-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/8726279f_e7b1_4cf4_ba7a_01ccfc9416bb.png",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "2177dc7e-d2f3-11e9-bcf4-c951a6076e6a",
+                      "byond_id": "0b6e62ef-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/1c5df935_abd0_4afb_84c4_86fedc7f1f1b.glb",
                       "custom_attributes": [
                         {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        }
-                      ]
+                          "key": "$$roughness",
+                          "value": 1
+                        }]
                     },
                     {
-                      "byond_id": "2177dc7f-d2f3-11e9-bcf4-c951a6076e6a",
+                      "byond_id": "0b6e62f0-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "usdz",
                       "source": "https://web-apps.byondxr.com/assets/models/Stand_USZD.usdz"
                     }
                   ]
                 }
-              },
-              {
-                "key": "$$render_order",
-                "value": 14
               },
               {
                 "key": "$$progressive_loading",
@@ -16516,6 +16496,10 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 14
               }
             ],
             "rotation": {
@@ -16524,7 +16508,7 @@
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "2f162900-d2f6-11e9-bcf4-c951a6076e6a"
+            "byond_id": "34dc5000-d30d-11e9-aab6-b7d1e3f58ed8"
           }
         ],
         "custom_attributes": [
@@ -17515,7 +17499,7 @@
         "byond_id": "8c85bf50-ceec-11e9-b31f-a96ab75287b2",
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -18353,13 +18337,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -6.2401414482888855,
-              "y": -1.9559992578638865,
+              "x": -6.508815848718103,
+              "y": -1.9921370815204664,
               "z": 0
             },
             "scale": {
-              "x": 1.5126578194120552,
-              "y": 2.4002006324880365,
+              "x": 1.516110155643637,
+              "y": 2.216445231262065,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -18388,9 +18372,14 @@
                   },
                   "models": [
                     {
-                      "byond_id": "5643600c-cfbf-11e9-aec3-a16e48ca58ea",
+                      "byond_id": "0b6e62d4-d30d-11e9-aab6-b7d1e3f58ed8",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/1c5df935_abd0_4afb_84c4_86fedc7f1f1b.glb"
+                    },
+                    {
+                      "byond_id": "0b6e62d5-d30d-11e9-aab6-b7d1e3f58ed8",
                       "ElementName": "usdz",
-                      "source": "http://web-apps.byondxr.com/assets/models/hanger.usdz"
+                      "source": "https://web-apps.byondxr.com/assets/models/Stand_USZD.usdz"
                     }
                   ]
                 }
@@ -18418,7 +18407,7 @@
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "60402330-cfbf-11e9-aec3-a16e48ca58ea"
+            "byond_id": "15557b30-d30d-11e9-aab6-b7d1e3f58ed8"
           }
         ],
         "custom_attributes": [
