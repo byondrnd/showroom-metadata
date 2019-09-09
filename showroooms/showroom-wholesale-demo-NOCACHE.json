@@ -16061,6 +16061,10 @@
                             "intensity": 0.75,
                             "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
                           }
+                        },
+                        {
+                          "key":"$$roughness",
+                          "value":1
                         }
                       ]
                     },
