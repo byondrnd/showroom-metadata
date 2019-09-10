@@ -508,6 +508,10 @@
                           "value": "true"
                         },
                         {
+                          "key":"$$roughness",
+                          "value":1
+                        },
+                        {
                           "key": "$$environment_map",
                           "value": {
                             "intensity": 0.75,
@@ -680,6 +684,12 @@
                       "byond_id": "4e769991-ce7d-11e9-8936-e5c1dea7cf2f",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/634e870b_5402_45b1_ae6b_766d451282ed.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "4e769992-ce7d-11e9-8936-e5c1dea7cf2f",
@@ -971,6 +981,12 @@
                       "byond_id": "4e769991-ce7d-11e9-8936-e5c1dea7cf2f",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/634e870b_5402_45b1_ae6b_766d451282ed.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "4e769992-ce7d-11e9-8936-e5c1dea7cf2f",
@@ -1268,15 +1284,8 @@
                           "value": "true"
                         },
                         {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
+                          "key":"$$roughness",
+                          "value":1
                         },
                         {
                           "key": "$$environment_map",
@@ -1643,6 +1652,12 @@
                       "byond_id": "726ec615-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/267bc012_253f_4fe6_9353_8607c3505424.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -2868,6 +2883,12 @@
                       "byond_id": "f97c4928-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/8b72dae2_e0b2_4757_891f_ea9cb9eaf72b.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c4929-cfab-11e9-bf9d-9bbda7c407ea",
@@ -3150,6 +3171,12 @@
                       "byond_id": "f97c7032-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/178b1159_36b0_4a6d_a4de_93241c3c8ea6.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c7033-cfab-11e9-bf9d-9bbda7c407ea",
@@ -3454,6 +3481,12 @@
                       "byond_id": "f97c703e-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/92acfe98_ae25_43c7_bfbb_68be02e0a721.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c703f-cfab-11e9-bf9d-9bbda7c407ea",
@@ -3755,6 +3788,12 @@
                       "byond_id": "f97c7051-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/329e4d95_394b_4079_af63_2ee4ee2d41c1.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c7052-cfab-11e9-bf9d-9bbda7c407ea",
@@ -4333,6 +4372,12 @@
                       "byond_id": "f97c9748-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/5a4e4eff_d34d_44e8_8bc9_042db8f8983f.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c9749-cfab-11e9-bf9d-9bbda7c407ea",
@@ -4624,6 +4669,12 @@
                       "byond_id": "f97c974c-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/58ae41a2_46c2_4382_ac7a_4c2cccfd8c11.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -4789,6 +4840,12 @@
                       "byond_id": "f97c9752-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/634e870b_5402_45b1_ae6b_766d451282ed.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c9753-cfab-11e9-bf9d-9bbda7c407ea",
@@ -5080,6 +5137,12 @@
                       "byond_id": "f97c975a-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/a91a6b27_23db_4856_8af1_6e084424b87c.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5245,6 +5308,12 @@
                       "byond_id": "f97c9760-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/2f69d01d_fcfb_4cfd_a8ac_f5bb26c69f93.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -5410,6 +5479,12 @@
                       "byond_id": "f97c974c-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/58ae41a2_46c2_4382_ac7a_4c2cccfd8c11.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8356,6 +8431,12 @@
                       "byond_id": "726ffe86-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/64b59134_b2c1_4493_880d_510df6ff0353.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8424,6 +8505,12 @@
                       "byond_id": "726ffe81-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/83860dfc_32c9_484e_bcb2_6e80af97638e.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8636,6 +8723,12 @@
                       "byond_id": "726ec615-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/267bc012_253f_4fe6_9353_8607c3505424.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8826,6 +8919,12 @@
                       "byond_id": "f97c7046-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/92acfe98_ae25_43c7_bfbb_68be02e0a721.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c7047-cfab-11e9-bf9d-9bbda7c407ea",
@@ -9130,6 +9229,12 @@
                       "byond_id": "f97c4930-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/8b72dae2_e0b2_4757_891f_ea9cb9eaf72b.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c4931-cfab-11e9-bf9d-9bbda7c407ea",
@@ -10333,6 +10438,10 @@
                           "value": "true"
                         },
                         {
+                          "key":"$$roughness",
+                          "value":1
+                        },
+                        {
                           "key": "$$environment_map",
                           "value": {
                             "intensity": 0.75,
@@ -11213,6 +11322,12 @@
                       "byond_id": "16620a61-d0b6-11e9-8429-bf3cd67361f2",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/454e636d_3334_45c6_97ab_7a0792a0bc1a.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -11391,6 +11506,12 @@
                       "byond_id": "5b4a8e07-d1b1-11e9-a6c1-6f252a660204",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/83860dfc_32c9_484e_bcb2_6e80af97638e.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -11639,6 +11760,10 @@
                           "value": "true"
                         },
                         {
+                          "key":"$$roughness",
+                          "value":1
+                        },
+                        {
                           "key": "$$environment_map",
                           "value": {
                             "intensity": 0.75,
@@ -11829,6 +11954,12 @@
                       "byond_id": "726ffe81-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/83860dfc_32c9_484e_bcb2_6e80af97638e.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -11991,6 +12122,12 @@
                       "byond_id": "7270257a-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/64b59134_b2c1_4493_880d_510df6ff0353.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -12270,6 +12407,10 @@
                         {
                           "key": "$$set_double_sided_material",
                           "value": "true"
+                        },
+                        {
+                          "key":"$$roughness",
+                          "value":1
                         },
                         {
                           "key": "$$environment_map",
@@ -12682,6 +12823,12 @@
                       "byond_id": "a1a5e2f2-ced5-11e9-b7e4-e18d4965c6e7",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/178b1159_36b0_4a6d_a4de_93241c3c8ea6.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "a1a5e2f3-ced5-11e9-b7e4-e18d4965c6e7",
@@ -12986,6 +13133,12 @@
                       "byond_id": "a1a5e2fe-ced5-11e9-b7e4-e18d4965c6e7",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/92acfe98_ae25_43c7_bfbb_68be02e0a721.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "a1a5e2ff-ced5-11e9-b7e4-e18d4965c6e7",
@@ -14641,6 +14794,12 @@
                       "byond_id": "726ffe81-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/83860dfc_32c9_484e_bcb2_6e80af97638e.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -14709,6 +14868,12 @@
                       "byond_id": "726ffe86-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/64b59134_b2c1_4493_880d_510df6ff0353.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -15315,6 +15480,12 @@
                       "byond_id": "aaacfd98-d3a1-11e9-8635-25a57cf6be78",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/78cc4270_e2d7_4c31_b770_97121dc65dc6.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "aaacfd99-d3a1-11e9-8635-25a57cf6be78",
@@ -15586,6 +15757,12 @@
                       "byond_id": "726ffe78-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/1c5df935_abd0_4afb_84c4_86fedc7f1f1b.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "726ffe79-d3be-11e9-8253-55c0070b4f31",
@@ -16921,6 +17098,12 @@
                       "byond_id": "f97c976f-cfab-11e9-bf9d-9bbda7c407ea",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/1b7dc982_e568_4c67_b2a2_07ccef61f02e.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "f97c9770-cfab-11e9-bf9d-9bbda7c407ea",
@@ -17243,6 +17426,12 @@
                       "byond_id": "726ffe78-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/1c5df935_abd0_4afb_84c4_86fedc7f1f1b.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "726ffe79-d3be-11e9-8253-55c0070b4f31",
@@ -17393,6 +17582,12 @@
                       "byond_id": "726eecf2-d3be-11e9-8253-55c0070b4f31",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/10d885eb_6598_42d4_bcd2_dcd1d3f62472.glb"
+                      ,"custom_attributes": [
+                        {
+                          "key":"$$roughness",
+                          "value":1
+                        }
+                      ]
                     },
                     {
                       "byond_id": "726eecf3-d3be-11e9-8253-55c0070b4f31",
@@ -17661,37 +17856,8 @@
                           "value": "true"
                         },
                         {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
+                          "key":"$$roughness",
+                          "value":1
                         },
                         {
                           "key": "$$environment_map",
