@@ -13247,7 +13247,13 @@
                     {
                       "byond_id": "c2945db1-dd31-11e9-8201-db8fb8ef463e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/82816452_c0ee_4cc9_8c06_18a916e8ab27.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/82816452_c0ee_4cc9_8c06_18a916e8ab27.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -13346,7 +13352,13 @@
                     {
                       "byond_id": "c29436a4-dd31-11e9-8201-db8fb8ef463e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/a4190385_b72c_4950_b78a_47504c7152ef.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/a4190385_b72c_4950_b78a_47504c7152ef.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -13445,7 +13457,13 @@
                     {
                       "byond_id": "c29436a1-dd31-11e9-8201-db8fb8ef463e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/5200210c_83a8_4613_8372_cc5de035a039.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/5200210c_83a8_4613_8372_cc5de035a039.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -13551,7 +13569,13 @@
                     {
                       "byond_id": "c295210a-dd31-11e9-8201-db8fb8ef463e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/84298c7f_ff16_4967_a509_04b46656c804.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/84298c7f_ff16_4967_a509_04b46656c804.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -13678,7 +13702,13 @@
                     {
                       "byond_id": "c295481e-dd31-11e9-8201-db8fb8ef463e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/1594acee_f90d_41fc_bf1d_32cdada8562f.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/1594acee_f90d_41fc_bf1d_32cdada8562f.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
@@ -13784,7 +13814,13 @@
                     {
                       "byond_id": "c2954817-dd31-11e9-8201-db8fb8ef463e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/f6cd31ca_c9f3_4f79_a640_81dc3c505611.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/f6cd31ca_c9f3_4f79_a640_81dc3c505611.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        }
+                      ]
                     }
                   ]
                 }
