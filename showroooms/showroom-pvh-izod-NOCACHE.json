@@ -7995,6 +7995,11 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/23c359ad_8112_472f_b00b_268b34df405a.png",
                       "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "0fe458ed-b2c7-11e9-94fd-f9059f75aed2_4",
+                      "ElementName": "objModel",
+                      "source": "https://web-apps.byondxr.com/assets/models/pvh_izod/Shirt_Blue_Fixed.glb"
                     }
                   ]
                 }
@@ -10025,6 +10030,11 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/23c359ad_8112_472f_b00b_268b34df405a.png",
                       "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "0fe458ed-b2c7-11e9-94fd-f9059f75aed2_2",
+                      "ElementName": "objModel",
+                      "source": "https://web-apps.byondxr.com/assets/models/pvh_izod/Shirt_Blue_Fixed.glb"
                     }
                   ]
                 }
@@ -12000,6 +12010,11 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/23c359ad_8112_472f_b00b_268b34df405a.png",
                       "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "0fe458ed-b2c7-11e9-94fd-f9059f75aed2_3",
+                      "ElementName": "objModel",
+                      "source": "https://web-apps.byondxr.com/assets/models/pvh_izod/Shirt_Blue_Fixed.glb"
                     }
                   ]
                 }
