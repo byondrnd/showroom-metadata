@@ -8017,7 +8017,7 @@
                           "value": 1
                         },{
                           "key": "$$set_double_sided_material",
-                          "value": true
+                          "value": "true"
                         }
                       ]
                     }
@@ -10072,7 +10072,7 @@
                           "value": 1
                         },{
                           "key": "$$set_double_sided_material",
-                          "value": true
+                          "value": "true"
                         }
                       ]
                     }
@@ -12072,7 +12072,7 @@
                           "value": 1
                         },{
                           "key": "$$set_double_sided_material",
-                          "value": true
+                          "value": "true"
                         }
                       ]
                     }
