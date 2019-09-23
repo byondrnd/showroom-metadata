@@ -8015,6 +8015,9 @@
                         {
                           "key": "$$roughness",
                           "value": 1
+                        },{
+                          "key": "$$set_double_sided_material",
+                          "value": true
                         }
                       ]
                     }
@@ -10067,6 +10070,9 @@
                         {
                           "key": "$$roughness",
                           "value": 1
+                        },{
+                          "key": "$$set_double_sided_material",
+                          "value": true
                         }
                       ]
                     }
@@ -12064,6 +12070,9 @@
                         {
                           "key": "$$roughness",
                           "value": 1
+                        },{
+                          "key": "$$set_double_sided_material",
+                          "value": true
                         }
                       ]
                     }
