@@ -1,5 +1,5 @@
 {
-  "title": "Pucci Summer 2019",
+  "title": "Ralph Lauren PGA",
   "byond_id": "showroom_555555",
   "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
   "id": "1",
@@ -7,12 +7,12 @@
   "canvas": {
     "byond_id": "canvas_11111",
     "background": "#ffffff",
-    "title": "Pucci Summer 2019",
+    "title": "Ralph Lauren PGA",
     "artBoards": [
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": -41.028944742270916,
+          "x": -41.06038794223387,
           "y": 30.92283880380156,
           "z": 0
         },
@@ -45,189 +45,6 @@
           "_order": "XYZ"
         },
         "screens": [
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -3.646236078347016,
-              "y": -6.0772087816791505,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.2691532067551274,
-              "y": 2.2691532067551274,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1299/21cd2b20_b6f6_47bc_aac1_903dab0d99b8.png",
-            "medium": "https://viewer.byondxr.com/content/1299/21cd2b20_b6f6_47bc_aac1_903dab0d99b8.png",
-            "thumb": "https://viewer.byondxr.com/content/1299/21cd2b20_b6f6_47bc_aac1_903dab0d99b8.png",
-            "title": "",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "",
-                    "garment": "",
-                    "season": "",
-                    "category": "",
-                    "style": "",
-                    "designer": "",
-                    "title": "",
-                    "sku": "b-594",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "models": [
-                    {
-                      "byond_id": "f545b675-e5c7-11e9-b6c6-e144897e752a",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1299/d479b7b0_70a0_455a_bea5_7274484e0050.png",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "f545b676-e5c7-11e9-b6c6-e144897e752a",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1299/d1610b1b_8cd6_4b96_8e0b_39836a7a313a.png",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "f545b677-e5c7-11e9-b6c6-e144897e752a",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1299/ce0a9ec5_318e_4216_b366_41adbe6ccd09.png",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "f545b678-e5c7-11e9-b6c6-e144897e752a",
-                      "ElementName": "usdz",
-                      "source": "https://s3.amazonaws.com/web-apps.byondxr.com/Ralph_lorein/Assets/Sirt01.usdz"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10000005
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "03beda10-e5c8-11e9-b6c6-e144897e752a"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 0.33656337121597346,
-              "y": -6.236839142112018,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.1986446952677805,
-              "y": 2.1986446952677805,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1299/e4daf16a_d596_4b97_af10_3abcfdfdc733.png",
-            "medium": "https://viewer.byondxr.com/content/1299/e4daf16a_d596_4b97_af10_3abcfdfdc733.png",
-            "thumb": "https://viewer.byondxr.com/content/1299/e4daf16a_d596_4b97_af10_3abcfdfdc733.png",
-            "title": "",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "",
-                    "garment": "",
-                    "season": "",
-                    "category": "",
-                    "style": "",
-                    "designer": "",
-                    "title": "",
-                    "sku": "b-595",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10000005
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "0e0836b0-e5c8-11e9-b6c6-e144897e752a"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 4.175754071456033,
-              "y": -6.30664026219268,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.156339588376641,
-              "y": 2.156339588376641,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1299/d297adbd_d497_4d81_be2f_5796457f0257.png",
-            "medium": "https://viewer.byondxr.com/content/1299/d297adbd_d497_4d81_be2f_5796457f0257.png",
-            "thumb": "https://viewer.byondxr.com/content/1299/d297adbd_d497_4d81_be2f_5796457f0257.png",
-            "title": "",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "",
-                    "garment": "",
-                    "season": "",
-                    "category": "",
-                    "style": "",
-                    "designer": "",
-                    "title": "",
-                    "sku": "b-596",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 1
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "0f0b00b0-e5c8-11e9-b6c6-e144897e752a"
-          },
           {
             "metadataName": "Element3DMetadata",
             "position": {
@@ -265,53 +82,467 @@
                 "x": 0
               }
             },
-            "custom_attributes": [],
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 5
+              }
+            ],
             "show_time": [],
             "grow_type": "none",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.161915692990112,
+              "y": -6.477114974999081,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.8770639221288663,
+              "y": 2.8770639221288663,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png",
+            "medium": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png",
+            "title": "Polo 1_M#2 RUGBY ROYAL",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png",
+                    "color": ""
+                  },
+                  "info": {
+                    "company": "Ralph Lauren",
+                    "garment": "56Ralph Lauren",
+                    "season": "SPRING 2020",
+                    "category": "MEN'S POLO",
+                    "style": "#LKSNIE49",
+                    "designer": "Ralph Lauren",
+                    "title": "Polo 1_M#2 RUGBY ROYAL",
+                    "sku": "b-596",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "fa6bd544-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/a7b88a90_7090_44b4_80c8_75114792e76f.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bd545-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/8cc045f1_0d01_49e2_b19d_31ecad020d42.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bd546-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/f462be85_4c83_4ef1_bbd5_ec76d35e0296.glb"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000000
+              }
+            ],
             "rotation": {
               "_x": 0,
               "_y": 180,
               "_z": 0,
               "_order": "XYZ"
+            },
+            "byond_id": "0317fca0-e5d1-11e9-a7c9-69261fb186d2"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.730770138229406,
+              "y": -6.239843640085791,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.886592186746378,
+              "y": 2.886592186746378,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png",
+            "medium": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png",
+            "title": "Polo 1_M#2 RUGBY ROYAL MULTI",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#183A8C"
+                      },
+                      {
+                        "color": "#102D6F"
+                      },
+                      {
+                        "color": "#0D1730"
+                      },
+                      {
+                        "color": "#8F7442"
+                      },
+                      {
+                        "color": "#E6B953"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Ralph Lauren",
+                    "garment": "56Ralph Lauren",
+                    "season": "SPRING 2020",
+                    "category": "MEN'S POLO",
+                    "style": "#LKSNIE49",
+                    "designer": "Ralph Lauren",
+                    "title": "Polo 1_M#2 RUGBY ROYAL MULTI",
+                    "sku": "b-595",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "fa6bd540-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/a423167a_67b8_4847_9e4e_7a321a117d92.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bd541-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/43971bdd_e95d_4123_8950_a2627c36b998.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bd542-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/48005e28_4401_4fa5_a828_0356387a41d8.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bd543-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/1e0c937f_1710_4afa_922f_6814b8a94eb0.glb"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 7
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "03f34170-e5d1-11e9-a7c9-69261fb186d2"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -5.126387172489608,
+              "y": -6.220711057074428,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.896120268195606,
+              "y": 2.896120268195606,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png",
+            "medium": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png",
+            "title": "Polo 1_M#2 RUGBY ROYAL MULTI",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/fb755bf3_28a6_4c0f_b995_f73db196d56a.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/1ec32e12_9538_4a76_8328_b919ebb7a3c6.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#183A8C"
+                      },
+                      {
+                        "color": "#102D6F"
+                      },
+                      {
+                        "color": "#0D1730"
+                      },
+                      {
+                        "color": "#8F7442"
+                      },
+                      {
+                        "color": "#E6B953"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Ralph Lauren",
+                    "garment": "56Ralph Lauren",
+                    "season": "SPRING 2020",
+                    "category": "MEN'S POLO",
+                    "style": "#LKSNIE49",
+                    "designer": "Ralph Lauren",
+                    "title": "Polo 1_M#2 RUGBY ROYAL MULTI",
+                    "sku": "b-594",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/f9096d03_d8f0_49eb_99d9_04965cd93301.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "fa6bae4d-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/6f33ba22_f948_44f1_800b_aedf3d76ee30.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bae4e-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ff0d20c6_fa63_4d1a_b30c_2b53e5bebd0e.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bae4f-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/c2ea8b8e_afdd_4beb_9806_a85ba31fd878.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "fa6bae50-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/834a78c0_725a_4680_b05d_632d6eedf895.glb"
+                    },
+                    {
+                      "byond_id": "fa6bae51-e5d0-11e9-a7c9-69261fb186d2",
+                      "ElementName": "usdz",
+                      "source": "https://s3.amazonaws.com/web-apps.byondxr.com/Ralph_lorein/Assets/Sirt01-s.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 8
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "05659620-e5d1-11e9-a7c9-69261fb186d2"
+          }
+        ],
+        "custom_attributes": [
+          {
+            "key": "view_type",
+            "value": "base_board_view",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
             }
           }
         ]
-      },
-      {
-        "metadataName": "Element3DMetadata",
-        "position": {
-          "x": -5.672420970207906,
-          "y": 30.922838803801554,
-          "z": 0
-        },
-        "scale": {
-          "x": 1,
-          "y": 1,
-          "z": 1
-        },
-        "is_cast_shadow": false,
-        "is_receive_shadow": false,
-        "backgroundScale": {
-          "x": 9,
-          "y": 9,
-          "z": 1
-        },
-        "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1299/bb45df4a_5952_477f_98d1_039c90f43268.png",
-        "padding": {
-          "top": 3,
-          "bottom": 4.5,
-          "rigth": 3,
-          "left": 3
-        },
-        "title": "New Artboard",
-        "byond_id": "c39499b0-e5c3-11e9-b6c6-e144897e752a",
-        "rotation": {
-          "_x": 0,
-          "_y": 180,
-          "_z": 0,
-          "_order": "XYZ"
-        }
       }
     ]
   },
