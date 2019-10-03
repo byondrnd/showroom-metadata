@@ -4850,50 +4850,6 @@
                             "intensity": 0.75,
                             "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
                           }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
                         }
                       ]
                     },

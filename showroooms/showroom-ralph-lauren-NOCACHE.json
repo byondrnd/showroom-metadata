@@ -205,7 +205,23 @@
                     {
                       "byond_id": "fa6bd546-e5d0-11e9-a7c9-69261fb186d2",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/f462be85_4c83_4ef1_bbd5_ec76d35e0296.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/f462be85_4c83_4ef1_bbd5_ec76d35e0296.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        }]
                     }
                   ]
                 }
@@ -356,7 +372,23 @@
                     {
                       "byond_id": "fa6bd543-e5d0-11e9-a7c9-69261fb186d2",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/1e0c937f_1710_4afa_922f_6814b8a94eb0.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/834a78c0_725a_4680_b05d_632d6eedf895.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        }]
                     }
                   ]
                 }
@@ -507,7 +539,23 @@
                     {
                       "byond_id": "fa6bae50-e5d0-11e9-a7c9-69261fb186d2",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/834a78c0_725a_4680_b05d_632d6eedf895.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/1e0c937f_1710_4afa_922f_6814b8a94eb0.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$roughness",
+                          "value": 1
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        }]
                     },
                     {
                       "byond_id": "fa6bae51-e5d0-11e9-a7c9-69261fb186d2",
