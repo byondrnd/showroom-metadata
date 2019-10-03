@@ -1,0 +1,332 @@
+{
+  "title": "Pucci Summer 2019",
+  "byond_id": "showroom_555555",
+  "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
+  "id": "1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "canvas": {
+    "byond_id": "canvas_11111",
+    "background": "#ffffff",
+    "title": "Pucci Summer 2019",
+    "artBoards": [
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -41.028944742270916,
+          "y": 30.92283880380156,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "view_type": "base_board_view",
+        "background": "https://viewer.byondxr.com/content/1299/bb45df4a_5952_477f_98d1_039c90f43268.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "rigth": 3,
+          "left": 3
+        },
+        "title": "New Artboard",
+        "byond_id": "c2cc67b0-e5c3-11e9-b6c6-e144897e752a",
+        "rotation": {
+          "_x": 0,
+          "_y": 180,
+          "_z": 0,
+          "_order": "XYZ"
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.646236078347016,
+              "y": -6.0772087816791505,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.2691532067551274,
+              "y": 2.2691532067551274,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/21cd2b20_b6f6_47bc_aac1_903dab0d99b8.png",
+            "medium": "https://viewer.byondxr.com/content/1299/21cd2b20_b6f6_47bc_aac1_903dab0d99b8.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/21cd2b20_b6f6_47bc_aac1_903dab0d99b8.png",
+            "title": "",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "",
+                    "sku": "b-594",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "f545b675-e5c7-11e9-b6c6-e144897e752a",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/d479b7b0_70a0_455a_bea5_7274484e0050.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "f545b676-e5c7-11e9-b6c6-e144897e752a",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/d1610b1b_8cd6_4b96_8e0b_39836a7a313a.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "f545b677-e5c7-11e9-b6c6-e144897e752a",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/ce0a9ec5_318e_4216_b366_41adbe6ccd09.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "f545b678-e5c7-11e9-b6c6-e144897e752a",
+                      "ElementName": "usdz",
+                      "source": "https://s3.amazonaws.com/web-apps.byondxr.com/Ralph_lorein/Assets/Sirt01.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000005
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "03beda10-e5c8-11e9-b6c6-e144897e752a"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.33656337121597346,
+              "y": -6.236839142112018,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.1986446952677805,
+              "y": 2.1986446952677805,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/e4daf16a_d596_4b97_af10_3abcfdfdc733.png",
+            "medium": "https://viewer.byondxr.com/content/1299/e4daf16a_d596_4b97_af10_3abcfdfdc733.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/e4daf16a_d596_4b97_af10_3abcfdfdc733.png",
+            "title": "",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "",
+                    "sku": "b-595",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000005
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "0e0836b0-e5c8-11e9-b6c6-e144897e752a"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.175754071456033,
+              "y": -6.30664026219268,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.156339588376641,
+              "y": 2.156339588376641,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/d297adbd_d497_4d81_be2f_5796457f0257.png",
+            "medium": "https://viewer.byondxr.com/content/1299/d297adbd_d497_4d81_be2f_5796457f0257.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/d297adbd_d497_4d81_be2f_5796457f0257.png",
+            "title": "",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "",
+                    "sku": "b-596",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 1
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "0f0b00b0-e5c8-11e9-b6c6-e144897e752a"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.2417995633618446,
+              "y": 1.5178660648125533,
+              "z": 0
+            },
+            "scale": {
+              "x": 4.023708348311175,
+              "y": 4.544017564544268,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "_id": "5d95cd65b242636152b820c9",
+            "title": "media_1",
+            "is_loop": true,
+            "auto_play": true,
+            "display_video_controls": true,
+            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/4c6a39df_ecab_4f97_9cdc_8263043363a1.png",
+            "medium": "https://viewer.byondxr.com/content/1299/medium/4c6a39df_ecab_4f97_9cdc_8263043363a1.png",
+            "picture": "https://viewer.byondxr.com/content/1299/thumb/4c6a39df_ecab_4f97_9cdc_8263043363a1.png",
+            "source": "https://viewer.byondxr.com/content/1299/4c6a39df_ecab_4f97_9cdc_8263043363a1.mp4",
+            "type": "video",
+            "byond_id": "beb650f0-e5c8-11e9-b6c6-e144897e752a",
+            "video_controls": {
+              "scale": {
+                "z": 1,
+                "y": 1,
+                "x": 1
+              },
+              "position": {
+                "z": 10,
+                "y": 0,
+                "x": 0
+              }
+            },
+            "custom_attributes": [],
+            "show_time": [],
+            "grow_type": "none",
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": -5.672420970207906,
+          "y": 30.922838803801554,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "view_type": "base_board_view",
+        "background": "https://viewer.byondxr.com/content/1299/bb45df4a_5952_477f_98d1_039c90f43268.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "rigth": 3,
+          "left": 3
+        },
+        "title": "New Artboard",
+        "byond_id": "c39499b0-e5c3-11e9-b6c6-e144897e752a",
+        "rotation": {
+          "_x": 0,
+          "_y": 180,
+          "_z": 0,
+          "_order": "XYZ"
+        }
+      }
+    ]
+  },
+  "custom_attributes": [
+    {
+      "key": "$$camera",
+      "value": {
+        "dolly_camera": {
+          "min_z": "0.1"
+        }
+      }
+    },
+    {
+      "key": "journy",
+      "value": []
+    }
+  ]
+}
