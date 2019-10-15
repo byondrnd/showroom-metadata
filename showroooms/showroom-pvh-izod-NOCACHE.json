@@ -8246,6 +8246,13 @@
                         {
                           "key": "$$roughness",
                           "value": 1
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 1.5,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
                         }
                       ]
                     },
@@ -8261,6 +8268,13 @@
                         {
                           "key": "$$set_double_sided_material",
                           "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 1.5,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
                         }
                       ]
                     }
@@ -9438,11 +9452,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/d797d4d7_c8c2_4b56_a0e6_840d94283e61.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "0fe458ed-b2c7-11e9-94fd-f9059f75aed2",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/d9553169_6cd4_4357_ba4d_aa3635a6fbfc.glb"
                     }
                   ]
                 }
@@ -9598,11 +9607,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/0585cbaf_8b6d_4c0a_9623_c1888d3a98e6.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "0fe431fc-b2c7-11e9-94fd-f9059f75aed2",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/447284f6_cc3a_4032_bc6b_a6dd74300687.glb"
                     }
                   ]
                 }
@@ -9758,11 +9762,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/b9476071_3734_4c00_a711_25e4a386f669.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "0fe458de-b2c7-11e9-94fd-f9059f75aed2",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/67019d0d_40a7_43bf_a706_9f2256fb9338.glb"
                     }
                   ]
                 }
@@ -13759,11 +13758,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/d797d4d7_c8c2_4b56_a0e6_840d94283e61.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "0fe458ed-b2c7-11e9-94fd-f9059f75aed2",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/d9553169_6cd4_4357_ba4d_aa3635a6fbfc.glb"
                     }
                   ]
                 }
@@ -13919,24 +13913,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/0585cbaf_8b6d_4c0a_9623_c1888d3a98e6.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "0fe431fc-b2c7-11e9-94fd-f9059f75aed2",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/447284f6_cc3a_4032_bc6b_a6dd74300687.glb",
-                      "custom_attributes": [
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        }
-                      ]
                     }
                   ]
                 }
@@ -14091,28 +14067,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/b9476071_3734_4c00_a711_25e4a386f669.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "c295481e-dd31-11e9-8201-db8fb8ef463e",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/1594acee_f90d_41fc_bf1d_32cdada8562f.glb",
-                      "custom_attributes": [
-                        {
-                          "key": "$$roughness",
-                          "value": 1
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        }
-                      ]
                     }
                   ]
                 }
@@ -14267,11 +14221,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/05a407d9_577d_4113_b370_e9af5e68c5a7.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "abf3ff80-dde3-11e9-93ca-e52771eb6647",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/f6cd31ca_c9f3_4f79_a640_81dc3c505611.glb"
                     }
                   ]
                 }
@@ -14405,11 +14354,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/a029f864_dc7c_49a4_a00e_70a45f0f9750.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "abf3ff70-dde3-11e9-93ca-e52771eb6647",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/84298c7f_ff16_4967_a509_04b46656c804.glb"
                     }
                   ]
                 }
@@ -19747,11 +19691,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/d797d4d7_c8c2_4b56_a0e6_840d94283e61.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "14172e92-de0f-11e9-84bd-85ec15042fb2",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/d9553169_6cd4_4357_ba4d_aa3635a6fbfc.glb"
                     }
                   ]
                 }
@@ -19906,11 +19845,6 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/05a407d9_577d_4113_b370_e9af5e68c5a7.png",
                       "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "34ad21e8-de12-11e9-9f0c-8178ebf179c7",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/f6cd31ca_c9f3_4f79_a640_81dc3c505611.glb"
                     }
                   ]
                 }
