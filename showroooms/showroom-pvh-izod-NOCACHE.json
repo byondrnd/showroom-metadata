@@ -12896,21 +12896,6 @@
                           "value": 1
                         }
                       ]
-                    },
-                    {
-                      "byond_id": "0fe458ed-b2c7-11e9-94fd-f9059f75aed2_4288",
-                      "ElementName": "objModel",
-                      "source": "https://web-apps.byondxr.com/assets/models/pvh_izod/45PW159_Garment_435_ESTATE_BLUE_435_ESTATE_BLUE3.glb",
-                      "custom_attributes": [
-                        {
-                          "key": "$$roughness",
-                          "value": 1
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        }
-                      ]
                     }
                   ]
                 }
