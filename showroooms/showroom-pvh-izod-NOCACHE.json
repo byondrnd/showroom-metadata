@@ -21521,7 +21521,7 @@
                     {
                       "byond_id": "daadfdd5-ef87-11e9-a623-35765a342987",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/88dcfa17_202d_422e_b546_2d623d91ad4e.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/4f944c3d_ea0b_4564_a18a_a58ac1850172.glb"
                     }
                   ]
                 }
@@ -21680,7 +21680,7 @@
                     {
                       "byond_id": "91726348-ef91-11e9-a623-35765a342987",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/7bfc21a6_1d8c_4d82_8b74_7106c5c5ab2a.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/71fe77a9_4d9c_4317_b621_e536c10e705f.glb"
                     }
                   ]
                 }
@@ -21918,7 +21918,7 @@
       "value": [
         {
           "type": "glb",
-          "url": "https://viewer.byondxr.com/content/1198/88dcfa17_202d_422e_b546_2d623d91ad4e.glb",
+          "url": "https://viewer.byondxr.com/content/1198/4f944c3d_ea0b_4564_a18a_a58ac1850172.glb",
           "sync": "true"
         }
       ]
