@@ -21005,14 +21005,14 @@
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 172.09027545916283,
-          "y": 50.398150497281826,
+          "x": 172.30438430097774,
+          "y": 50.8182877367364,
           "z": 0
         },
         "scale": {
-          "x": 1.2144905387678182,
-          "y": 1.1330129559969395,
-          "z": 1.2144905387678182
+          "x": 1.220940967494427,
+          "y": 1.1390512244168427,
+          "z": 1.220940967494427
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
@@ -21192,7 +21192,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -21253,319 +21253,6 @@
               "_z": 0,
               "_order": "XYZ"
             }
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 5.22748136293956,
-              "y": -8.64615351670729,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.0415540638518994,
-              "y": 2.1312606638890346,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/da44e8e9_e903_4afa_8542_27583aebf776.png",
-            "medium": "https://viewer.byondxr.com/content/1198/da44e8e9_e903_4afa_8542_27583aebf776.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/da44e8e9_e903_4afa_8542_27583aebf776.png",
-            "title": "45PK124-497_F",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/591c46ed_6c10_45eb_999b_50f3d483ca4c.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f9c3a406_b78b_43a0_9806_cc15f072e094.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/219e67b6_aa74_466a_9988_a1bc9705a212.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/dbc5d232_f70b_4a89_959a_0f980114e150.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/da44e8e9_e903_4afa_8542_27583aebf776.png",
-                    "color": ""
-                  },
-                  "info": {
-                    "company": "Heritage | Izod",
-                    "garment": "L/S WOVEN SHIRTS-CM",
-                    "season": "SPRING 2020",
-                    "category": "CLEAR AIR-415041",
-                    "style": "45PW146 | LS BD Y/D GINGHAM",
-                    "designer": "IZOD",
-                    "title": "45PK124-497_F",
-                    "sku": "b-238",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/da44e8e9_e903_4afa_8542_27583aebf776.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": [
-                    {
-                      "byond_id": "3a1d142e-eee0-11e9-8bae-05a8b0dcf895",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/57362895_b86d_4bc7_93ab_ff32e1f5767f.png",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "3a1d142f-eee0-11e9-8bae-05a8b0dcf895",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/cdb59402_37ea_49a3_8c32_7e2de594c1ac.png",
-                      "grow_type": "none"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 7
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/da44e8e9_e903_4afa_8542_27583aebf776.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "8f0eaf20-eee0-11e9-8bae-05a8b0dcf895"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -4.22845264408739,
-              "y": -8.62064257111885,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.0745872515989245,
-              "y": 2.1518633068048834,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/dec65332_3689_4dc1_b491_cfcc3446b8a8.png",
-            "medium": "https://viewer.byondxr.com/content/1198/dec65332_3689_4dc1_b491_cfcc3446b8a8.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/dec65332_3689_4dc1_b491_cfcc3446b8a8.png",
-            "title": "45PK124-355_F",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/591c46ed_6c10_45eb_999b_50f3d483ca4c.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f9c3a406_b78b_43a0_9806_cc15f072e094.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/219e67b6_aa74_466a_9988_a1bc9705a212.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png"
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/dbc5d232_f70b_4a89_959a_0f980114e150.png"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/dec65332_3689_4dc1_b491_cfcc3446b8a8.png",
-                    "color": ""
-                  },
-                  "info": {
-                    "company": "Heritage | Izod",
-                    "garment": "L/S WOVEN SHIRTS-CM",
-                    "season": "SPRING 2020",
-                    "category": "CLEAR AIR-415041",
-                    "style": "45PW146 | LS BD Y/D GINGHAM",
-                    "designer": "IZOD",
-                    "title": "45PK124-355_F",
-                    "sku": "b-236",
-                    "description": "",
-                    "collection": ""
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/dec65332_3689_4dc1_b491_cfcc3446b8a8.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": [
-                    {
-                      "byond_id": "3a1d1428-eee0-11e9-8bae-05a8b0dcf895",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/f74f31ba_fe6c_4e1c_8401_87c37b34560e.png",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "3a1d1429-eee0-11e9-8bae-05a8b0dcf895",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/29bc4774_7467_430f_8a1a_3f491bed3047.png",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "3a1d142a-eee0-11e9-8bae-05a8b0dcf895",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/2d067dce_12b9_41d4_bdbb_17fbccab9160.glb"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 8
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/dec65332_3689_4dc1_b491_cfcc3446b8a8.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "9132eeb0-eee0-11e9-8bae-05a8b0dcf895"
           },
           {
             "metadataName": "Element3DMetadata",
@@ -21679,11 +21366,43 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/03086d5a_4f19_496a_a117_9934fcea104b.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 8
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -21806,11 +21525,43 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/2fe46ca6_df38_4d3a_8187_85c41d146f6e.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 10
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -21819,12 +21570,12 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 10.030392075563523,
-              "y": -8.486131059718677,
+              "x": 10.186209559946402,
+              "y": -8.408222317527237,
               "z": 0
             },
             "scale": {
-              "x": 2.0258680077326683,
+              "x": 2.0647463840465488,
               "y": 2.099640549405403,
               "z": 1
             },
@@ -21933,6 +21684,38 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/931d72d1_934f_4bbf_82c2_b5912092f654.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 9
               }
             ],
             "rotation": {
@@ -21942,6 +21725,176 @@
               "_order": "XYZ"
             },
             "byond_id": "c22aec00-ef91-11e9-a623-35765a342987"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 5.295073003534355,
+              "y": -8.566206702394943,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.13152703598611,
+              "y": 2.119411755399562,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png",
+            "medium": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png",
+            "title": "45PK124-497_F",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/591c46ed_6c10_45eb_999b_50f3d483ca4c.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f9c3a406_b78b_43a0_9806_cc15f072e094.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/219e67b6_aa74_466a_9988_a1bc9705a212.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/dbc5d232_f70b_4a89_959a_0f980114e150.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png",
+                    "color": ""
+                  },
+                  "info": {
+                    "company": "Heritage | Izod",
+                    "garment": "L/S WOVEN SHIRTS-CM",
+                    "season": "SPRING 2020",
+                    "category": "CLEAR AIR-415041",
+                    "style": "45PW146 | LS BD Y/D GINGHAM",
+                    "designer": "IZOD",
+                    "title": "45PK124-497_F",
+                    "sku": "b-0.5",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1299/1089a049_8a49_4e74_9dee_cae148c65414.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "d1eca252-efeb-11e9-a7fc-7b5b5d5ffe90",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/57362895_b86d_4bc7_93ab_ff32e1f5767f.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "d1eca253-efeb-11e9-a7fc-7b5b5d5ffe90",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/cdb59402_37ea_49a3_8c32_7e2de594c1ac.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "d958cfa0-efeb-11e9-a7fc-7b5b5d5ffe90"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.202063564861248,
+              "y": -8.57851191365193,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.118567577213573,
+              "y": 2.1055203519663603,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/f9c3a406_b78b_43a0_9806_cc15f072e094.png",
+            "medium": "https://viewer.byondxr.com/content/1299/f9c3a406_b78b_43a0_9806_cc15f072e094.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/f9c3a406_b78b_43a0_9806_cc15f072e094.png",
+            "title": "45PH060-460_F",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "45PH060-460_F",
+                    "sku": "b-0.9",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "dccdf930-efeb-11e9-a7fc-7b5b5d5ffe90"
           }
         ],
         "custom_attributes": [
