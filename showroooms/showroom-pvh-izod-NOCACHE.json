@@ -21914,6 +21914,15 @@
   },
   "custom_attributes": [
     {
+      "key": "$$prefetch",
+      "value": [
+        {
+          "type": "glb",
+          "url": "https://viewer.byondxr.com/content/1198/88dcfa17_202d_422e_b546_2d623d91ad4e.glb"
+        }
+      ]
+    },
+    {
       "key": "$$camera",
       "value": {
         "dolly_camera": {
