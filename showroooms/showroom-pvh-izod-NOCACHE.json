@@ -21363,6 +21363,11 @@
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1299/6deb2932_1f3e_4e31_bb23_f62f189903d7.png",
                       "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "daadfdd5-ef87-11e9-a623-35765a342987",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/8c7bc5f7_36fe_4f86_8fdc_91207a79087d.glb"
                     }
                   ]
                 }
