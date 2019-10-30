@@ -1,0 +1,1443 @@
+{
+  "title": "Calvin Klien HK",
+  "byond_id": "calvin_klein_HK_showroom_1",
+  "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg",
+  "id": "1",
+  "description": "Calvin Klien HK Showroom",
+  "canvas": {
+    "byond_id": "canvas_11111",
+    "background": "#ffffff",
+    "title": "Calvin Klien HK",
+    "artBoards": [
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 44.123554545492155,
+          "y": 53.748533699214875,
+          "z": 0
+        },
+        "scale": {
+          "x": 1.2009832014494,
+          "y": 1.134758739534124,
+          "z": 1.2009832014494
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 9,
+          "y": 9,
+          "z": 1
+        },
+        "view_type": "base_board_view",
+        "rotation": {
+          "_x": 0,
+          "_y": 0,
+          "_z": 0,
+          "_order": "XYZ"
+        },
+        "byond_id": "board_4",
+        "id": "board_4",
+        "title": "Board 1",
+        "background": "https://viewer.byondxr.com/content/1299/bb45df4a_5952_477f_98d1_039c90f43268.png",
+        "padding": {
+          "top": 3,
+          "bottom": 4.5,
+          "left": 3,
+          "rigth": 3
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.4312103489087793,
+              "y": -8.103981455001916,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.7097944290982543,
+              "y": 2.971700006064932,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "_id": "5d7a7a60b242636152b7c239",
+            "title": "media_1",
+            "is_loop": true,
+            "auto_play": true,
+            "display_video_controls": true,
+            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/6e253999_af03_4b0d_ab90_215e52261e14.png",
+            "medium": "https://viewer.byondxr.com/content/1299/medium/6e253999_af03_4b0d_ab90_215e52261e14.png",
+            "picture": "https://viewer.byondxr.com/content/1299/thumb/6e253999_af03_4b0d_ab90_215e52261e14.png",
+            "source": "https://viewer.byondxr.com/content/1299/6e253999_af03_4b0d_ab90_215e52261e14.mp4",
+            "type": "video",
+            "byond_id": "aacc59c0-d580-11e9-8300-a7c7bda94db3",
+            "video_controls": {
+              "scale": {
+                "z": 1,
+                "y": 1,
+                "x": 1
+              },
+              "position": {
+                "z": 10,
+                "y": 0,
+                "x": 0
+              }
+            },
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 10
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "show_time": [],
+            "grow_type": "none",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.9252674072256788,
+              "y": -3.2378314713508516,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/e15457c9_d19d_475f_ab1a_932a524ab02a.png",
+            "medium": "https://viewer.byondxr.com/content/1198/e15457c9_d19d_475f_ab1a_932a524ab02a.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/e15457c9_d19d_475f_ab1a_932a524ab02a.png",
+            "title": "key look1",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "key look1",
+                    "sku": "b-460",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 4
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/e15457c9_d19d_475f_ab1a_932a524ab02a.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "346ad970-d592-11e9-91ba-8b8b170f877f"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.09949994937259987,
+              "y": 2.3972931258084706,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.6518672909760053,
+              "y": 1.7211855278836579,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/2af5d8b4_d23e_47f8_ac49_283802ee1bf1.png",
+            "medium": "https://viewer.byondxr.com/content/1299/2af5d8b4_d23e_47f8_ac49_283802ee1bf1.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/2af5d8b4_d23e_47f8_ac49_283802ee1bf1.png",
+            "title": "ORCHID TINT / WHITE",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "ORCHID TINT / WHITE",
+                    "sku": "b-496",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/2af5d8b4_d23e_47f8_ac49_283802ee1bf1.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "93a411d0-dac0-11e9-b528-91cd15fd026c"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.077675622986359,
+              "y": 2.34329102150355,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.6411809419442924,
+              "y": 1.7093628143125477,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/c57e64ff_edd7_4453_9545_cb57733fa6d5.png",
+            "medium": "https://viewer.byondxr.com/content/1299/c57e64ff_edd7_4453_9545_cb57733fa6d5.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/c57e64ff_edd7_4453_9545_cb57733fa6d5.png",
+            "title": "WHITE / BLUE SKY",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "WHITE / BLUE SKY",
+                    "sku": "b-497",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 5
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/c57e64ff_edd7_4453_9545_cb57733fa6d5.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "96a6f190-dac0-11e9-b528-91cd15fd026c"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -7.515572902866808,
+              "y": -9.24435969526748,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.7862310566363797,
+              "y": 1.8698372620750277,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/53faa8db_2745_49c4_b37d_336d3738c7fe.png",
+            "medium": "https://viewer.byondxr.com/content/1299/53faa8db_2745_49c4_b37d_336d3738c7fe.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/53faa8db_2745_49c4_b37d_336d3738c7fe.png",
+            "title": 23,
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": 23,
+                    "sku": "b-492",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 7
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/53faa8db_2745_49c4_b37d_336d3738c7fe.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "9f2f3d40-dac0-11e9-b528-91cd15fd026c"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -9.892200197277404,
+              "y": -8.186836167747288,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.752535439923262,
+              "y": 1.8325585222716683,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/b70ca3f5_dc9d_422d_926c_7c09e495adc9.png",
+            "medium": "https://viewer.byondxr.com/content/1299/b70ca3f5_dc9d_422d_926c_7c09e495adc9.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/b70ca3f5_dc9d_422d_926c_7c09e495adc9.png",
+            "title": 22,
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": 22,
+                    "sku": "b-491",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 12
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/b70ca3f5_dc9d_422d_926c_7c09e495adc9.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "a05ce7d0-dac0-11e9-b528-91cd15fd026c"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 8.086518407482313,
+              "y": -9.020752706544148,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8121625214196442,
+              "y": 2.0291787979260163,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/3d92d3c1_7527_4954_a416_6d3e4e5025c0.png",
+            "medium": "https://viewer.byondxr.com/content/1299/3d92d3c1_7527_4954_a416_6d3e4e5025c0.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/3d92d3c1_7527_4954_a416_6d3e4e5025c0.png",
+            "title": "NAVY / CANVAS",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "NAVY / CANVAS",
+                    "sku": "b-484",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 11
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/3d92d3c1_7527_4954_a416_6d3e4e5025c0.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "a405cb90-dac0-11e9-b528-91cd15fd026c"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 10.666771555823733,
+              "y": -8.686835464592125,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.895332625468002,
+              "y": 2.0600759253471286,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/64127f36_73b4_4860_a9c0_536e9bb22245.png",
+            "medium": "https://viewer.byondxr.com/content/1299/64127f36_73b4_4860_a9c0_536e9bb22245.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/64127f36_73b4_4860_a9c0_536e9bb22245.png",
+            "title": 16,
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": 16,
+                    "sku": "b-485",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 14
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/64127f36_73b4_4860_a9c0_536e9bb22245.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "a5485db0-dac0-11e9-b528-91cd15fd026c"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.484417790880247,
+              "y": 2.285353200459735,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.6528718696394187,
+              "y": 1.7222969313912486,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png",
+            "medium": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png",
+            "title": "NAVY / WHITE",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/2af5d8b4_d23e_47f8_ac49_283802ee1bf1.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/c57e64ff_edd7_4453_9545_cb57733fa6d5.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/ca782e5c_9503_4b27_becc_a2219480288e.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#181831"
+                      },
+                      {
+                        "color": "#273149"
+                      },
+                      {
+                        "color": "#383866"
+                      },
+                      {
+                        "color": "#A8ACD7"
+                      },
+                      {
+                        "color": "#E7E7F1"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Splendid",
+                    "garment": "81409-10",
+                    "season": "spring 2020",
+                    "category": "charter looseknit",
+                    "style": "GDJ9DNF",
+                    "designer": "Splendid",
+                    "title": "NAVY / WHITE",
+                    "sku": "b-495",
+                    "description": "charter looseknit",
+                    "collection": ""
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "0a459068-dace-11e9-9692-fb226d32348f",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/759252ba_d830_4cf2_bf48_7c29aa1210df.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "0a459069-dace-11e9-9692-fb226d32348f",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/c937c95d_ad16_4cc2_a813_46432cc439cd.png",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 7
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/e44b4360_aacd_4912_84c0_7747f4656edf.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "1ec8b920-dace-11e9-9692-fb226d32348f"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 12.034089236977547,
+              "y": 6.089222832729941,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.6636251160078483,
+              "y": 0.627578343080616,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/45cccbb9_5a28_4409_93d2_0e3c070793c5.png",
+            "medium": "https://viewer.byondxr.com/content/1299/45cccbb9_5a28_4409_93d2_0e3c070793c5.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/45cccbb9_5a28_4409_93d2_0e3c070793c5.png",
+            "title": "",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "",
+                    "sku": "b-206",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 21
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/45cccbb9_5a28_4409_93d2_0e3c070793c5.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "91cb7e50-dc8e-11e9-a725-ed7a2970d4e5"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 12.038584517538872,
+              "y": 5.436232180988853,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.6817319526117243,
+              "y": 0.5537760401640925,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/fce0f4f2_a1a9_4005_a8aa_04e497919b1d.png",
+            "medium": "https://viewer.byondxr.com/content/1299/fce0f4f2_a1a9_4005_a8aa_04e497919b1d.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/fce0f4f2_a1a9_4005_a8aa_04e497919b1d.png",
+            "title": "",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "",
+                    "sku": "b-324",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 22
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/fce0f4f2_a1a9_4005_a8aa_04e497919b1d.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "94c7a750-dc8e-11e9-a725-ed7a2970d4e5"
+          }
+        ],
+        "custom_attributes": [
+          {
+            "key": "view_type",
+            "value": "base_board_view",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          }
+        ],
+        "css_elements": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.5421001654357855,
+              "y": -1.053929859051026,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.017101256425133386,
+              "y": 0.02149127804253825,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"NAVY / WHITE\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "02206020-dc63-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.349237822502838,
+              "y": -1.7190727402777028,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01775486018526388,
+              "y": 0.02286133083800263,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"BLUE SKY\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "2ce24490-dc63-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.1292323435293916,
+              "y": -1.0331311520059518,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.016558044003260778,
+              "y": 0.02425518348586358,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"ORCHID TINT/\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "74ec0a50-dc63-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.273672274067412,
+              "y": -1.022290348605626,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01622978474498047,
+              "y": 0.026311989039857875,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"WHITE\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "a7178400-dc63-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -7.780901726688313,
+              "y": -12.87081021387622,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01571404028104838,
+              "y": 0.018619901058035234,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"BLACK\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "34fd0bf0-dc64-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -10.010184397549077,
+              "y": -12.868216361733044,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01695115854342022,
+              "y": 0.017875657090920562,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"WHITE\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "47715200-dc64-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -8.794704642920074,
+              "y": -13.99070872459206,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.012140691175958724,
+              "y": 0.020241562575489272,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"RS0S130\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "5fd00760-dc64-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -8.791461990429228,
+              "y": -14.541675334278086,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.011414569112988009,
+              "y": 0.01679867336235624,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"$49/$128\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "7f8fc680-dc64-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 8.119521860992844,
+              "y": -12.951355006222045,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.012204861775480372,
+              "y": 0.019243666810435076,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"NAVY / CANVAS\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "a45a6a60-dc64-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 10.751029755869105,
+              "y": -12.942015940733224,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01167551928703809,
+              "y": 0.020565004831826068,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"PINK / CANVAS\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "903da6a0-dc73-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 9.604330792570064,
+              "y": -14.074491527105351,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01278419431162556,
+              "y": 0.020097737211279516,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"RS0S130\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "ab0fa5f0-dc73-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 9.579691218967074,
+              "y": -14.544314691589811,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.011340457684955965,
+              "y": 0.018388805291368195,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"$67/$174\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "eb132140-dc73-11e9-9455-452791889e45",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.16719600918603916,
+              "y": -1.6438046658560417,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.01894239421047177,
+              "y": 0.02058804863546195,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"WHITE\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "405509b0-dc75-11e9-8682-4f9cf9f94789",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.012725949804927694,
+              "y": 6.50263936109436,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.02127993556658031,
+              "y": 0.035230043296313795,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"Charter Looseknit\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "834d5b00-dc75-11e9-8682-4f9cf9f94789",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 9.504127803875527,
+              "y": -3.994506241705409,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.02270649389168382,
+              "y": 0.03113067939599666,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"Mohawk Sweater\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "ec90d3b0-dc8b-11e9-8682-4f9cf9f94789",
+            "width": 200,
+            "height": 35
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -8.76989576724049,
+              "y": -3.963896684828038,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.023614303534521434,
+              "y": 0.03195055230678171,
+              "z": 1.1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "html": "<div class=\"textCssElement\" style=\"width: 100%; height: 100%;\">\n    <input class=\"text-input\" name=\"Text Element\" type=\"text\" value=\"Inlet Pullover\">\n</div>",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "title": "editable text",
+            "byond_id": "ec916ff0-dc8b-11e9-8682-4f9cf9f94789",
+            "width": 200,
+            "height": 35
+          }
+        ]
+      }
+    ]
+  },
+  "custom_attributes": [
+    {
+      "key": "$$camera",
+      "value": {
+        "dolly_camera": {
+          "min_z": "0.1"
+        }
+      }
+    },
+    {
+      "key": "journy",
+      "value": []
+    }
+  ]
+}
