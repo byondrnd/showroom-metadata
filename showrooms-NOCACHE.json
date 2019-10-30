@@ -125,4 +125,14 @@
         "updated_date": "",
         "owner": ""
     }
+    ,
+    {
+        "title": "Calvin Klein",
+        "image": "https://viewer.byondxr.com/content/1198/1772fcfc_4393_43c0_aea6_8632508b5308.jpg",
+        "id": "/showroooms/showroom-ck-hk-NOCACHE.json",
+        "description": "Calvin Klein",
+        "created_date": "",
+        "updated_date": "",
+        "owner": ""
+    }
 ]
