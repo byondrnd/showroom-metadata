@@ -1,0 +1,142 @@
+{
+    "sheet_url": "https://script.google.com/macros/s/AKfycbwLQqUmeWrnd07-Xy7VfFkZ3F5gINGaZJBeT8KWy82mOx_GSsH-/exec",
+    "products_hash": "showroom_products",
+    "looks_ref": "/looks/looks-NOCACHE.json",
+    "showrooms": [
+        {
+            "title": "Splendid Showroom Demo",
+            "image": "https://viewer.byondxr.com/content/1198/c87f7f29_300b_4788_aa23_d4589a35d11c.png",
+            "id": "/showroooms/showroom-splendid-NOCACHE.json",
+            "description": "Splendid Showroom Demo",
+            "created_date": "05/09/2019",
+            "updated_date": "",
+            "owner": "Byond"
+        },
+        {
+            "title": "Wholesale Showroom Demo",
+            "image": "https://viewer.byondxr.com/content/1198/4e92c794_f5d4_4af7_88ba_5702155606b7.jpg",
+            "id": "/showroooms/showroom-wholesale-demo-NOCACHE.json",
+            "description": "Wholesale Showroom Demo",
+            "created_date": "05/09/2019",
+            "updated_date": "",
+            "owner": "Byond"
+        },
+        {
+            "title": "Wholesale",
+            "image": "https://viewer.byondxr.com/content/1299/7b798c9d_c733_4bd3_bc23_80ec510f2a36.jpg",
+            "id": "/showroooms/showroom-NOCACHE.json",
+            "description": "Full Summer collection 2020",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Design Review",
+            "image": "https://viewer.byondxr.com/content/1299/3c3e333f_5a39_4ed7_a7f3_2815d1812e12.jpg",
+            "id": "/showroooms/showroom-2-NOCACHE.json",
+            "description": "Planning of new byond fashion collection",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Summer Collection 2020",
+            "image": "https://viewer.byondxr.com/content/1299/f3e6dd6c_32fc_4481_8d79_716605ad3c48.jpg",
+            "id": "/showroooms/showroom-3-NOCACHE.json",
+            "description": "Summer 2020 design showroom",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Design Review Draft",
+            "image": "https://viewer.byondxr.com/content/1198/9a40e384_b9c5_4dad_a618_7ebb7d0f0218.png",
+            "id": "/showroooms/showroom-4-NOCACHE.json",
+            "description": "Design Review Draft",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Linear Design Flow",
+            "image": "https://viewer.byondxr.com/content/1299/136dd9c8_c6f1_4483_a20a_917e3612842e.jpg",
+            "id": "/showroooms/showroom-6-NOCACHE.json",
+            "description": "A Linear design flow",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Spring 2020 - Design Review",
+            "image": "https://viewer.byondxr.com/content/1198/1669e76f_19ca_4ef1_b434_6c6de9e5ced6.png",
+            "id": "/showroooms/showroom-7-NOCACHE.json",
+            "description": "Planning of new Byond fashion collection",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Spring 2020 - Wholesale",
+            "image": "https://viewer.byondxr.com/content/1198/8c4e4ae2_7054_4246_8e5a_19187eb86eb1.png",
+            "id": "/showroooms/showroom-8-NOCACHE.json",
+            "description": "Full Spring collection 2020",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Pucci Summer 2019",
+            "image": "https://viewer.byondxr.com/content/1198/15249ca9_9028_4c56_93d4_671192339671.png",
+            "id": "/showroooms/showroom-5-NOCACHE.json",
+            "description": "A PUCCI showroom for external release",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Perry Ellis - Wholesale",
+            "image": "https://viewer.byondxr.com/content/1299/f083ca5b_d521_4c5a_84b5_c7631c0944fa.png",
+            "id": "/showroooms/showroom-pe-NOCACHE.json",
+            "description": "Perry Ellis Deliveries Showroom",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Perry Ellis Journey",
+            "image": "https://viewer.byondxr.com/content/1198/106cd5a5_d1b4_40a5_9f3d_96a0d5bd7458.jpg",
+            "id": "/showroooms/showroom-pe-2-NOCACHE.json",
+            "description": "Perry Ellis Journey Showroom",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "PVH IZOD Wholesale",
+            "image": "https://viewer.byondxr.com/content/1299/359b8734_40e4_4647_b479_b337fff65938.png",
+            "id": "/showroooms/showroom-pvh-izod-NOCACHE.json",
+            "description": "IZOD Wholesale Demo",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Ralph Lauren PGA",
+            "image": "https://viewer.byondxr.com/content/1198/1772fcfc_4393_43c0_aea6_8632508b5308.jpg",
+            "id": "/showroooms/showroom-ralph-lauren-NOCACHE.json",
+            "description": "Ralph Lauren PGA",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        },
+        {
+            "title": "Calvin Klein",
+            "image": "https://viewer.byondxr.com/content/1198/5f953891_fb50_455b_8f26_15a2419355d0.jpg",
+            "id": "/showroooms/showroom-ck-hk-NOCACHE.json",
+            "description": "Calvin Klein",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
+        }
+    ]
+}
