@@ -137,6 +137,15 @@
             "created_date": "",
             "updated_date": "",
             "owner": ""
+        },
+        {
+            "title": "Delta",
+            "image": "https://viewer.byondxr.com/content/1198/5f953891_fb50_455b_8f26_15a2419355d0.jpg",
+            "id": "/showroooms/showroom-delta-NOCACHE.json",
+            "description": "Delta demo Showroom",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
         }
     ]
 }
