@@ -1,13 +1,13 @@
 {
-    "sheet_url": "https://script.google.com/a/byondvr.com/macros/s/AKfycby3CtiI5HTb7mEKUiNDzFj6H-cg9zQdzHVOV7dW1A/exec",
+    "sheet_url": "https://script.google.com/a/byondvr.com/macros/s/AKfycbxc4tKFprUdE-8t6QQdumzpAfbdIY3rQgZW56CF/exec",
     "products_hash": "showroom_products",
     "looks_ref": "/looks/looks-NOCACHE.json",
     "showrooms": [
         {
-            "title": "Nike",
+            "title": "Randa",
             "image": "https://viewer.byondxr.com/content/1198/1669e76f_19ca_4ef1_b434_6c6de9e5ced6.png",
-            "id": "/showroooms/showroom-nike-NOCACHE.json",
-            "description": "Nike demo Showroom",
+            "id": "/showroooms/showroom-randa-NOCACHE.json",
+            "description": "Rando demo Showroom",
             "created_date": "",
             "updated_date": "",
             "owner": ""
