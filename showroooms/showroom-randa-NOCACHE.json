@@ -1,13 +1,13 @@
 {
   "title": "RANDA",
-  "byond_id": "showroom_nike_11111",
+  "byond_id": "showroom_RANDA_11111",
   "image": "https://viewer.byondxr.com/content/1198/8e14ae74_d01f_4ae7_9024_5af4ad4329b0.jpg",
   "id": "1",
-  "description": "Nike Demo Showroom",
+  "description": "RANDA Demo Showroom",
   "canvas": {
     "byond_id": "canvas_11111",
     "background": "#ffffff",
-    "title": "nike Demo Showroom",
+    "title": "RANDA Demo Showroom",
     "artBoards": [
       {
         "metadataName": "Element3DMetadata",
