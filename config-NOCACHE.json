@@ -146,6 +146,15 @@
             "created_date": "",
             "updated_date": "",
             "owner": ""
+        },
+        {
+            "title": "Pepco",
+            "image": "https://viewer.byondxr.com/content/1198/212ccf0f_8c3b_411e_98fc_cb4bf993056e.jpg",
+            "id": "/showroooms/showroom-pepco-NOCACHE.json",
+            "description": "Pepco demo Showroom",
+            "created_date": "",
+            "updated_date": "",
+            "owner": ""
         }
     ]
 }
