@@ -57,7 +57,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 180,
+          "_y": 0,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -746,7 +746,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -1648,188 +1648,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 14.867704915013334,
-              "y": 3.9876526308979123,
+              "x": 9.353781601062764,
+              "y": 3.6264128192952256,
               "z": 0
             },
             "scale": {
-              "x": 1.986462034553251,
-              "y": 1.9840232446922041,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-            "title": "Wolcott Print Tie",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-                    "color": ""
-                  },
-                  "color": {
-                    "icons": [
-                      {
-                        "color": "#b24153"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-                    "color": "",
-                    "colors": []
-                  },
-                  "info": {
-                    "company": "Damen + Hastings",
-                    "garment": "",
-                    "season": "",
-                    "category": "men",
-                    "style": "DN02110000",
-                    "designer": "Damen + Hastings",
-                    "title": "Wolcott Print Tie",
-                    "sku": "b-0.16",
-                    "description": "",
-                    "collection": "Fall2020"
-                  },
-                  "models": [
-                    {
-                      "byond_id": "30aff72a-1c19-11ea-9444-53410ea687c5",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/9276079f_c56b_462c_91ea_bb5d480719b4.jpg",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "30aff72b-1c19-11ea-9444-53410ea687c5",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/58be0147_c2ec_40cc_8ff6_fcd66da0f894.jpg",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "30aff72c-1c19-11ea-9444-53410ea687c5",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/edc2f1d4_f1bc_4d99_a5f7_53e2be0183e1.jpg",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "30aff72d-1c19-11ea-9444-53410ea687c5",
-                      "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
-                      "custom_attributes": [
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10000016
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "ae9eedc0-1c1a-11ea-9444-53410ea687c5"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 11.027439096777016,
-              "y": 4.085923399330596,
-              "z": 0
-            },
-            "scale": {
-              "x": 1.8785677495262971,
-              "y": 1.8763957023062927,
+              "x": 1,
+              "y": 1,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -1877,28 +1702,131 @@
                   },
                   "models": [
                     {
-                      "byond_id": "30aff72e-1c19-11ea-9444-53410ea687c5",
+                      "byond_id": "2bdd8353-1c20-11ea-89d2-3deb4faeebe3",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/718c4676_0ea5_4ab6_b4b9_87d466ed07b5.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "30aff72f-1c19-11ea-9444-53410ea687c5",
+                      "byond_id": "2bdd8354-1c20-11ea-89d2-3deb4faeebe3",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/99a43215_d8ac_4881_9ded_4ce8c367d623.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "30aff730-1c19-11ea-9444-53410ea687c5",
+                      "byond_id": "2bdd8355-1c20-11ea-89d2-3deb4faeebe3",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/44de51f6_cbe3_417a_8f7b_8bbf1f5be853.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "30aff731-1c19-11ea-9444-53410ea687c5",
+                      "byond_id": "2bdd8356-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb"
+                    },
+                    {
+                      "byond_id": "2bdd8357-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/randa/Ties_On_Stand_04-2.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 3.141592653589793,
+              "_z": 0,
+              "_order": "YXZ"
+            },
+            "byond_id": "2e8809e0-1c20-11ea-89d2-3deb4faeebe3"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 14.646203103874427,
+              "y": 3.960083005428487,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.9653725741433272,
+              "y": 1.96298592289524,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#b24153"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN02110000",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.16",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "2bdd5c6a-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/9276079f_c56b_462c_91ea_bb5d480719b4.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "2bdd5c6b-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/58be0147_c2ec_40cc_8ff6_fcd66da0f894.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "2bdd8350-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/edc2f1d4_f1bc_4d99_a5f7_53e2be0183e1.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "2bdd8351-1c20-11ea-89d2-3deb4faeebe3",
                       "ElementName": "objModel",
                       "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
                       "custom_attributes": [
@@ -1916,36 +1844,29 @@
                             "intensity": 0.75,
                             "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
                           }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10000000
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
                         },
                         {
-                          "key": "{{image_width}}",
-                          "value": 64
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
                         }
                       ]
                     },
                     {
-                      "url": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                      "byond_id": "2bdd8352-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/randa/Ties_On_Stand_04-2.usdz"
                     }
                   ]
                 }
@@ -1953,15 +1874,126 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000016
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "c5811540-1c1a-11ea-9444-53410ea687c5"
+            "byond_id": "36f29460-1c20-11ea-89d2-3deb4faeebe3"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 10.599812877489384,
+              "y": 3.997984898092753,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.9264462606704775,
+              "y": 1.9241558453598127,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#2f2d2e"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN02110000",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.17",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "2bdd8353-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/718c4676_0ea5_4ab6_b4b9_87d466ed07b5.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "2bdd8354-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/99a43215_d8ac_4881_9ded_4ce8c367d623.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "2bdd8355-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/44de51f6_cbe3_417a_8f7b_8bbf1f5be853.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "2bdd8356-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb"
+                    },
+                    {
+                      "byond_id": "2bdd8357-1c20-11ea-89d2-3deb4faeebe3",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/randa/Ties_On_Stand_04-2.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000000
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "3e9d7860-1c20-11ea-89d2-3deb4faeebe3"
           }
         ]
       },
@@ -7772,9 +7804,9 @@
           "index": 5
         },
         {
-          "element": "ae9eedc0-1c1a-11ea-9444-53410ea687c5",
-          "viewElement": "ae9eedc0-1c1a-11ea-9444-53410ea687c5",
-          "cameraZoom": 5.214719086035114,
+          "element": "36f29460-1c20-11ea-89d2-3deb4faeebe3",
+          "viewElement": "36f29460-1c20-11ea-89d2-3deb4faeebe3",
+          "cameraZoom": 5.159425518388053,
           "index": 6
         },
         {
