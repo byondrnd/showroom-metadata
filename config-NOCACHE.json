@@ -4,10 +4,10 @@
     "looks_ref": "/looks/looks-NOCACHE.json",
     "showrooms": [
         {
-            "title": "Nike",
+            "title": "Pepco",
             "image": "https://viewer.byondxr.com/content/1198/1669e76f_19ca_4ef1_b434_6c6de9e5ced6.png",
-            "id": "/showroooms/showroom-nike-NOCACHE.json",
-            "description": "Nike demo Showroom",
+            "id": "/showroooms/showroom-pepco-NOCACHE.json",
+            "description": "Pepco demo Showroom",
             "created_date": "",
             "updated_date": "",
             "owner": ""
