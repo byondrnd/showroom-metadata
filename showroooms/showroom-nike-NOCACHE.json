@@ -1595,13 +1595,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 14.27723300662555,
-              "y": -0.2828410878037353,
+              "x": 13.816747902525183,
+              "y": 0.7464785624617178,
               "z": 0
             },
             "scale": {
-              "x": 1.3505681770652045,
-              "y": 1.2218042475530961,
+              "x": 1.0714862917596315,
+              "y": 0.9806005982545093,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -1713,13 +1713,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 15.48064713993925,
-              "y": -1.006462610779245,
+              "x": 15.507734499263563,
+              "y": -1.4669477195761793,
               "z": 0
             },
             "scale": {
-              "x": 1.3080750646932484,
-              "y": 1.2398478311140029,
+              "x": 1.0289931765348983,
+              "y": 1.0039818369812998,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2067,13 +2067,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.23783245759186045,
-              "y": 1.1991961791615005,
+              "x": -0.28141678763466516,
+              "y": 1.9395067520077482,
               "z": 0
             },
             "scale": {
-              "x": 1.6586432417603985,
-              "y": 1.4797436331068787,
+              "x": 1.2099701565099692,
+              "y": 1.146302972318807,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2185,13 +2185,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.29975005703212076,
-              "y": -5.999216030979063,
+              "x": -0.29975005703263236,
+              "y": -5.302489750492576,
               "z": 0
             },
             "scale": {
-              "x": 1.6798897979454042,
-              "y": 1.5377072205658462,
+              "x": 1.2576314400339441,
+              "y": 1.203754028917127,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -8652,13 +8652,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 9.715723451443887,
-              "y": 0.06831069172418047,
+              "x": 9.967382299817096,
+              "y": 0.760372524754338,
               "z": 0
             },
             "scale": {
-              "x": 1.226511618421417,
-              "y": 1.1238859722413628,
+              "x": 0.9977308438663204,
+              "y": 0.9674771703290477,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -8770,13 +8770,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 14.92170583377697,
-              "y": 0.07926834671057748,
+              "x": 14.654318307381006,
+              "y": 0.7870588577634905,
               "z": 0
             },
             "scale": {
-              "x": 1.181209087460458,
-              "y": 1.2202854664673437,
+              "x": 1.0191560388182688,
+              "y": 1.041496972326896,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -9887,13 +9887,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 2.3171841203699444,
-              "y": 0.17064237790797243,
+              "x": 1.903135052022224,
+              "y": 1.0415729410291128,
               "z": 0
             },
             "scale": {
-              "x": 1,
-              "y": 1,
+              "x": 0.7490611670723829,
+              "y": 0.7948034739197115,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -10726,7 +10726,7 @@
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -10736,7 +10736,17 @@
             "source": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/4c24d489-ca28-4ded-b38e-458e491d5b52_slide-poster.mp4",
             "is_loop": true,
             "auto_play": true,
-            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif"
+            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 9
+              }
+            ]
           }
         ]
       },
@@ -10796,61 +10806,27 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.18344126378384829,
-              "y": -1.2287985154392231,
+              "x": -0.23718430640413146,
+              "y": -1.2615586327786588,
               "z": 0
             },
             "scale": {
-              "x": 11.117364457575171,
-              "y": 10.167392705655486,
+              "x": 11.03064091658417,
+              "y": 10.084799419780733,
               "z": 2.3
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "02bc3a31-1d0a-11ea-a879-693204c27e8b",
+            "byond_id": "0e735361-2046-11ea-a02f-45c51acdeb19",
             "grow_type": "none",
             "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/81a6b85b-3765-430e-b4d5-81ddc8b4c900_screen shot 2019-12-12 at 20.05.10.png",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 2
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/81a6b85b-3765-430e-b4d5-81ddc8b4c900_screen shot 2019-12-12 at 20.05.10.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ]
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/40936035-3944-494f-bb72-2681da01b5ce_screen shot 2019-12-16 at 22.45.04.png"
           }
         ]
       },
@@ -14358,12 +14334,12 @@
             "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
             "custom_attributes": [
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 3
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           },
@@ -14396,12 +14372,12 @@
             "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
             "custom_attributes": [
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 4
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           },
@@ -14434,12 +14410,12 @@
             "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
             "custom_attributes": [
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 5
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           }
