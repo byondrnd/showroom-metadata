@@ -10713,40 +10713,30 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 12.197608806679185,
-              "y": -1.110133526840201,
+              "x": 12.158087850054889,
+              "y": -1.18930728505758,
               "z": 0
             },
             "scale": {
-              "x": 4.03062164641091,
-              "y": 3.508151570947742,
+              "x": 4.007134509315342,
+              "y": 3.5233489226995953,
               "z": 2.3
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "fdb4e410-1f1b-11ea-b1f3-854c72d090af",
+            "byond_id": "04974d40-1ff3-11ea-8be7-ab3698b4ca55",
             "grow_type": "none",
             "type": "video",
-            "source": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/e905fbc2-7f63-490b-ab34-6b1f39c3795c_nike_slideshow.mp4",
+            "source": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/4c24d489-ca28-4ded-b38e-458e491d5b52_slide-poster.mp4",
             "is_loop": true,
             "auto_play": true,
-            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 9
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ]
+            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif"
           }
         ]
       },
@@ -10912,7 +10902,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 180,
+          "_y": 0,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -14355,7 +14345,7 @@
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14365,7 +14355,17 @@
             "source": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/ea414346-ec68-45b9-b64f-a95018b7d49e_ho19sg_kids_oneofakind_shoes_p1_final.mp4",
             "is_loop": true,
             "auto_play": true,
-            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif"
+            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 3
+              }
+            ]
           },
           {
             "metadataName": "Element3DMetadata",
@@ -14383,7 +14383,7 @@
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14393,7 +14393,17 @@
             "source": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/27fc1120-b633-44d6-b771-c3b5309b495e_ho19sg_kids_oneofakind_shoes_p1_final.mp4",
             "is_loop": true,
             "auto_play": true,
-            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif"
+            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 4
+              }
+            ]
           },
           {
             "metadataName": "Element3DMetadata",
@@ -14411,7 +14421,7 @@
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14421,7 +14431,17 @@
             "source": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/a036c092-1b1e-4dfb-bb3b-aeedeee18d39_ho19sg_kids_oneofakind_shoes_p1_final.mp4",
             "is_loop": true,
             "auto_play": true,
-            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif"
+            "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 5
+              }
+            ]
           }
         ]
       }
