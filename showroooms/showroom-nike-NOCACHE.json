@@ -13,7 +13,7 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 170.08639424128103,
-          "y": 58.059519099361836,
+          "y": 57.9578112294018,
           "z": 0
         },
         "scale": {
@@ -34,7 +34,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/dcc1c7fe_0c33_4fbc_90be_a8337d43c616.png",
+        "background": "https://viewer.byondxr.com/content/1198/1745382a_fd9c_4443_bf4e_58eae0279eba.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -57,7 +57,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -144,6 +144,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -166,10 +170,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -262,6 +262,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -284,15 +288,11 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -380,6 +380,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -402,10 +406,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -498,6 +498,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -520,10 +524,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -616,6 +616,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -638,10 +642,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -734,6 +734,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -756,10 +760,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -807,6 +807,65 @@
                 "value": "base_product_view"
               }
             ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.6229147935950294,
+              "y": 6.580139197642465,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.1195110123348826,
+              "y": 1.9011418978323322,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "732abd00-257a-11ea-bddc-03dc5bef60b4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/9d25a640-7504-4162-9340-16b0313ed75a_asset 11xhdpi.png",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 8
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/9d25a640-7504-4162-9340-16b0313ed75a_asset 11xhdpi.png"
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ],
         "css_elements": []
@@ -815,12 +874,12 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 127.7707332835155,
-          "y": 58.17810090649777,
+          "y": 58.0255391015577,
           "z": 0
         },
         "scale": {
           "x": 1,
-          "y": 0.9957336607273753,
+          "y": 0.9840041057618447,
           "z": 1
         },
         "is_cast_shadow": false,
@@ -836,7 +895,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/dcc1c7fe_0c33_4fbc_90be_a8337d43c616.png",
+        "background": "https://viewer.byondxr.com/content/1198/1745382a_fd9c_4443_bf4e_58eae0279eba.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -859,7 +918,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -992,6 +1051,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1014,10 +1077,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1156,6 +1215,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1178,10 +1241,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1320,6 +1379,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1342,10 +1405,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1438,6 +1497,10 @@
                 "value": 11
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1460,10 +1523,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1556,6 +1615,10 @@
                 "value": 6
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1578,10 +1641,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1674,6 +1733,10 @@
                 "value": 14
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1696,10 +1759,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1792,6 +1851,10 @@
                 "value": 9
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1814,10 +1877,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1910,6 +1969,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1932,10 +1995,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2028,6 +2087,10 @@
                 "value": 12
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2050,10 +2113,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2146,6 +2205,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2168,15 +2231,11 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2264,6 +2323,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2286,27 +2349,82 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
             "byond_id": "bcfec7b0-1d04-11ea-8e6c-5b84f3bbcc7a"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.6851101096707026,
+              "y": 6.7159544446347965,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.3,
+              "y": 2.3,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "ead1b071-257a-11ea-bddc-03dc5bef60b4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/790d6593-7901-48ba-861e-1a707b35e424_asset 7xhdpi.png",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 13
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/790d6593-7901-48ba-861e-1a707b35e424_asset 7xhdpi.png"
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 127.61324639444021,
-          "y": 85.64549193255704,
+          "x": 127.88629996511028,
+          "y": 84.9355526488159,
           "z": 0
         },
         "scale": {
@@ -2360,7 +2478,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -2447,6 +2565,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2469,10 +2591,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2565,6 +2683,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2587,10 +2709,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2683,6 +2801,10 @@
                 "value": 6
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2705,10 +2827,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2801,6 +2919,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2823,10 +2945,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2919,6 +3037,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2941,10 +3063,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3037,6 +3155,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3059,10 +3181,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3155,6 +3273,10 @@
                 "value": 12
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3177,10 +3299,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3273,6 +3391,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3295,10 +3417,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3391,6 +3509,10 @@
                 "value": 13
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3413,10 +3535,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3509,6 +3627,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3531,10 +3653,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3627,6 +3745,10 @@
                 "value": 11
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3649,10 +3771,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3745,6 +3863,10 @@
                 "value": 9
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3767,10 +3889,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3863,6 +3981,10 @@
                 "value": 14
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3885,10 +4007,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3981,6 +4099,10 @@
                 "value": 15
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4003,10 +4125,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4099,6 +4217,10 @@
                 "value": 16
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4121,10 +4243,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4217,6 +4335,10 @@
                 "value": 17
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4239,10 +4361,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4335,6 +4453,10 @@
                 "value": 18
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4357,10 +4479,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4453,6 +4571,10 @@
                 "value": 19
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4475,10 +4597,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4571,6 +4689,10 @@
                 "value": 24
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4593,10 +4715,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4689,6 +4807,10 @@
                 "value": 21
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4711,10 +4833,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4807,6 +4925,10 @@
                 "value": 20
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4829,10 +4951,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -4925,6 +5043,10 @@
                 "value": 25
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -4947,10 +5069,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5043,6 +5161,10 @@
                 "value": 23
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5065,10 +5187,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5161,6 +5279,10 @@
                 "value": 22
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5183,10 +5305,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5279,6 +5397,10 @@
                 "value": 26
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5301,10 +5423,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5397,6 +5515,10 @@
                 "value": 27
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5419,10 +5541,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5515,6 +5633,10 @@
                 "value": 31
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5537,10 +5659,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5633,6 +5751,10 @@
                 "value": 29
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5655,10 +5777,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5751,6 +5869,10 @@
                 "value": 28
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5773,10 +5895,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5869,6 +5987,10 @@
                 "value": 30
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -5891,10 +6013,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -5987,6 +6105,10 @@
                 "value": 33
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -6009,10 +6131,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -6105,6 +6223,10 @@
                 "value": 34
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -6127,10 +6249,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -6223,6 +6341,10 @@
                 "value": 36
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -6245,10 +6367,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -6341,6 +6459,10 @@
                 "value": 35
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -6363,10 +6485,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -6459,6 +6577,10 @@
                 "value": 32
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -6481,10 +6603,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -6549,7 +6667,7 @@
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -6608,6 +6726,65 @@
                 "value": "base_product_view"
               }
             ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.1414415396256299,
+              "y": 7.78631468397626,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.3,
+              "y": 2.3,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "5a67d221-257b-11ea-bddc-03dc5bef60b4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/2a8e33c8-2407-4164-af0c-be7a9a172b57_asset 9xhdpi.png",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 37
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/2a8e33c8-2407-4164-af0c-be7a9a172b57_asset 9xhdpi.png"
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -6636,7 +6813,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/dcc1c7fe_0c33_4fbc_90be_a8337d43c616.png",
+        "background": "https://viewer.byondxr.com/content/1198/1745382a_fd9c_4443_bf4e_58eae0279eba.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -6805,6 +6982,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -6827,10 +7008,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -6982,6 +7159,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7004,10 +7185,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7159,6 +7336,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7181,10 +7362,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7336,6 +7513,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7358,10 +7539,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7469,6 +7646,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7491,10 +7672,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7602,6 +7779,10 @@
                 "value": 9999999
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7624,10 +7805,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7732,6 +7909,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7754,10 +7935,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7850,6 +8027,10 @@
                 "value": 10000001
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7872,10 +8053,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -7968,6 +8145,10 @@
                 "value": 9
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -7990,10 +8171,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -8086,6 +8263,10 @@
                 "value": 12
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -8108,10 +8289,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -8204,6 +8381,10 @@
                 "value": 14
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -8226,10 +8407,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -8322,6 +8499,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -8344,10 +8525,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -8440,6 +8617,10 @@
                 "value": 15
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -8462,10 +8643,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -8558,6 +8735,10 @@
                 "value": 11
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -8580,10 +8761,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -8593,14 +8770,73 @@
               "_order": "XYZ"
             },
             "byond_id": "5f49bb80-1cfe-11ea-8e6c-5b84f3bbcc7a"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.4563941323532532,
+              "y": 6.6572519896108915,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.683132022505207,
+              "y": 2.8902839222685435,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "f4f440a1-2579-11ea-bddc-03dc5bef60b4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/5460e074-b258-4304-9554-5d977a59a0d3_asset 10xhdpi.png",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 16
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/5460e074-b258-4304-9554-5d977a59a0d3_asset 10xhdpi.png"
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 127.8539464906741,
-          "y": 31.054670956729083,
+          "x": 128.03134475247768,
+          "y": 31.065639145128124,
           "z": 0
         },
         "scale": {
@@ -8621,7 +8857,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/dcc1c7fe_0c33_4fbc_90be_a8337d43c616.png",
+        "background": "https://viewer.byondxr.com/content/1198/1745382a_fd9c_4443_bf4e_58eae0279eba.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -8644,7 +8880,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -8652,197 +8888,31 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 9.967382299817096,
-              "y": 0.760372524754338,
+              "x": -0.2071388325498731,
+              "y": 6.575523066697809,
               "z": 0
             },
             "scale": {
-              "x": 0.9977308438663204,
-              "y": 0.9674771703290477,
-              "z": 1
+              "x": 2.208041824741858,
+              "y": 1.9181883592041773,
+              "z": 2.3
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
-            "medium": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "AQ9176-021",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.126",
-                    "description": "DARK GREY/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "e839c180-1e69-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 14.654318307381006,
-              "y": 0.7870588577634905,
-              "z": 0
-            },
-            "scale": {
-              "x": 1.0191560388182688,
-              "y": 1.041496972326896,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
-            "medium": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
-            "title": "NIKE AIR",
+            "byond_id": "dca62d11-2579-11ea-bddc-03dc5bef60b4",
             "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/6477c4ac-2094-47ae-9f39-1fbd49c11fb4_asset 12xhdpi.png",
             "custom_attributes": [
               {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "AQ9176-010",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.125",
-                    "description": "BLACK/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
+                "key": "view_type",
+                "value": "base_product_view"
               },
               {
                 "key": "$$render_order",
@@ -8867,506 +8937,23 @@
                       ]
                     },
                     {
-                      "url": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png"
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/6477c4ac-2094-47ae-9f39-1fbd49c11fb4_asset 12xhdpi.png"
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "ed3479a0-1e69-11ea-a879-693204c27e8b"
+            ]
           },
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -10.824218354625245,
-              "y": -6.130478922207011,
+              "x": -15.147280425389795,
+              "y": 1.770802205461095,
               "z": 0
             },
             "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
-            "medium": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "BV2709-682",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.121",
-                    "description": "ECHO PINK/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 2
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "05542a30-1e6a-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -9.390152713851052,
-              "y": 2.3273212455975596,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
-            "medium": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "BV2757-336",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.122",
-                    "description": "TEAL TINT/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 3
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "09c36b30-1e6a-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -14.462340905991766,
-              "y": -5.969479729255074,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
-            "medium": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "BV2709-364",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.120",
-                    "description": "MINERAL TEAL/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 11
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "10335e30-1e6a-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -12.555426072519822,
-              "y": 2.4531464782443066,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
-            "medium": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "BV2757-682",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.123",
-                    "description": "ECHO PINK/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 8
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "18255d50-1e6a-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -15.796741436077127,
-              "y": 2.351746764902039,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
+              "x": 1.1479978734153773,
+              "y": 1.1001678504665897,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -9375,12 +8962,34 @@
             "picture": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png",
             "medium": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png",
             "thumb": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png",
-            "title": "NIKE AIR",
+            "title": "G NSW NIKE AIR FLC FZ",
             "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
                 "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#28292d"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png",
+                    "color": "",
+                    "colors": []
+                  },
                   "info": {
                     "company": "NIKE",
                     "garment": "",
@@ -9388,10 +8997,13 @@
                     "category": "",
                     "style": "BV2757-010",
                     "designer": "NIKE",
-                    "title": "NIKE AIR",
+                    "title": "G NSW NIKE AIR FLC FZ",
                     "sku": "b-0.124",
                     "description": "BLACK/METALLIC GOLD",
-                    "collection": "SP20 KIDS"
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 95.19
                   },
                   "size": {
                     "icons": [
@@ -9435,240 +9047,8 @@
                 }
               },
               {
-                "key": "$$render_order",
-                "value": 9
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png"
-                    }
-                  ]
-                }
-              },
-              {
                 "key": "view_type",
                 "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "20dbe4f0-1e6a-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -2.590463313565394,
-              "y": 1.6851431043076275,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
-            "medium": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "CI8325-010",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.117",
-                    "description": "BLACK/CLUB GOLD",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 7
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "3325e6b0-1e6a-11ea-a879-693204c27e8b"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 2.419001669649816,
-              "y": 1.5615369210047447,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
-            "medium": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
-            "thumb": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
-            "title": "NIKE AIR",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "info": {
-                    "company": "NIKE",
-                    "garment": "",
-                    "season": "SP20 KIDS  athletic specialty",
-                    "category": "",
-                    "style": "CI8325-682",
-                    "designer": "NIKE",
-                    "title": "NIKE AIR",
-                    "sku": "b-0.118",
-                    "description": "ECHO PINK",
-                    "collection": "SP20 KIDS"
-                  },
-                  "size": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 71
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 72
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 73
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 74
-                      },
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
-                        "bust_size": 31,
-                        "number_size": 64,
-                        "waist_size": 75
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
-                    "bust_size": 31,
-                    "number_size": 64,
-                    "waist_size": 71
-                  },
-                  "models": []
-                }
               },
               {
                 "key": "$$render_order",
@@ -9693,14 +9073,10 @@
                       ]
                     },
                     {
-                      "url": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png"
+                      "url": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png"
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -9709,13 +9085,156 @@
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "464dec60-1e6a-11ea-a879-693204c27e8b"
+            "byond_id": "78b6f600-2596-11ea-bddc-03dc5bef60b4"
           },
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.09883554674667039,
-              "y": -6.408166956044791,
+              "x": -10.0191541856464,
+              "y": 1.6201725671895275,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.1183982987334455,
+              "y": 1.0776300824437917,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
+            "medium": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
+            "title": "G NSW NIKE AIR FLC FZ",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#ddcfc8"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "BV2757-682",
+                    "designer": "NIKE",
+                    "title": "G NSW NIKE AIR FLC FZ",
+                    "sku": "b-0.123",
+                    "description": "ECHO PINK/METALLIC GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 95.19
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 6
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "05cf1bd0-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -9.7749576980396,
+              "y": -6.108270027300801,
               "z": 0
             },
             "scale": {
@@ -9729,12 +9248,34 @@
             "picture": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png",
             "medium": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png",
             "thumb": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png",
-            "title": "NIKE AIR",
+            "title": "G NSW TEE NIKE AIR LOGO RINGER",
             "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
                 "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#c9e5e4"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png",
+                    "color": "",
+                    "colors": []
+                  },
                   "info": {
                     "company": "NIKE",
                     "garment": "",
@@ -9742,10 +9283,13 @@
                     "category": "",
                     "style": "CI8325-336",
                     "designer": "NIKE",
-                    "title": "NIKE AIR",
+                    "title": "G NSW TEE NIKE AIR LOGO RINGER",
                     "sku": "b-0.119",
                     "description": "TEAL TINT",
-                    "collection": "SP20 KIDS"
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 47.57
                   },
                   "size": {
                     "icons": [
@@ -9789,8 +9333,12 @@
                 }
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$render_order",
-                "value": 6
+                "value": 7
               },
               {
                 "key": "$$progressive_loading",
@@ -9815,10 +9363,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -9827,7 +9371,1335 @@
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "50bd6ea0-1e6a-11ea-a879-693204c27e8b"
+            "byond_id": "0fab5ec0-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.083973937606828,
+              "y": 1.5446293177269084,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.2071970227792321,
+              "y": 1.1273457378272493,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
+            "medium": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
+            "title": "G NSW NIKE AIR PO GX",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#cebeb8"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "BV2709-682",
+                    "designer": "NIKE",
+                    "title": "G NSW NIKE AIR PO GX",
+                    "sku": "b-0.121",
+                    "description": "ECHO PINK/METALLIC GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 95.19
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 8
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "13b1f2e0-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 2.4837059798212593,
+              "y": 1.4556310747442822,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.3551948961946139,
+              "y": 1.1380990490691696,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
+            "medium": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
+            "title": "G NSW NIKE AIR PO GX",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/00c1778f_c4d2_4b57_b407_ec572785e49b.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#6d9ba5"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "BV2709-364",
+                    "designer": "NIKE",
+                    "title": "G NSW NIKE AIR PO GX",
+                    "sku": "b-0.120",
+                    "description": "MINERAL TEAL/METALLIC GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 95.19
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 9
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/d61e4a5c_4135_4139_b57e_ac448e436299.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "1e7f2580-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 9.663082715481892,
+              "y": 1.9791575284431175,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.2071970227821,
+              "y": 1.101475183803323,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
+            "medium": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
+            "title": "G NSW TEE NIKE AIR LOGO RINGER",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#28292d"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "CI8325-010",
+                    "designer": "NIKE",
+                    "title": "G NSW TEE NIKE AIR LOGO RINGER",
+                    "sku": "b-0.117",
+                    "description": "BLACK/CLUB GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 47.57
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 10
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "26c2c710-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 14.986566145312594,
+              "y": 1.9828124135119953,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.207197022782101,
+              "y": 1.2072590634761238,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
+            "medium": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
+            "title": "G NSW TEE NIKE AIR LOGO RINGER",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/dd5758ff_ca18_4473_be37_614067f9bf5d.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/c0eab5a3_b1e3_40c3_ae7b_50a49c2bd44a.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#ddcfc8"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "CI8325-682",
+                    "designer": "NIKE",
+                    "title": "G NSW TEE NIKE AIR LOGO RINGER",
+                    "sku": "b-0.118",
+                    "description": "ECHO PINK",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 47.57
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 11
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/1caeb693_41d5_41f0_84f3_6abb9ed202d9.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "2efc5680-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 9.394466579120063,
+              "y": -5.155675295315822,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.8668019139255843,
+              "y": 0.8323293346817681,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
+            "medium": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
+            "title": "G NSW TGHT FAVORITES AIR1",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#565556"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "AQ9176-021",
+                    "designer": "NIKE",
+                    "title": "G NSW TGHT FAVORITES AIR1",
+                    "sku": "b-0.126",
+                    "description": "DARK GREY/METALLIC GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "bottom",
+                    "price": 47.57
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 12
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "3a663e50-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 14.766789306460769,
+              "y": -5.184663550425832,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.8668019139255864,
+              "y": 0.8889683615403254,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
+            "medium": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
+            "title": "G NSW TGHT FAVORITES AIR1",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/c66ac83d_ced7_47ce_8240_573d201af846.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#28292d"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "AQ9176-010",
+                    "designer": "NIKE",
+                    "title": "G NSW TGHT FAVORITES AIR1",
+                    "sku": "b-0.125",
+                    "description": "BLACK/METALLIC GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "bottom",
+                    "price": 47.57
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 13
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/d737480f_8574_48f9_8f2c_a159d5cbef51.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "435cdc30-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -15.01275937322584,
+              "y": -5.736293906770797,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.1327857588675456,
+              "y": 1.087063492622104,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
+            "medium": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
+            "title": "G NSW NIKE AIR FLC FZ",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/b646c0a5_f988_45d2_920f_0f9c126724ce.png"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/4f666f0d_a980_45be_a3ca_ff3c94a14c20.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#c9e5e4"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "BV2757-336",
+                    "designer": "NIKE",
+                    "title": "G NSW NIKE AIR FLC FZ",
+                    "sku": "b-0.122",
+                    "description": "TEAL TINT/METALLIC GOLD",
+                    "collection": "NIKE AIR",
+                    "gender": "",
+                    "type": "top",
+                    "price": 95.19
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 14
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/df3ca4d4_4993_4570_ac0d_96ec44b8b5f1.png"
+                    }
+                  ]
+                }
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "e9fb9590-2597-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 2.543261529318812,
+              "y": -6.051894404017251,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.8617675862025693,
+              "y": 0.890244886216709,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png",
+            "medium": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png",
+            "title": "Nike Air Max 97",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#e1545c"
+                      },
+                      {
+                        "color": "#bfc8cf"
+                      },
+                      {
+                        "color": "#131315"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "CD4831-002-PHCFH001",
+                    "designer": "NIKE",
+                    "title": "Nike Air Max 97",
+                    "sku": "b-0.83",
+                    "description": "BLACK/GOLD SUEDE-CELESTINE BLUE-WHITE",
+                    "collection": "FW NSW",
+                    "gender": "",
+                    "type": "shoes",
+                    "price": 334.95
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 12
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "eeabca60-264b-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.235409056330873,
+              "y": -6.03426909599937,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.8522056367257959,
+              "y": 0.7961300338922312,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png",
+            "medium": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png",
+            "title": "Nike Air Max 97",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/af692cc1_2ce3_47b7_9264_1baca53d191a.png"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#adc5df"
+                      },
+                      {
+                        "color": "#c89a3a"
+                      },
+                      {
+                        "color": "#131315"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "NIKE",
+                    "garment": "",
+                    "season": "SP20 KIDS  athletic specialty",
+                    "category": "",
+                    "style": "CD4831-001-PHCFH001",
+                    "designer": "NIKE",
+                    "title": "Nike Air Max 97",
+                    "sku": "b-0.82",
+                    "description": "BLACK/WHITE",
+                    "collection": "FW NSW",
+                    "gender": "",
+                    "type": "shoes",
+                    "price": 149.95
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": []
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/dac3e84f_267a_42ae_9270_12cc9c7cfa04.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 13
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "f0d5d650-264b-11ea-bddc-03dc5bef60b4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.4473192181877863,
+              "y": -3.2441802430787767,
+              "z": 0
+            },
+            "scale": {
+              "x": 0.007042631296532894,
+              "y": 1,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "byond_id": "de7d46a0-26f0-11ea-a422-8f3cd79c734d",
+            "type": "video",
+            "source": "https://viewer.byondxr.com/content/1299/f7c598f5_9ddb_4f17_b27f_3a2db9f3c0c6.mp4",
+            "picture": "https://viewer.byondxr.com/content/1299/thumb/f7c598f5_9ddb_4f17_b27f_3a2db9f3c0c6.png",
+            "medium": "https://viewer.byondxr.com/content/1299/medium/f7c598f5_9ddb_4f17_b27f_3a2db9f3c0c6.png",
+            "thumbnail": "https://viewer.byondxr.com/content/1299/thumb/f7c598f5_9ddb_4f17_b27f_3a2db9f3c0c6.png",
+            "display_video_controls": true,
+            "auto_play": true,
+            "is_loop": true,
+            "title": "media_1",
+            "_id": "5d076863b242636152b6e3a4",
+            "video_controls": {
+              "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+              },
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 10
+              }
+            },
+            "custom_attributes": [],
+            "show_time": [],
+            "grow_type": "none",
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            }
           }
         ]
       },
@@ -9856,7 +10728,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/dcc1c7fe_0c33_4fbc_90be_a8337d43c616.png",
+        "background": "https://viewer.byondxr.com/content/1198/1745382a_fd9c_4443_bf4e_58eae0279eba.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -9966,6 +10838,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -9988,10 +10864,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10084,6 +10956,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10106,10 +10982,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10202,6 +11074,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10224,10 +11100,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10320,6 +11192,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10342,10 +11218,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10438,6 +11310,10 @@
                 "value": 6
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10460,10 +11336,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10556,6 +11428,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10578,10 +11454,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10674,6 +11546,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10696,10 +11572,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -10739,12 +11611,71 @@
             "picture": "assets/drag_drop_media_965d80f602f7ad667aea873236abc382.gif",
             "custom_attributes": [
               {
+                "key": "$$render_order",
+                "value": 9
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -12.688095993475343,
+              "y": 6.901986586592451,
+              "z": 0
+            },
+            "scale": {
+              "x": 3.529443170716895,
+              "y": 2.95283100439635,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "6d185de1-257b-11ea-bddc-03dc5bef60b4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/be901dc4-2dbf-4d27-a8ae-6ec363edda51_asset 8xhdpi.png",
+            "custom_attributes": [
+              {
                 "key": "view_type",
                 "value": "base_product_view"
               },
               {
                 "key": "$$render_order",
                 "value": 9
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/be901dc4-2dbf-4d27-a8ae-6ec363edda51_asset 8xhdpi.png"
+                    }
+                  ]
+                }
               }
             ]
           }
@@ -10775,7 +11706,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/dcc1c7fe_0c33_4fbc_90be_a8337d43c616.png",
+        "background": "https://viewer.byondxr.com/content/1198/1745382a_fd9c_4443_bf4e_58eae0279eba.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -10798,7 +11729,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -10806,7 +11737,7 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.23718430640413146,
+              "x": -0.3388921763838795,
               "y": -1.2615586327786588,
               "z": 0
             },
@@ -10826,7 +11757,41 @@
             "byond_id": "0e735361-2046-11ea-a02f-45c51acdeb19",
             "grow_type": "none",
             "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/40936035-3944-494f-bb72-2681da01b5ce_screen shot 2019-12-16 at 22.45.04.png"
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/40936035-3944-494f-bb72-2681da01b5ce_screen shot 2019-12-16 at 22.45.04.png",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 2
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/40936035-3944-494f-bb72-2681da01b5ce_screen shot 2019-12-16 at 22.45.04.png"
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -10834,7 +11799,7 @@
         "metadataName": "Element3DMetadata",
         "position": {
           "x": 169.89131338513616,
-          "y": 85.43573699883822,
+          "y": 85.02443092388597,
           "z": 0
         },
         "scale": {
@@ -10878,7 +11843,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -10965,6 +11930,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -10987,10 +11956,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11083,6 +12048,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11105,10 +12074,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11201,6 +12166,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11223,10 +12192,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11319,6 +12284,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11341,10 +12310,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11437,6 +12402,10 @@
                 "value": 6
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11459,10 +12428,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11555,6 +12520,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11577,10 +12546,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11673,6 +12638,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11695,10 +12664,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11791,6 +12756,10 @@
                 "value": 9
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11813,10 +12782,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -11909,6 +12874,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -11931,10 +12900,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12027,6 +12992,10 @@
                 "value": 11
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12049,10 +13018,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12145,6 +13110,10 @@
                 "value": 12
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12167,10 +13136,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12263,6 +13228,10 @@
                 "value": 13
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12285,10 +13254,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12381,6 +13346,10 @@
                 "value": 14
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12403,10 +13372,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12420,8 +13385,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -3.678487114417692,
-              "y": 6.411965039263848,
+              "x": 9.147923558874226,
+              "y": 1.2193999932781026,
               "z": 0
             },
             "scale": {
@@ -12499,6 +13464,10 @@
                 "value": 15
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12521,10 +13490,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12617,6 +13582,10 @@
                 "value": 16
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12639,10 +13608,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12656,8 +13621,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 0.20732228870161862,
-              "y": 6.338306426546325,
+              "x": 0.12982131778483108,
+              "y": 1.0682404096786513,
               "z": 0
             },
             "scale": {
@@ -12735,6 +13700,10 @@
                 "value": 17
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12757,15 +13726,11 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -12774,8 +13739,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 3.8014879096822938,
-              "y": 6.356788342230843,
+              "x": -0.07356063209138597,
+              "y": 3.334250479644382,
               "z": 0
             },
             "scale": {
@@ -12853,6 +13818,10 @@
                 "value": 18
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12875,10 +13844,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -12892,8 +13857,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -3.3707403320040044,
-              "y": 3.368324545129184,
+              "x": -3.52574227368396,
+              "y": 3.4458255159691618,
               "z": 0
             },
             "scale": {
@@ -12971,6 +13936,10 @@
                 "value": 19
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -12993,10 +13962,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13089,6 +14054,10 @@
                 "value": 20
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13111,10 +14080,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13128,8 +14093,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -3.1738804595562726,
-              "y": 1.109614684708177,
+              "x": -3.52263482830989,
+              "y": 1.0321137138757024,
               "z": 0
             },
             "scale": {
@@ -13207,6 +14172,10 @@
                 "value": 21
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13229,10 +14198,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13325,6 +14290,10 @@
                 "value": 22
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13347,10 +14316,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13443,6 +14408,10 @@
                 "value": 23
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13465,10 +14434,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13561,6 +14526,10 @@
                 "value": 24
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13583,10 +14552,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13679,6 +14644,10 @@
                 "value": 25
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13701,10 +14670,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13797,6 +14762,10 @@
                 "value": 26
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13819,10 +14788,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -13915,6 +14880,10 @@
                 "value": 27
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -13937,10 +14906,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -14033,6 +14998,10 @@
                 "value": 28
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -14055,10 +15024,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -14151,6 +15116,10 @@
                 "value": 29
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -14173,10 +15142,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -14269,6 +15234,10 @@
                 "value": 30
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -14291,10 +15260,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -14347,7 +15312,7 @@
             "metadataName": "Element3DMetadata",
             "position": {
               "x": -0.10960165246200404,
-              "y": -2.0501972124696053,
+              "y": -2.1050375506655925,
               "z": 0
             },
             "scale": {
@@ -14359,7 +15324,7 @@
             "is_receive_shadow": false,
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -14418,6 +15383,65 @@
                 "value": "base_product_view"
               }
             ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.31670033217959315,
+              "y": 7.582285446593502,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.3889272451836203,
+              "y": 1.0811211290109708,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "60baee51-257b-11ea-bddc-03dc5bef60b4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/8337900b-7928-4c1c-a852-dbd6aaccfc3c_asset 6xhdpi.png",
+            "custom_attributes": [
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 31
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-dev.byondxr.com/4f2db913-7c2c-4649-b0c8-4bd0bfff9547/8337900b-7928-4c1c-a852-dbd6aaccfc3c_asset 6xhdpi.png"
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       }
@@ -14434,7 +15458,62 @@
     },
     {
       "key": "journy",
-      "value": []
+      "value": [
+        {
+          "element": "0e735361-2046-11ea-a02f-45c51acdeb19",
+          "viewElement": "cd90a480-0de2-11ea-ba47-5dde67e93101",
+          "cameraZoom": 14.868554120288483,
+          "index": 0
+        },
+        {
+          "element": "82268931-1cea-11ea-8e6c-5b84f3bbcc7a",
+          "viewElement": "09d92510-0a3d-11ea-b089-150bd4d3a3e7",
+          "cameraZoom": 14.903895880816194,
+          "index": 1
+        },
+        {
+          "element": "b74528d1-1f27-11ea-84bc-01b62933ab20",
+          "viewElement": "3bb2aab0-1f24-11ea-b1f3-854c72d090af",
+          "cameraZoom": 14.966691703737244,
+          "index": 2
+        },
+        {
+          "element": "b39766a0-1d04-11ea-8e6c-5b84f3bbcc7a",
+          "viewElement": "58db0c80-0a30-11ea-a505-69024eac0bec",
+          "cameraZoom": 14.288942726892298,
+          "index": 3
+        },
+        {
+          "element": "09373110-1d07-11ea-8e6c-5b84f3bbcc7a",
+          "viewElement": "3d9c2790-09a1-11ea-8622-2350b8345809",
+          "cameraZoom": 13.435222811573286,
+          "index": 4
+        },
+        {
+          "element": "de7d46a0-26f0-11ea-a422-8f3cd79c734d",
+          "viewElement": "36c3c250-0bb0-11ea-a13d-89753174c983",
+          "cameraZoom": 13.83258246439175,
+          "index": 5
+        },
+        {
+          "element": "13b1f2e0-2597-11ea-bddc-03dc5bef60b4",
+          "viewElement": "13b1f2e0-2597-11ea-bddc-03dc5bef60b4",
+          "cameraZoom": 4.46560890230968,
+          "index": 6
+        },
+        {
+          "element": "f0d5d650-264b-11ea-bddc-03dc5bef60b4",
+          "viewElement": "f0d5d650-264b-11ea-bddc-03dc5bef60b4",
+          "cameraZoom": 1.431240646658731,
+          "index": 7
+        },
+        {
+          "element": "3a663e50-2597-11ea-bddc-03dc5bef60b4",
+          "viewElement": "3a663e50-2597-11ea-bddc-03dc5bef60b4",
+          "cameraZoom": 5.585997421449946,
+          "index": 8
+        }
+      ]
     }
   ]
 }
