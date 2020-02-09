@@ -175,6 +175,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -197,10 +201,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -324,6 +324,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -346,10 +350,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -483,6 +483,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -505,10 +509,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -549,6 +549,10 @@
                 "value": 6
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -571,10 +575,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -608,6 +608,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -630,10 +634,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -763,6 +763,10 @@
                 "value": 15
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -785,10 +789,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -925,6 +925,10 @@
                 "value": 12
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -947,10 +951,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1087,6 +1087,10 @@
                 "value": 13
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1109,10 +1113,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1153,6 +1153,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1175,10 +1179,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -1212,6 +1212,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1234,10 +1238,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           }
@@ -1291,7 +1291,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -1381,6 +1381,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1403,10 +1407,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1502,6 +1502,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1524,10 +1528,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1623,6 +1623,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1645,10 +1649,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1744,6 +1744,10 @@
                 "value": 9999999
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1766,10 +1770,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1856,6 +1856,10 @@
                 "value": 9999999
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1878,10 +1882,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1922,6 +1922,10 @@
                 "value": 10000015
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1944,10 +1948,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -1981,6 +1981,10 @@
                 "value": 8
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2003,10 +2007,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -2095,6 +2095,10 @@
                 "value": 10000000
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2117,15 +2121,11 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2161,6 +2161,10 @@
                 "value": 12
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2183,23 +2187,19 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 14.544364089925395,
-              "y": 4.10403336649523,
+              "x": 14.676215319914533,
+              "y": 3.8920935671855688,
               "z": 0
             },
             "scale": {
-              "x": 1.971594065836986,
-              "y": 1.9691920334486885,
+              "x": 2.004584783831309,
+              "y": 2.0021011898362437,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2243,119 +2243,42 @@
                     "title": "Wolcott Print Tie",
                     "sku": "b-0.16",
                     "description": "",
-                    "collection": "Fall2020"
+                    "collection": "Fall2020",
+                    "gender": "",
+                    "type": "",
+                    "price": 36
                   },
                   "models": [
                     {
-                      "byond_id": "9e8091ae-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c0082c-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/9276079f_c56b_462c_91ea_bb5d480719b4.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "9e8091af-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c0082d-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/58be0147_c2ec_40cc_8ff6_fcd66da0f894.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "9e8091b0-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c0082e-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/edc2f1d4_f1bc_4d99_a5f7_53e2be0183e1.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "9e8091b1-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c0082f-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
-                      "custom_attributes": [
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10000015
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb"
                     },
                     {
-                      "url": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
+                      "byond_id": "68c00830-4b4a-11ea-94b2-dd4cbdc1990e",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/randa/Ties_On_Stand_04-2.usdz"
                     }
                   ]
                 }
@@ -2363,26 +2286,30 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000015
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "a92d43e0-1b49-11ea-a239-a3f3b65d4fd1"
+            "byond_id": "69795090-4b4b-11ea-94b2-dd4cbdc1990e"
           },
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 10.743684661477161,
-              "y": 4.088781655244901,
+              "x": 10.757057704928812,
+              "y": 4.0206016993564475,
               "z": 0
             },
             "scale": {
-              "x": 1.9825108530952398,
-              "y": 1.9800818315789832,
+              "x": 1.9790444927186335,
+              "y": 1.9766240409437832,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2426,87 +2353,42 @@
                     "title": "Wolcott Print Tie",
                     "sku": "b-0.17",
                     "description": "",
-                    "collection": "Fall2020"
+                    "collection": "Fall2020",
+                    "gender": "",
+                    "type": "",
+                    "price": 36
                   },
                   "models": [
                     {
-                      "byond_id": "9e8091b2-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c00831-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/718c4676_0ea5_4ab6_b4b9_87d466ed07b5.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "9e8091b3-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c00832-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/99a43215_d8ac_4881_9ded_4ce8c367d623.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "9e8091b4-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c00833-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "screen",
                       "type": "photo",
                       "picture": "https://viewer.byondxr.com/content/1198/44de51f6_cbe3_417a_8f7b_8bbf1f5be853.jpg",
                       "grow_type": "none"
                     },
                     {
-                      "byond_id": "9e8091b5-1b49-11ea-a239-a3f3b65d4fd1",
+                      "byond_id": "68c00834-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
-                      "custom_attributes": [
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$environment_map",
-                          "value": {
-                            "intensity": 0.75,
-                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
-                          }
-                        },
-                        {
-                          "key": "$$center_pivot",
-                          "value": "true"
-                        },
-                        {
-                          "key": "$$set_double_sided_material",
-                          "value": "true"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 10000000
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb"
                     },
                     {
-                      "url": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                      "byond_id": "68c00835-4b4a-11ea-94b2-dd4cbdc1990e",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/randa/Ties_On_Stand_04-2.usdz"
                     }
                   ]
                 }
@@ -2514,15 +2396,19 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000000
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
-            "byond_id": "60fb6740-1b4a-11ea-a239-a3f3b65d4fd1"
+            "byond_id": "7c4309a0-4b4b-11ea-94b2-dd4cbdc1990e"
           }
         ]
       },
@@ -2574,7 +2460,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 180,
+          "_y": 0,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -2655,6 +2541,10 @@
                 "value": 7
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2677,10 +2567,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2767,6 +2653,10 @@
                 "value": 11
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2789,10 +2679,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2875,6 +2761,10 @@
                 "value": 10
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2897,10 +2787,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2983,6 +2869,10 @@
                 "value": 9
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3005,10 +2895,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3087,6 +2973,10 @@
                 "value": 2
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3109,10 +2999,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3191,6 +3077,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3213,10 +3103,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3295,6 +3181,10 @@
                 "value": 5
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3317,10 +3207,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3361,6 +3247,10 @@
                 "value": 4
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3383,10 +3273,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -3420,6 +3306,10 @@
                 "value": 3
               },
               {
+                "key": "view_type",
+                "value": "base_product_view"
+              },
+              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -3442,10 +3332,6 @@
                     }
                   ]
                 }
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
               }
             ]
           },
@@ -3552,6 +3438,14 @@
                         {
                           "key": "$$set_double_sided_material",
                           "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
                         }
                       ]
                     },
@@ -3566,11 +3460,39 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 11
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -3626,7 +3548,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 180,
+          "_y": 0,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -3634,8 +3556,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -11.66006425272812,
-              "y": -0.43774985248622045,
+              "x": -9.826688319374966,
+              "y": -0.961571547742011,
               "z": 0
             },
             "scale": {
@@ -3722,6 +3644,34 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/4e7d6edd_e353_420e_a7a6_2dc318db872e.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 3
               }
             ],
             "rotation": {
@@ -3735,8 +3685,8 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.7163179404087856,
-              "y": -0.875499704990645,
+              "x": 0.8551471453225048,
+              "y": -1.006455128801587,
               "z": 0
             },
             "scale": {
@@ -3794,6 +3744,34 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/0d576fea_9244_492b_9a0d_06d0318a2e99.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 2
               }
             ],
             "rotation": {
@@ -3881,11 +3859,39 @@
               {
                 "key": "view_type",
                 "value": "base_product_view"
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 4
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
