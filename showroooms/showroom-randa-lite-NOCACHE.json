@@ -1,0 +1,3918 @@
+{
+  "title": "RANDA",
+  "byond_id": "showroom_nike_11111",
+  "image": "https://viewer.byondxr.com/content/1198/8e14ae74_d01f_4ae7_9024_5af4ad4329b0.jpg",
+  "id": "1",
+  "description": "Nike Demo Showroom",
+  "canvas": {
+    "byond_id": "canvas_11111",
+    "background": "#ffffff",
+    "title": "nike Demo Showroom",
+    "artBoards": [
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 161.6026286650597,
+          "y": 74.23407943479617,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 12.6,
+          "y": 12.6,
+          "z": 1
+        },
+        "text_position": {
+          "x": 0,
+          "y": 11,
+          "z": 0
+        },
+        "view_type": "base_board_view",
+        "background": "https://viewer.byondxr.com/content/1198/77a1cd0f_61ea_4eda_9efa_49ce682f576e.png",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "rigth": 0,
+          "left": 0
+        },
+        "title": "",
+        "byond_id": "7b22a1d0-0f7c-11ea-bdb6-3b1d1d927cf4",
+        "custom_attributes": [
+          {
+            "key": "view_type",
+            "value": "base_board_view",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          }
+        ],
+        "rotation": {
+          "_x": 0,
+          "_y": 0,
+          "_z": 0,
+          "_order": "XYZ"
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -11.827962018312036,
+              "y": 4.473513980270283,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8855536259228982,
+              "y": 1.8855536259228982,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg",
+            "title": "Halsted Leather Belt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg",
+                    "color": ""
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "11DN01X001",
+                    "designer": "Damen + Hastings",
+                    "title": "Halsted Leather Belt",
+                    "sku": "b-0.2",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "695ec000-0f7c-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/9d073575_ee09_4ef8_b059_a6d831da5d4c.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "695ec001-0f7c-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/30d49aa0_12a0_408a_a020_62d82d6603cf.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "695ec002-0f7c-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/394ebb97_ea5a_4773_bd30_26395b95f741.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 2
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/6ec77db5_a805_4925_bebb_94d8c5e0ca8d.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "8377cf90-0f7c-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -11.972695427648745,
+              "y": -0.7808557133642893,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8245234848936425,
+              "y": 1.8245234848936442,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg",
+            "title": "Halsted Leather Belt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg",
+                    "color": ""
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "11DN01XZ02",
+                    "designer": "Damen + Hastings",
+                    "title": "Halsted Leather Belt",
+                    "sku": "b-0.3",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "695ec003-0f7c-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/f538f7f7_c600_4c0f_aa9b_e544aa2fe99a.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "695ec004-0f7c-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/c82f850b_d7fd_415d_ac13_a910b2e81c9a.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "695ec005-0f7c-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ec69542e_481d_49cc_a63c_75e1b9e75f6c.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 3
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/4643993e_d92e_4a29_8deb_5334c4d6085f.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "8628e5d0-0f7c-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -11.998457096042301,
+              "y": -6.808639424456189,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8580945418550747,
+              "y": 1.8580945418550747,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg",
+            "title": "Halsted Leather Belt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#603a30"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "11DN02X001",
+                    "designer": "Damen + Hastings",
+                    "title": "Halsted Leather Belt",
+                    "sku": "b-0.4",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "29d63ce6-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/44755eb7_e9b6_43c7_8aef_bf060bacf736.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63ce7-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/c1d028fd_4e8c_4bde_aa3f_05d1185cdaae.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63ce8-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/f75d7b11_7b94_40e9_8936_b49b857a5562.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 4
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/e5ff8a78_75cc_4477_bf5c_40dc103159e1.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "496723d0-0f83-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 14.12610024182284,
+              "y": 3.4795598499173224,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.5760681462771964,
+              "y": 2.5765282540938226,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "86f83f91-0f83-11ea-bdb6-3b1d1d927cf4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/7f62ec46-32c4-401f-9643-8785c1bb900e_screen shot 2019-11-25 at 11.48.03.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 6
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/7f62ec46-32c4-401f-9643-8785c1bb900e_screen shot 2019-11-25 at 11.48.03.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 14.147265618658572,
+              "y": -5.636345156654066,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.5869345644273034,
+              "y": 2.586457934885752,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "8bbca571-0f83-11ea-bdb6-3b1d1d927cf4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/98ecea5d-96dc-4adc-a86f-5dd7f9300bf4_screen shot 2019-11-25 at 11.36.01.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 7
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/98ecea5d-96dc-4adc-a86f-5dd7f9300bf4_screen shot 2019-11-25 at 11.36.01.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.695017663413651,
+              "y": 4.572937827745108,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8652466471664002,
+              "y": 1.8652466471664002,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+            "title": "Halsted Leather Belt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#ddcfb4"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "11DN03X001",
+                    "designer": "Damen + Hastings",
+                    "title": "Halsted Leather Belt",
+                    "sku": "b-0.7",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b9fa5a1c-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/fa4f458a_7148_474c_9599_ad75c1957f79.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b9fa5a1d-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/06d591fb_8a8f_4dc8_97aa_e466bb48a459.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b9fa5a1e-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/a1e38c66_1346_440e_b1ec_fa36f49a68cc.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 15
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "d8e4eee0-2a25-11ea-85c7-e9ee23b23655"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.930882295315939,
+              "y": -0.8323873576346728,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.122482136850519,
+              "y": 2.122482136850519,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg",
+            "title": "Halsted Leather Belt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#968e81"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "11DN03X001",
+                    "designer": "Damen + Hastings",
+                    "title": "Halsted Leather Belt",
+                    "sku": "b-0.8",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b9fa5a1f-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ac647241_86b4_465c_9cce_3a2d6acc26e9.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b9fa5a20-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ae58bfb5_a4f0_44dc_a85c_d502b930d4c8.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b9fa5a21-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/c4ab804c_e502_4f55_9bcb_7ba454acf501.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 12
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "da484f70-2a25-11ea-85c7-e9ee23b23655"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -5.49644333844428,
+              "y": -6.645618836604726,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.0172494365194398,
+              "y": 2.0172494365194398,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg",
+            "title": "Halsted Leather Belt",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg"
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/c3d20690_488e_432a_957e_bf0452c7ddb0.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#868491"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "11DN03X001",
+                    "designer": "Damen + Hastings",
+                    "title": "Halsted Leather Belt",
+                    "sku": "b-0.9",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "size": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/80a7cfa5_fe56_441e_b152_c67279848e87.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 71
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/1ba1eb50_60f4_4027_a695_06ca524faa23.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 72
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f529109f_a167_4a6c_b31b_3988eb1d2e7e.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 73
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/f13f4ed1_770a_4fab_9979_f29d119572da.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 74
+                      },
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1299/82cfbe06_cb21_413e_beb1_2795bf457e20.png",
+                        "bust_size": 31,
+                        "number_size": 64,
+                        "waist_size": 75
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg",
+                    "bust_size": 31,
+                    "number_size": 64,
+                    "waist_size": 71
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b9fa5a22-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/3ccf542c_ff4b_40a9_9df5_2e8b4b2608c6.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b9fa5a23-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/c1759dfb_d686_49c9_879a_42b90735a425.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b9fa5a24-2a25-11ea-85c7-e9ee23b23655",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/d71d196c_99df_4235_bf75_0d98e005cb43.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 13
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/7451861e_bf20_4dba_bdb5_3d5be5a913aa.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "db73fe30-2a25-11ea-85c7-e9ee23b23655"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 5.320318822600967,
+              "y": 3.4753607386320198,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.525439627269409,
+              "y": 2.519240029599668,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "c5b1a921-2a26-11ea-85c7-e9ee23b23655",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/40537b06-e5eb-4a8e-8f9f-d767569256ee_belt.jpg",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 2
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/40537b06-e5eb-4a8e-8f9f-d767569256ee_belt.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 5.322292061220736,
+              "y": -5.654464916316783,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.524883041867286,
+              "y": 2.5186987503156564,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "dbe2f731-2a26-11ea-85c7-e9ee23b23655",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/f98e245c-4a31-4d1f-b1cb-1b28e2a89da5_belts1.jpg",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 10
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/f98e245c-4a31-4d1f-b1cb-1b28e2a89da5_belts1.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 203.75074084446476,
+          "y": 74.34407412082187,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.9999999997345468,
+          "y": 1.00247838616856,
+          "z": 0.9999999997345468
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 12.6,
+          "y": 12.6,
+          "z": 1
+        },
+        "text_position": {
+          "x": 0,
+          "y": 11,
+          "z": 0
+        },
+        "view_type": "base_board_view",
+        "background": "https://viewer.byondxr.com/content/1198/0615fde6_1424_4049_8f97_915d855f5627.png",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "rigth": 0,
+          "left": 0
+        },
+        "title": "",
+        "byond_id": "de6ae020-0f83-11ea-bdb6-3b1d1d927cf4",
+        "custom_attributes": [
+          {
+            "key": "view_type",
+            "value": "base_board_view",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          }
+        ],
+        "rotation": {
+          "_x": 0,
+          "_y": 0,
+          "_z": 0,
+          "_order": "XYZ"
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -12.71808992681617,
+              "y": 3.871031224812377,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.19674746614302,
+              "y": 2.193788796501584,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#ea5859"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN00110004",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.10",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "29d63cf8-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/28f5e07c_2b31_4d98_8dfd_1cf53916b198.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63cf9-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/323aaffb_91e2_4f7f_93be_d69bf8876f96.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63cfa-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/dc36ff2c_6573_47a8_9098_f241e07089d1.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 2
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "e68b1b30-0f83-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -8.821231215459314,
+              "y": 4.121380659698779,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.0017260023317203,
+              "y": 1.9992494762250455,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#585d73"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN00110004",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.11",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "29d63cfb-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/2e8e825c_ebd0_4263_bfc2_bb52ed16cd6f.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63cfc-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/f5198883_1b25_466b_91da_9e85c069b0ed.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63cfd-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/5436bd35_6690_4c34_b555_aad165938116.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 3
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "e9edce30-0f83-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -4.845438165851547,
+              "y": 4.131329467377498,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.992986978941537,
+              "y": 1.9902019716300292,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#585d73"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN00110011",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.12",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "29d63cfe-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/7fba6af2_5988_4baf_9a28_9c83e1be51ae.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63cff-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/b77530b6_693f_4fab_8777_ed3ccec7fb75.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63d00-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/5a1820fe_83ea_475a_b0d7_170c3d9f4fb8.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 5
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "ec7f7590-0f83-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.8036146292525146,
+              "y": 4.186527553279497,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.0297742438083524,
+              "y": 2.05035171178451,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/da3a3199_5cab_465a_9edc_632ce41f7cf0.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#796e76"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN00110011",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.13",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "29d63d01-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/601aa0c9_f0d2_4594_90b6_9163704be5e0.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63d02-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/b589ab24_d946_43f2_9502_0b12426bd971.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63d03-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/c81595d9_bbae_43ba_97d6_7402cd49665d.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 9999999
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/b6d4a771_43fa_40ac_9f12_9c2c353bc03f.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "eee6d8a0-0f83-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 3.0749058102317903,
+              "y": 4.077336541016464,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.9974543109330767,
+              "y": 1.9840985474938608,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#796e76"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN00110012",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.14",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "29d63d04-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/294417aa_18ca_4d70_ab13_934f3cc9282e.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63d05-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/e7907f9b_10a6_4edb_80be_dde7db882cb3.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "29d63d06-0f83-11ea-bdb6-3b1d1d927cf4",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/4cbb51dc_d143_47ba_a6aa_5a59ac1c9bcb.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 9999999
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "f46a96e0-0f83-11ea-bdb6-3b1d1d927cf4"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.7580056016882111,
+              "y": -5.421946974688929,
+              "z": 0
+            },
+            "scale": {
+              "x": 3.9282078413864676,
+              "y": 4.049968344692318,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "48861d31-0f84-11ea-bdb6-3b1d1d927cf4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/ed4b4001-157a-43ca-8833-c13d801db5ba_screen shot 2019-11-25 at 11.17.28.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 10000015
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/ed4b4001-157a-43ca-8833-c13d801db5ba_screen shot 2019-11-25 at 11.17.28.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -11.454541595193078,
+              "y": -5.444203334075823,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.714167847362371,
+              "y": 2.7124553494602233,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "5ed357b1-0f84-11ea-bdb6-3b1d1d927cf4",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/5830c453-cddd-4d23-a3f7-97eb3056805e_screen shot 2019-11-25 at 11.18.20.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 8
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/5830c453-cddd-4d23-a3f7-97eb3056805e_screen shot 2019-11-25 at 11.18.20.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 6.914935345645723,
+              "y": 4.067673425851773,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.9834104423033458,
+              "y": 1.9813063180174497,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#8b4044"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN00110013",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.15",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "3ec66ca1-0f90-11ea-afd1-efb54ca43b37",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/01f1f951_d492_49f9_9738_30fa6c9aecc7.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "3ec66ca2-0f90-11ea-afd1-efb54ca43b37",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/208cb28b_20db_46bf_8886_30eb8213a28b.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "3ec66ca3-0f90-11ea-afd1-efb54ca43b37",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/e9cd7897_3aed_4f4a_82a1_167f0060d555.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000000
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "43c7b450-0f90-11ea-afd1-efb54ca43b37"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 12.853389974464207,
+              "y": -5.429847628396757,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.6962128554563223,
+              "y": 2.694574597711078,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "48f05611-0f97-11ea-afc9-414f1043d4c5",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/d4c3a05f-3223-44bf-93c4-db56a46369c0_screen shot 2019-11-25 at 16.37.16.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 12
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/d4c3a05f-3223-44bf-93c4-db56a46369c0_screen shot 2019-11-25 at 16.37.16.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 14.544364089925395,
+              "y": 4.10403336649523,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.971594065836986,
+              "y": 1.9691920334486885,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#b24153"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN02110000",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.16",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "9e8091ae-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/9276079f_c56b_462c_91ea_bb5d480719b4.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e8091af-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/58be0147_c2ec_40cc_8ff6_fcd66da0f894.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e8091b0-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/edc2f1d4_f1bc_4d99_a5f7_53e2be0183e1.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e8091b1-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000015
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "a92d43e0-1b49-11ea-a239-a3f3b65d4fd1"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 10.743684661477161,
+              "y": 4.088781655244901,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.9825108530952398,
+              "y": 1.9800818315789832,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "title": "Wolcott Print Tie",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+                    "color": ""
+                  },
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#2f2d2e"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "DN02110000",
+                    "designer": "Damen + Hastings",
+                    "title": "Wolcott Print Tie",
+                    "sku": "b-0.17",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "9e8091b2-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/718c4676_0ea5_4ab6_b4b9_87d466ed07b5.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e8091b3-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/99a43215_d8ac_4881_9ded_4ce8c367d623.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e8091b4-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/44de51f6_cbe3_417a_8f7b_8bbf1f5be853.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "9e8091b5-1b49-11ea-a239-a3f3b65d4fd1",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10000000
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "60fb6740-1b4a-11ea-a239-a3f3b65d4fd1"
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 183.41080916465182,
+          "y": 48.23287308370528,
+          "z": 0
+        },
+        "scale": {
+          "x": 1.0038957871794065,
+          "y": 1.005303716830383,
+          "z": 1.0038957871794065
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 12.6,
+          "y": 12.6,
+          "z": 1
+        },
+        "text_position": {
+          "x": 0,
+          "y": 11,
+          "z": 0
+        },
+        "view_type": "base_board_view",
+        "background": "https://viewer.byondxr.com/content/1198/60cc219f_daed_4e6b_ad51_5397b67a1174.png",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "rigth": 0,
+          "left": 0
+        },
+        "title": "",
+        "byond_id": "f76b5080-1043-11ea-93fc-d9e3f13549bb",
+        "custom_attributes": [
+          {
+            "key": "view_type",
+            "value": "base_board_view",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          }
+        ],
+        "rotation": {
+          "_x": 0,
+          "_y": 180,
+          "_z": 0,
+          "_order": "XYZ"
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 5.074095984535504,
+              "y": 4.502675219443608,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8804717115612286,
+              "y": 1.8804717115612286,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/9fb7dc24_1b9b_4df1_80f9_ab07bd7b2a77.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/9fb7dc24_1b9b_4df1_80f9_ab07bd7b2a77.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/9fb7dc24_1b9b_4df1_80f9_ab07bd7b2a77.jpg",
+            "title": "Damen + Hastings Men's wallet",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#814938"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/9fb7dc24_1b9b_4df1_80f9_ab07bd7b2a77.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "31DN200010251",
+                    "designer": "Damen + Hastings",
+                    "title": "Damen + Hastings Men's wallet",
+                    "sku": "b-0.21",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d8553-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/6f407591_50fa_4e5c_842a_748ebc910af4.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b03d8554-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ffd791c1_10e4_433f_b179_21984ec17307.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b03d8555-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/d34375ea_1277_4dcc_a6ad_1a3d17d259b1.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 7
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/9fb7dc24_1b9b_4df1_80f9_ab07bd7b2a77.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "ef54c780-1045-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.2899738615236505,
+              "y": 4.749234662266332,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.8114151067352582,
+              "y": 1.8114151067352582,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/2a15926f_8337_4775_a748_9624a9f69ed9.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/2a15926f_8337_4775_a748_9624a9f69ed9.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/2a15926f_8337_4775_a748_9624a9f69ed9.jpg",
+            "title": "Leather Zipper Pouch",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#814938"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/2a15926f_8337_4775_a748_9624a9f69ed9.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "41DN390007251",
+                    "designer": "Damen + Hastings",
+                    "title": "Leather Zipper Pouch",
+                    "sku": "b-0.23",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d8559-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/452e6131_b54b_4494_9628_5a75d34894c4.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b03d855a-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/2be1a151_7fab_4ac8_99e3_b56cdbaab052.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b03d855b-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/4968e131_4d12_449b_903d_a921deb43eeb.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 11
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/2a15926f_8337_4775_a748_9624a9f69ed9.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "f7d39d50-1045-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -7.438520284215144,
+              "y": 0.7841584503748003,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.7941509555271795,
+              "y": 1.7941509555271795,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/6cdc8060_3393_413f_9ba6_1d06af37547e.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/6cdc8060_3393_413f_9ba6_1d06af37547e.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/6cdc8060_3393_413f_9ba6_1d06af37547e.jpg",
+            "title": "Damen + Hastings Men's Logan Bracelet Set",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#eb9437"
+                      },
+                      {
+                        "color": "#514c49"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/6cdc8060_3393_413f_9ba6_1d06af37547e.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "61DN47X016",
+                    "designer": "Damen + Hastings",
+                    "title": "Damen + Hastings Men's Logan Bracelet Set",
+                    "sku": "b-0.24",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d855c-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/65979a20_287a_4359_80e9_600f16933ea1.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b03d855d-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/9d1f5415_4e8a_459b_bddb_64800c18eb41.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 10
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/6cdc8060_3393_413f_9ba6_1d06af37547e.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "fb5019e0-1045-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 0.7599609297818546,
+              "y": 0.5357731061342808,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.7078301994931306,
+              "y": 1.7078301994931306,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
+            "title": "Damen + Hastings Men's Belmont Bracelet Set",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#d7d6d4"
+                      },
+                      {
+                        "color": "#8d8382"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "61DN47X017",
+                    "designer": "Damen + Hastings",
+                    "title": "Damen + Hastings Men's Belmont Bracelet Set",
+                    "sku": "b-0.25",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d855e-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/ccd75d8b_6fed_4988_a235_04319b3a7f05.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "b03d855f-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/8e8b4cca_0091_4f27_a929_6d1af889ae35.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 9
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "fe33fff0-1045-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -3.7185587998457423,
+              "y": -5.384153472833765,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.502254842936915,
+              "y": 2.5192453062236364,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
+            "title": "Chicago Style Hot Dog And Beer Stein Two-Pack Pin Set",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#f8db7d"
+                      },
+                      {
+                        "color": "#c33742"
+                      },
+                      {
+                        "color": "#3d8351"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "61DN57X011",
+                    "designer": "Damen + Hastings",
+                    "title": "Chicago Style Hot Dog And Beer Stein Two-Pack Pin Set",
+                    "sku": "b-0.26",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d8560-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/7e068a58_2fdd_4f2f_b4be_08d5697e9f14.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 2
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "017dacb0-1046-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 4.547058458741134,
+              "y": -5.401288271225351,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.5359270798355564,
+              "y": 2.535927079835555,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
+            "title": "Damen + Hastings Men's City Of Chicago Flag Pin",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#c9333f"
+                      },
+                      {
+                        "color": "#98d4f0"
+                      },
+                      {
+                        "color": "#f2f2f4"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "61DN57X013",
+                    "designer": "Damen + Hastings",
+                    "title": "Damen + Hastings Men's City Of Chicago Flag Pin",
+                    "sku": "b-0.27",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d8561-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/3ad38c74_aabc_4741_873d_6e8bd05a5a95.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 5
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "04943b80-1046-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -11.853415597016584,
+              "y": -5.443582920838253,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.6918868182996585,
+              "y": 2.6918868182996585,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
+            "title": "Chicago Deep Dish Pizza Pin",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#cf3c42"
+                      },
+                      {
+                        "color": "#f4e39e"
+                      },
+                      {
+                        "color": "#ba9c84"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "61DN57X012",
+                    "designer": "Damen + Hastings",
+                    "title": "Chicago Deep Dish Pizza Pin",
+                    "sku": "b-0.28",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "b03d8562-103e-11ea-93fc-d9e3f13549bb",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/755b0c7d_8e05_4e90_8130_88bb1f85e42b.jpg",
+                      "grow_type": "none"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "$$render_order",
+                "value": 5
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "075caa50-1046-11ea-93fc-d9e3f13549bb"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 13.822860774629621,
+              "y": -5.328631023325138,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.8006603850065055,
+              "y": 2.800660385006507,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "6f63ad61-1046-11ea-93fc-d9e3f13549bb",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/26880dd3-9c56-4736-bedb-474a70ac2e35_screen shot 2019-11-25 at 11.49.05.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 4
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/26880dd3-9c56-4736-bedb-474a70ac2e35_screen shot 2019-11-25 at 11.49.05.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 13.822860774630445,
+              "y": 2.2089556590330623,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.800660385006505,
+              "y": 2.69902882229331,
+              "z": 2.3
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "b07defe1-1046-11ea-93fc-d9e3f13549bb",
+            "grow_type": "none",
+            "type": "photo",
+            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/dc86f889-26af-4a3d-ac5c-adf3bad70380_screen shot 2019-11-25 at 11.50.18.png",
+            "custom_attributes": [
+              {
+                "key": "$$render_order",
+                "value": 3
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/dc86f889-26af-4a3d-ac5c-adf3bad70380_screen shot 2019-11-25 at 11.50.18.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ]
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -12.175746725435374,
+              "y": 4.81594521985447,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.7623212558269958,
+              "y": 1.7612536235466463,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
+            "medium": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
+            "title": "Damen + Hastings Men's wallet",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "color": {
+                    "icons": [
+                      {
+                        "color": "#814938"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
+                    "color": "",
+                    "colors": []
+                  },
+                  "info": {
+                    "company": "Damen + Hastings",
+                    "garment": "",
+                    "season": "",
+                    "category": "men",
+                    "style": "31DN200010251",
+                    "designer": "Damen + Hastings",
+                    "title": "Damen + Hastings Men's wallet",
+                    "sku": "b-0.21",
+                    "description": "",
+                    "collection": "Fall2020"
+                  },
+                  "models": [
+                    {
+                      "byond_id": "e61fd8e2-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/93bb2049_5196_4408_b3e2_d26d360e8592.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "e61fd8e3-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/9ca1f7d8_f051_4e7b_9d20_af2c9bc91ec7.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "e61fd8e4-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/f544ec63_59a9_4575_bec7_28d379679b43.jpg",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "e61fd8e5-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/dac81394_b5f2_4a35_b21c_98875b9c7e40.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        }
+                      ]
+                    },
+                    {
+                      "byond_id": "e61fd8e6-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/randa/Wallet.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "ebd7c660-4b38-11ea-9976-d3ab35e15a03"
+          }
+        ]
+      },
+      {
+        "metadataName": "Element3DMetadata",
+        "position": {
+          "x": 183.61329970212245,
+          "y": 18.764461668076606,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "is_cast_shadow": false,
+        "is_receive_shadow": false,
+        "backgroundScale": {
+          "x": 12.6,
+          "y": 12.6,
+          "z": 1
+        },
+        "text_position": {
+          "x": 0,
+          "y": 11,
+          "z": 0
+        },
+        "view_type": "base_board_view",
+        "background": "https://viewer.byondxr.com/content/1198/fd9a9e71_2fde_40da_9668_f9165d4a75ff.png",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "rigth": 0,
+          "left": 0
+        },
+        "title": "",
+        "byond_id": "265b2260-4b38-11ea-9976-d3ab35e15a03",
+        "custom_attributes": [
+          {
+            "key": "view_type",
+            "value": "base_board_view",
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            }
+          }
+        ],
+        "rotation": {
+          "_x": 0,
+          "_y": 180,
+          "_z": 0,
+          "_order": "XYZ"
+        },
+        "screens": [
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -11.66006425272812,
+              "y": -0.43774985248622045,
+              "z": 0
+            },
+            "scale": {
+              "x": 1.9888564303902159,
+              "y": 2.0541527053282738,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/4e7d6edd_e353_420e_a7a6_2dc318db872e.png",
+            "medium": "https://viewer.byondxr.com/content/1299/4e7d6edd_e353_420e_a7a6_2dc318db872e.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/4e7d6edd_e353_420e_a7a6_2dc318db872e.png",
+            "title": "yellow bag",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "yellow bag",
+                    "sku": "b-0.40",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "00f10a36-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/ad1af363_fd71_4cd9_ab9e_8f94b9124260.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "00f10a37-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/0d8cc87c_80af_43c3_9249_8fe00828f414.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "00f10a38-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/925d8a5d_1107_42bf_9594_2dd7d6a07350.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "00f10a39-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/10d885eb_6598_42d4_bcd2_dcd1d3f62472.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "byond_id": "00f10a3a-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/fashion-demo/assets/USDZ/yellow_bag.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "2b45fc00-4b38-11ea-9976-d3ab35e15a03"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": -0.7163179404087856,
+              "y": -0.875499704990645,
+              "z": 0
+            },
+            "scale": {
+              "x": 4.328346033984281,
+              "y": 4.328346033984281,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1198/0d576fea_9244_492b_9a0d_06d0318a2e99.png",
+            "medium": "https://viewer.byondxr.com/content/1198/0d576fea_9244_492b_9a0d_06d0318a2e99.png",
+            "thumb": "https://viewer.byondxr.com/content/1198/0d576fea_9244_492b_9a0d_06d0318a2e99.png",
+            "title": "yoga girl",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "yoga girl",
+                    "sku": "b-0.41",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "00f10a3b-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/5026451c_c7c4_4ebb_ab20_357f13ffcfe1.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "00f10a3c-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1198/0ad789de_91e2_473d_9b1d_cd32ddf3a67f.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "00f10a3d-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/delta/yoga_model4.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "2f290290-4b38-11ea-9976-d3ab35e15a03"
+          },
+          {
+            "metadataName": "Element3DMetadata",
+            "position": {
+              "x": 11.938632340705354,
+              "y": -0.8754997049833637,
+              "z": 0
+            },
+            "scale": {
+              "x": 2.205922476083694,
+              "y": 1.9200112284605058,
+              "z": 1
+            },
+            "is_cast_shadow": false,
+            "is_receive_shadow": false,
+            "type": "photo",
+            "picture": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png",
+            "medium": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png",
+            "thumb": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png",
+            "title": "stand",
+            "grow_type": "none",
+            "custom_attributes": [
+              {
+                "key": "detail",
+                "value": {
+                  "info": {
+                    "company": "",
+                    "garment": "",
+                    "season": "",
+                    "category": "",
+                    "style": "",
+                    "designer": "",
+                    "title": "stand",
+                    "sku": "b-0.42",
+                    "description": "",
+                    "collection": ""
+                  },
+                  "models": [
+                    {
+                      "byond_id": "00f10a3e-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "screen",
+                      "type": "photo",
+                      "picture": "https://viewer.byondxr.com/content/1299/d10b8fcd_c295_4183_9281_96368f026fd4.png",
+                      "grow_type": "none"
+                    },
+                    {
+                      "byond_id": "00f10a3f-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "objModel",
+                      "source": "https://viewer.byondxr.com/content/1198/78cc4270_e2d7_4c31_b770_97121dc65dc6.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "byond_id": "00f10a40-4b38-11ea-9976-d3ab35e15a03",
+                      "ElementName": "usdz",
+                      "source": "https://web-apps.byondxr.com/assets/models/Stand.usdz"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
+              }
+            ],
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "3109f790-4b38-11ea-9976-d3ab35e15a03"
+          }
+        ]
+      }
+    ]
+  },
+  "custom_attributes": [
+    {
+      "key": "$$camera",
+      "value": {
+        "dolly_camera": {
+          "min_z": "0.1"
+        }
+      }
+    },
+    {
+      "key": "journy",
+      "value": [
+        {
+          "element": "265b2260-4b38-11ea-9976-d3ab35e15a03",
+          "viewElement": "265b2260-4b38-11ea-9976-d3ab35e15a03",
+          "index": 0
+        }
+      ]
+    }
+  ]
+}

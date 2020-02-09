@@ -9,6 +9,14 @@
             "id": "/showroooms/showroom-randa-NOCACHE.json",
             "description": "Rando demo Showroom",
             "created_date": "",
+            "updated_date": "", 
+            "owner": ""
+        }, {
+            "title": "Randa lite",
+            "image": "https://viewer.byondxr.com/content/1198/90c68fcf_325f_4310_81d5_62a1aa419db9.png",
+            "id": "/showroooms/showroom-randa-lite-NOCACHE.json",
+            "description": "Randa Showroom lite version",
+            "created_date": "",
             "updated_date": "",
             "owner": ""
         }
