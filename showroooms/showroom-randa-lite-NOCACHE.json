@@ -175,10 +175,6 @@
                 "value": 2
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -201,6 +197,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -324,10 +324,6 @@
                 "value": 3
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -350,6 +346,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -483,10 +483,6 @@
                 "value": 4
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -509,6 +505,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -549,10 +549,6 @@
                 "value": 6
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -575,6 +571,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           },
@@ -608,10 +608,6 @@
                 "value": 7
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -634,6 +630,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           },
@@ -763,10 +763,6 @@
                 "value": 15
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -789,6 +785,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -925,10 +925,6 @@
                 "value": 12
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -951,6 +947,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1087,10 +1087,6 @@
                 "value": 13
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1113,6 +1109,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -1153,10 +1153,6 @@
                 "value": 2
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1179,6 +1175,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           },
@@ -1212,10 +1212,6 @@
                 "value": 10
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1238,6 +1234,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ]
           }
@@ -1299,134 +1299,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -12.71808992681617,
-              "y": 3.871031224812377,
+              "x": -7.242854262977666,
+              "y": 3.1866137266777415,
               "z": 0
             },
             "scale": {
-              "x": 2.19674746614302,
-              "y": 2.193788796501584,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
-            "title": "Wolcott Print Tie",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/fb81274c_7c2b_42f0_8ba2_6739e07a6d2f.jpg"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
-                    "color": ""
-                  },
-                  "color": {
-                    "icons": [
-                      {
-                        "color": "#ea5859"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg",
-                    "color": "",
-                    "colors": []
-                  },
-                  "info": {
-                    "company": "Damen + Hastings",
-                    "garment": "",
-                    "season": "",
-                    "category": "men",
-                    "style": "DN00110004",
-                    "designer": "Damen + Hastings",
-                    "title": "Wolcott Print Tie",
-                    "sku": "b-0.10",
-                    "description": "",
-                    "collection": "Fall2020"
-                  },
-                  "models": [
-                    {
-                      "byond_id": "29d63cf8-0f83-11ea-bdb6-3b1d1d927cf4",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/28f5e07c_2b31_4d98_8dfd_1cf53916b198.jpg",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "29d63cf9-0f83-11ea-bdb6-3b1d1d927cf4",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/323aaffb_91e2_4f7f_93be_d69bf8876f96.jpg",
-                      "grow_type": "none"
-                    },
-                    {
-                      "byond_id": "29d63cfa-0f83-11ea-bdb6-3b1d1d927cf4",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/dc36ff2c_6573_47a8_9098_f241e07089d1.jpg",
-                      "grow_type": "none"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 2
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/f55240ff_2c4d_41fd_8556_bf467232114c.jpg"
-                    }
-                  ]
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "e68b1b30-0f83-11ea-bdb6-3b1d1d927cf4"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -8.821231215459314,
-              "y": 4.121380659698779,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.0017260023317203,
-              "y": 1.9992494762250455,
+              "x": 2.549676820611084,
+              "y": 2.5458456180412883,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -1502,10 +1381,6 @@
                 "value": 3
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1528,11 +1403,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1541,13 +1420,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -4.845438165851547,
-              "y": 4.131329467377498,
+              "x": 1.054320345812613,
+              "y": 3.0739701497106893,
               "z": 0
             },
             "scale": {
-              "x": 1.992986978941537,
-              "y": 1.9902019716300292,
+              "x": 2.4666393811839327,
+              "y": 2.4625259319676034,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -1623,10 +1502,6 @@
                 "value": 5
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1649,11 +1524,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1662,13 +1541,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -0.8036146292525146,
-              "y": 4.186527553279497,
+              "x": 9.494145682010476,
+              "y": 3.021899899032171,
               "z": 0
             },
             "scale": {
-              "x": 2.0297742438083524,
-              "y": 2.05035171178451,
+              "x": 2.4755647400334997,
+              "y": 2.4950400983447523,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -1744,10 +1623,6 @@
                 "value": 9999999
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1770,11 +1645,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1783,13 +1662,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 3.0749058102317903,
-              "y": 4.077336541016464,
+              "x": 13.168295178699204,
+              "y": -5.248361297635483,
               "z": 0
             },
             "scale": {
-              "x": 1.9974543109330767,
-              "y": 1.9840985474938608,
+              "x": 2.387520995130497,
+              "y": 2.6048094204029106,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -1856,10 +1735,6 @@
                 "value": 9999999
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -1882,11 +1757,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1895,131 +1774,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 0.7580056016882111,
-              "y": -5.421946974688929,
+              "x": 4.799374864812371,
+              "y": -5.260966916010069,
               "z": 0
             },
             "scale": {
-              "x": 3.9282078413864676,
-              "y": 4.049968344692318,
-              "z": 2.3
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "48861d31-0f84-11ea-bdb6-3b1d1d927cf4",
-            "grow_type": "none",
-            "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/ed4b4001-157a-43ca-8833-c13d801db5ba_screen shot 2019-11-25 at 11.17.28.png",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 10000015
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/ed4b4001-157a-43ca-8833-c13d801db5ba_screen shot 2019-11-25 at 11.17.28.png"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -11.454541595193078,
-              "y": -5.444203334075823,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.714167847362371,
-              "y": 2.7124553494602233,
-              "z": 2.3
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "5ed357b1-0f84-11ea-bdb6-3b1d1d927cf4",
-            "grow_type": "none",
-            "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/5830c453-cddd-4d23-a3f7-97eb3056805e_screen shot 2019-11-25 at 11.18.20.png",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 8
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/5830c453-cddd-4d23-a3f7-97eb3056805e_screen shot 2019-11-25 at 11.18.20.png"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 6.914935345645723,
-              "y": 4.067673425851773,
-              "z": 0
-            },
-            "scale": {
-              "x": 1.9834104423033458,
-              "y": 1.9813063180174497,
+              "x": 2.6149469786208797,
+              "y": 2.6114916061681335,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2095,10 +1856,6 @@
                 "value": 10000000
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2121,6 +1878,10 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2134,72 +1895,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 12.853389974464207,
-              "y": -5.429847628396757,
+              "x": -11.003263734213249,
+              "y": -5.303903816379503,
               "z": 0
             },
             "scale": {
-              "x": 2.6962128554563223,
-              "y": 2.694574597711078,
-              "z": 2.3
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "48f05611-0f97-11ea-afc9-414f1043d4c5",
-            "grow_type": "none",
-            "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/d4c3a05f-3223-44bf-93c4-db56a46369c0_screen shot 2019-11-25 at 16.37.16.png",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 12
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/d4c3a05f-3223-44bf-93c4-db56a46369c0_screen shot 2019-11-25 at 16.37.16.png"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 14.676215319914533,
-              "y": 3.8920935671855688,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.004584783831309,
-              "y": 2.0021011898362437,
+              "x": 2.6082594141349777,
+              "y": 2.60428337996869,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2284,12 +1986,36 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 10000015
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2303,13 +2029,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 10.757057704928812,
-              "y": 4.0206016993564475,
+              "x": -3.098903673129243,
+              "y": -5.2431884149631,
               "z": 0
             },
             "scale": {
-              "x": 1.9790444927186335,
-              "y": 1.9766240409437832,
+              "x": 2.6012937270332483,
+              "y": 2.597334913851131,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2394,12 +2120,36 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 10000000
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -2415,8 +2165,8 @@
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 183.41080916465182,
-          "y": 48.23287308370528,
+          "x": 246.07461138259438,
+          "y": 74.42077373170399,
           "z": 0
         },
         "scale": {
@@ -2460,7 +2210,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -2468,13 +2218,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 5.074095984535504,
-              "y": 4.502675219443608,
+              "x": 12.765419336292922,
+              "y": 2.1860115592961744,
               "z": 0
             },
             "scale": {
-              "x": 1.8804717115612286,
-              "y": 1.8804717115612286,
+              "x": 2.6636821077702897,
+              "y": 2.662585220211524,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2541,10 +2291,6 @@
                 "value": 7
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2567,11 +2313,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2580,13 +2330,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -3.2899738615236505,
-              "y": 4.749234662266332,
+              "x": 0.7873541803358233,
+              "y": 2.6179040949222028,
               "z": 0
             },
             "scale": {
-              "x": 1.8114151067352582,
-              "y": 1.8114151067352582,
+              "x": 2.6505691026735363,
+              "y": 2.64939386600343,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2653,10 +2403,6 @@
                 "value": 11
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2679,11 +2425,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2692,13 +2442,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -7.438520284215144,
-              "y": 0.7841584503748003,
+              "x": -5.30718971686251,
+              "y": -5.0538339732306845,
               "z": 0
             },
             "scale": {
-              "x": 1.7941509555271795,
-              "y": 1.7941509555271795,
+              "x": 2.577361351746502,
+              "y": 2.5762644641877213,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2761,10 +2511,6 @@
                 "value": 10
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2787,11 +2533,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2800,13 +2550,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": 0.7599609297818546,
-              "y": 0.5357731061342808,
+              "x": 8.17328464232159,
+              "y": -5.302219317471211,
               "z": 0
             },
             "scale": {
-              "x": 1.7078301994931306,
-              "y": 1.7078301994931306,
+              "x": 2.4350969959729762,
+              "y": 2.4340784575255494,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -2869,10 +2619,6 @@
                 "value": 9
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$progressive_loading",
                 "value": {
                   "type": "proxy",
@@ -2895,11 +2641,15 @@
                     }
                   ]
                 }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2908,443 +2658,13 @@
           {
             "metadataName": "Element3DMetadata",
             "position": {
-              "x": -3.7185587998457423,
-              "y": -5.384153472833765,
+              "x": -11.249081261359436,
+              "y": 2.6846146525018497,
               "z": 0
             },
             "scale": {
-              "x": 2.502254842936915,
-              "y": 2.5192453062236364,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
-            "title": "Chicago Style Hot Dog And Beer Stein Two-Pack Pin Set",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "color": {
-                    "icons": [
-                      {
-                        "color": "#f8db7d"
-                      },
-                      {
-                        "color": "#c33742"
-                      },
-                      {
-                        "color": "#3d8351"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg",
-                    "color": "",
-                    "colors": []
-                  },
-                  "info": {
-                    "company": "Damen + Hastings",
-                    "garment": "",
-                    "season": "",
-                    "category": "men",
-                    "style": "61DN57X011",
-                    "designer": "Damen + Hastings",
-                    "title": "Chicago Style Hot Dog And Beer Stein Two-Pack Pin Set",
-                    "sku": "b-0.26",
-                    "description": "",
-                    "collection": "Fall2020"
-                  },
-                  "models": [
-                    {
-                      "byond_id": "b03d8560-103e-11ea-93fc-d9e3f13549bb",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/7e068a58_2fdd_4f2f_b4be_08d5697e9f14.jpg",
-                      "grow_type": "none"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 2
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/d6a0e5e4_9a38_4448_b71d_420265e0ba6e.jpg"
-                    }
-                  ]
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "017dacb0-1046-11ea-93fc-d9e3f13549bb"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 4.547058458741134,
-              "y": -5.401288271225351,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.5359270798355564,
-              "y": 2.535927079835555,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
-            "title": "Damen + Hastings Men's City Of Chicago Flag Pin",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "color": {
-                    "icons": [
-                      {
-                        "color": "#c9333f"
-                      },
-                      {
-                        "color": "#98d4f0"
-                      },
-                      {
-                        "color": "#f2f2f4"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg",
-                    "color": "",
-                    "colors": []
-                  },
-                  "info": {
-                    "company": "Damen + Hastings",
-                    "garment": "",
-                    "season": "",
-                    "category": "men",
-                    "style": "61DN57X013",
-                    "designer": "Damen + Hastings",
-                    "title": "Damen + Hastings Men's City Of Chicago Flag Pin",
-                    "sku": "b-0.27",
-                    "description": "",
-                    "collection": "Fall2020"
-                  },
-                  "models": [
-                    {
-                      "byond_id": "b03d8561-103e-11ea-93fc-d9e3f13549bb",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/3ad38c74_aabc_4741_873d_6e8bd05a5a95.jpg",
-                      "grow_type": "none"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 5
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/055c0fdf_b6d5_497c_805c_c59539afe087.jpg"
-                    }
-                  ]
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "04943b80-1046-11ea-93fc-d9e3f13549bb"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -11.853415597016584,
-              "y": -5.443582920838253,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.6918868182996585,
-              "y": 2.6918868182996585,
-              "z": 1
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "type": "photo",
-            "picture": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
-            "title": "Chicago Deep Dish Pizza Pin",
-            "grow_type": "none",
-            "custom_attributes": [
-              {
-                "key": "detail",
-                "value": {
-                  "color": {
-                    "icons": [
-                      {
-                        "color": "#cf3c42"
-                      },
-                      {
-                        "color": "#f4e39e"
-                      },
-                      {
-                        "color": "#ba9c84"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg",
-                    "color": "",
-                    "colors": []
-                  },
-                  "info": {
-                    "company": "Damen + Hastings",
-                    "garment": "",
-                    "season": "",
-                    "category": "men",
-                    "style": "61DN57X012",
-                    "designer": "Damen + Hastings",
-                    "title": "Chicago Deep Dish Pizza Pin",
-                    "sku": "b-0.28",
-                    "description": "",
-                    "collection": "Fall2020"
-                  },
-                  "models": [
-                    {
-                      "byond_id": "b03d8562-103e-11ea-93fc-d9e3f13549bb",
-                      "ElementName": "screen",
-                      "type": "photo",
-                      "picture": "https://viewer.byondxr.com/content/1198/755b0c7d_8e05_4e90_8130_88bb1f85e42b.jpg",
-                      "grow_type": "none"
-                    }
-                  ]
-                }
-              },
-              {
-                "key": "$$render_order",
-                "value": 5
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://viewer.byondxr.com/content/1198/ad1bfb58_fe35_43a3_a16a_22fed206260b.jpg"
-                    }
-                  ]
-                }
-              }
-            ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "075caa50-1046-11ea-93fc-d9e3f13549bb"
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 13.822860774629621,
-              "y": -5.328631023325138,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.8006603850065055,
-              "y": 2.800660385006507,
-              "z": 2.3
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "6f63ad61-1046-11ea-93fc-d9e3f13549bb",
-            "grow_type": "none",
-            "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/26880dd3-9c56-4736-bedb-474a70ac2e35_screen shot 2019-11-25 at 11.49.05.png",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 4
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/26880dd3-9c56-4736-bedb-474a70ac2e35_screen shot 2019-11-25 at 11.49.05.png"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": 13.822860774630445,
-              "y": 2.2089556590330623,
-              "z": 0
-            },
-            "scale": {
-              "x": 2.800660385006505,
-              "y": 2.69902882229331,
-              "z": 2.3
-            },
-            "is_cast_shadow": false,
-            "is_receive_shadow": false,
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "b07defe1-1046-11ea-93fc-d9e3f13549bb",
-            "grow_type": "none",
-            "type": "photo",
-            "picture": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/dc86f889-26af-4a3d-ac5c-adf3bad70380_screen shot 2019-11-25 at 11.50.18.png",
-            "custom_attributes": [
-              {
-                "key": "$$render_order",
-                "value": 3
-              },
-              {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
-                "key": "$$progressive_loading",
-                "value": {
-                  "type": "proxy",
-                  "preview": [
-                    {
-                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
-                      "parameters": [
-                        {
-                          "key": "{{image_url}}",
-                          "value": "##url"
-                        },
-                        {
-                          "key": "{{image_width}}",
-                          "value": 64
-                        }
-                      ]
-                    },
-                    {
-                      "url": "https://showroom-canvas-media-upload-staging.byondxr.com/76f401c5-86ca-404b-a7b7-06b47f5bff47/dc86f889-26af-4a3d-ac5c-adf3bad70380_screen shot 2019-11-25 at 11.50.18.png"
-                    }
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "metadataName": "Element3DMetadata",
-            "position": {
-              "x": -12.175746725435374,
-              "y": 4.81594521985447,
-              "z": 0
-            },
-            "scale": {
-              "x": 1.7623212558269958,
-              "y": 1.7612536235466463,
+              "x": 2.4895880523170972,
+              "y": 2.487501881589303,
               "z": 1
             },
             "is_cast_shadow": false,
@@ -3458,8 +2778,8 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
+                "key": "$$render_order",
+                "value": 11
               },
               {
                 "key": "$$progressive_loading",
@@ -3486,13 +2806,13 @@
                 }
               },
               {
-                "key": "$$render_order",
-                "value": 11
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -3503,8 +2823,8 @@
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 183.61329970212245,
-          "y": 18.764461668076606,
+          "x": 203.93014259533,
+          "y": 40.66855791228451,
           "z": 0
         },
         "scale": {
@@ -3525,7 +2845,7 @@
           "z": 0
         },
         "view_type": "base_board_view",
-        "background": "https://viewer.byondxr.com/content/1198/fd9a9e71_2fde_40da_9668_f9165d4a75ff.png",
+        "background": "https://viewer.byondxr.com/content/1198/6b26c14a_0acc_44dc_8c7a_2fd3d56c7bfb.png",
         "padding": {
           "top": 0,
           "bottom": 0,
@@ -3548,7 +2868,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -3642,8 +2962,8 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
+                "key": "$$render_order",
+                "value": 3
               },
               {
                 "key": "$$progressive_loading",
@@ -3670,13 +2990,13 @@
                 }
               },
               {
-                "key": "$$render_order",
-                "value": 3
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -3742,8 +3062,8 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
+                "key": "$$render_order",
+                "value": 2
               },
               {
                 "key": "$$progressive_loading",
@@ -3770,8 +3090,8 @@
                 }
               },
               {
-                "key": "$$render_order",
-                "value": 2
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
@@ -3857,8 +3177,8 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
+                "key": "$$render_order",
+                "value": 4
               },
               {
                 "key": "$$progressive_loading",
@@ -3885,8 +3205,8 @@
                 }
               },
               {
-                "key": "$$render_order",
-                "value": 4
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
