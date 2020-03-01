@@ -5,13 +5,14 @@
     "showrooms": [
         {
             "title": "Randa",
-            "image": "https://viewer.byondxr.com/content/1198/1669e76f_19ca_4ef1_b434_6c6de9e5ced6.png",
+            "image": "https://viewer.byondxr.com/content/1198/f9eef698_ece7_4030_ad89_b9cb5071854d.jpg",
             "id": "/showroooms/showroom-randa-NOCACHE.json",
             "description": "Rando demo Showroom",
             "created_date": "",
-            "updated_date": "", 
+            "updated_date": "",
             "owner": ""
-        }, {
+        },
+        {
             "title": "Randa lite",
             "image": "https://viewer.byondxr.com/content/1198/90c68fcf_325f_4310_81d5_62a1aa419db9.png",
             "id": "/showroooms/showroom-randa-lite-NOCACHE.json",

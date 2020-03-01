@@ -29,8 +29,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": -12.077222886208233,
+          "y": 7.8688851388515815,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -41,7 +41,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Belts",
         "byond_id": "7b22a1d0-0f7c-11ea-bdb6-3b1d1d927cf4",
         "custom_attributes": [
           {
@@ -719,7 +719,7 @@
         },
         "text_position": {
           "x": 0,
-          "y": 11,
+          "y": 7.75109084225241,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -730,7 +730,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Ties",
         "byond_id": "de6ae020-0f83-11ea-bdb6-3b1d1d927cf4",
         "custom_attributes": [
           {
@@ -746,7 +746,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 180,
+          "_y": 0,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -1736,15 +1736,43 @@
                 }
               },
               {
+                "key": "$$render_order",
+                "value": 8
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                    }
+                  ]
+                }
+              },
+              {
                 "key": "view_type",
                 "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 3.141592653589793,
+              "_y": 0,
               "_z": 0,
-              "_order": "YXZ"
+              "_order": "XYZ"
             },
             "byond_id": "2e8809e0-1c20-11ea-89d2-3deb4faeebe3"
           },
@@ -1872,17 +1900,41 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 10000016
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1979,17 +2031,41 @@
                 }
               },
               {
-                "key": "view_type",
-                "value": "base_product_view"
-              },
-              {
                 "key": "$$render_order",
                 "value": 10000000
+              },
+              {
+                "key": "$$progressive_loading",
+                "value": {
+                  "type": "proxy",
+                  "preview": [
+                    {
+                      "url": "https://image-optimiser.byondxr.com/resize?image={{image_url}}&width={{image_width}}",
+                      "parameters": [
+                        {
+                          "key": "{{image_url}}",
+                          "value": "##url"
+                        },
+                        {
+                          "key": "{{image_width}}",
+                          "value": 64
+                        }
+                      ]
+                    },
+                    {
+                      "url": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg"
+                    }
+                  ]
+                }
+              },
+              {
+                "key": "view_type",
+                "value": "base_product_view"
               }
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2017,8 +2093,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 10.917683162962337,
+          "x": -1.7798012674469987,
+          "y": 7.877792782068674,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -2029,7 +2105,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "For you",
         "byond_id": "19016410-0f85-11ea-bdb6-3b1d1d927cf4",
         "custom_attributes": [
           {
@@ -2724,7 +2800,7 @@
         },
         "scale": {
           "x": 1,
-          "y": 1,
+          "y": 1.0000000000000002,
           "z": 1
         },
         "is_cast_shadow": false,
@@ -2735,8 +2811,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11.044672628888385,
+          "x": -10.534546372706998,
+          "y": 8.042778175502491,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -2747,7 +2823,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "For you dog",
         "byond_id": "66292e20-0f95-11ea-afd1-efb54ca43b37",
         "custom_attributes": [
           {
@@ -3261,8 +3337,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": 4.449503168606498,
+          "y": 8.04752561525875,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -3273,7 +3349,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Accessories",
         "byond_id": "f76b5080-1043-11ea-93fc-d9e3f13549bb",
         "custom_attributes": [
           {
@@ -4281,14 +4357,14 @@
       {
         "metadataName": "Element3DMetadata",
         "position": {
-          "x": 203.6892033516367,
-          "y": 20.79950959457917,
+          "x": 203.70399824878103,
+          "y": 20.862712738095663,
           "z": 0
         },
         "scale": {
-          "x": 1,
-          "y": 1,
-          "z": 1
+          "x": 1.0007116352745609,
+          "y": 1.0051481493366057,
+          "z": 1.0007116352745609
         },
         "is_cast_shadow": false,
         "is_receive_shadow": false,
@@ -4298,8 +4374,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": 0.7627719717180241,
+          "y": 6.638058568597298,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -4310,7 +4386,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Collection",
         "byond_id": "fb499c20-1043-11ea-93fc-d9e3f13549bb",
         "custom_attributes": [
           {
@@ -7209,7 +7285,7 @@
         },
         "text_position": {
           "x": 0,
-          "y": 11,
+          "y": 9.202438515768591,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -7220,7 +7296,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Inspiration",
         "byond_id": "5c62b5c0-0f98-11ea-8966-8b86effbf2c4",
         "custom_attributes": [
           {

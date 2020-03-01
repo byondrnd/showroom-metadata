@@ -29,8 +29,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": -6.9931737616957435,
+          "y": 7.673978332850595,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -41,7 +41,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Belts",
         "byond_id": "7b22a1d0-0f7c-11ea-bdb6-3b1d1d927cf4",
         "custom_attributes": [
           {
@@ -57,7 +57,7 @@
         ],
         "rotation": {
           "_x": 0,
-          "_y": 0,
+          "_y": 180,
           "_z": 0,
           "_order": "XYZ"
         },
@@ -205,7 +205,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -651,12 +651,16 @@
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "d8e4eee0-2a25-11ea-85c7-e9ee23b23655",
+            "grow_type": "none",
             "type": "photo",
             "picture": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
-            "title": "Halsted Leather Belt",
-            "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
@@ -791,13 +795,9 @@
                 "value": "base_product_view"
               }
             ],
-            "rotation": {
-              "_x": 0,
-              "_y": 0,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "d8e4eee0-2a25-11ea-85c7-e9ee23b23655"
+            "medium": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/aa3c2035_7250_40f2_8c03_2153626bc678.jpg",
+            "title": "Halsted Leather Belt"
           },
           {
             "metadataName": "Element3DMetadata",
@@ -1263,8 +1263,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": -12.195412779513418,
+          "y": 6.480021836954009,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -1275,7 +1275,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Ties",
         "byond_id": "de6ae020-0f83-11ea-bdb6-3b1d1d927cf4",
         "custom_attributes": [
           {
@@ -1532,7 +1532,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1653,7 +1653,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1765,7 +1765,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1795,15 +1795,6 @@
               {
                 "key": "detail",
                 "value": {
-                  "variety": {
-                    "icons": [
-                      {
-                        "icon": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg"
-                      }
-                    ],
-                    "image": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
-                    "color": ""
-                  },
                   "color": {
                     "icons": [
                       {
@@ -1848,7 +1839,16 @@
                       "picture": "https://viewer.byondxr.com/content/1198/e9cd7897_3aed_4f4a_82a1_167f0060d555.jpg",
                       "grow_type": "none"
                     }
-                  ]
+                  ],
+                  "variety": {
+                    "icons": [
+                      {
+                        "icon": "https://viewer.byondxr.com/content/1198/d7583ca4_ecb9_45a6_9c17_4a5332282d73.jpg"
+                      }
+                    ],
+                    "image": "https://viewer.byondxr.com/content/1198/a6508eb8_3764_4e18_bffc_a63a7433ab4e.jpg",
+                    "color": ""
+                  }
                 }
               },
               {
@@ -1886,7 +1886,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -1906,12 +1906,16 @@
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "69795090-4b4b-11ea-94b2-dd4cbdc1990e",
+            "grow_type": "none",
             "type": "photo",
             "picture": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
-            "title": "Wolcott Print Tie",
-            "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
@@ -1975,7 +1979,32 @@
                     {
                       "byond_id": "68c0082f-4b4a-11ea-94b2-dd4cbdc1990e",
                       "ElementName": "objModel",
-                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb"
+                      "source": "https://viewer.byondxr.com/content/1198/81672dd2_42bc_4790_b96f_a597e61cafb5.glb",
+                      "custom_attributes": [
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$environment_map",
+                          "value": {
+                            "intensity": 0.75,
+                            "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
+                          }
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        }
+                      ]
                     },
                     {
                       "byond_id": "68c00830-4b4a-11ea-94b2-dd4cbdc1990e",
@@ -2018,13 +2047,9 @@
                 "value": "base_product_view"
               }
             ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "69795090-4b4b-11ea-94b2-dd4cbdc1990e"
+            "medium": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/6d22be2c_d3a2_490c_a38a_8ad1ac0adbaa.jpg",
+            "title": "Wolcott Print Tie"
           },
           {
             "metadataName": "Element3DMetadata",
@@ -2040,12 +2065,16 @@
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "7c4309a0-4b4b-11ea-94b2-dd4cbdc1990e",
+            "grow_type": "none",
             "type": "photo",
             "picture": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
-            "title": "Wolcott Print Tie",
-            "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
@@ -2152,13 +2181,9 @@
                 "value": "base_product_view"
               }
             ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "7c4309a0-4b4b-11ea-94b2-dd4cbdc1990e"
+            "medium": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/01f24175_b9b0_490b_8829_32a1ff9bc3d1.jpg",
+            "title": "Wolcott Print Tie"
           }
         ]
       },
@@ -2182,8 +2207,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": 1.108673889054728,
+          "y": 7.673978332850581,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -2194,7 +2219,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Accessories",
         "byond_id": "f76b5080-1043-11ea-93fc-d9e3f13549bb",
         "custom_attributes": [
           {
@@ -2321,7 +2346,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2433,7 +2458,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2541,7 +2566,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 180,
+              "_y": 0,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -2561,12 +2586,16 @@
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 0,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "fe33fff0-1045-11ea-93fc-d9e3f13549bb",
+            "grow_type": "none",
             "type": "photo",
             "picture": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
-            "title": "Damen + Hastings Men's Belmont Bracelet Set",
-            "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
@@ -2647,19 +2676,15 @@
                 "value": "base_product_view"
               }
             ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "fe33fff0-1045-11ea-93fc-d9e3f13549bb"
+            "medium": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/4882ea32_047e_4d92_b152_474df04994fc.jpg",
+            "title": "Damen + Hastings Men's Belmont Bracelet Set"
           },
           {
             "metadataName": "Element3DMetadata",
             "position": {
               "x": -11.249081261359436,
-              "y": 2.6846146525018497,
+              "y": 2.6711470180532046,
               "z": 0
             },
             "scale": {
@@ -2669,12 +2694,16 @@
             },
             "is_cast_shadow": false,
             "is_receive_shadow": false,
+            "rotation": {
+              "_x": 0,
+              "_y": 180,
+              "_z": 0,
+              "_order": "XYZ"
+            },
+            "byond_id": "ebd7c660-4b38-11ea-9976-d3ab35e15a03",
+            "grow_type": "none",
             "type": "photo",
             "picture": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
-            "medium": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
-            "thumb": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
-            "title": "Damen + Hastings Men's wallet",
-            "grow_type": "none",
             "custom_attributes": [
               {
                 "key": "detail",
@@ -2766,6 +2795,22 @@
                         {
                           "key": "$$set_double_sided_material",
                           "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
                         }
                       ]
                     },
@@ -2810,13 +2855,9 @@
                 "value": "base_product_view"
               }
             ],
-            "rotation": {
-              "_x": 0,
-              "_y": 180,
-              "_z": 0,
-              "_order": "XYZ"
-            },
-            "byond_id": "ebd7c660-4b38-11ea-9976-d3ab35e15a03"
+            "medium": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
+            "thumb": "https://viewer.byondxr.com/content/1198/5f221b10_d3db_4c7d_a13e_f28e33a79256.jpg",
+            "title": "Damen + Hastings Men's wallet"
           }
         ]
       },
@@ -2840,8 +2881,8 @@
           "z": 1
         },
         "text_position": {
-          "x": 0,
-          "y": 11,
+          "x": -5.884499872641015,
+          "y": -8.273869148073128,
           "z": 0
         },
         "view_type": "base_board_view",
@@ -2852,7 +2893,7 @@
           "rigth": 0,
           "left": 0
         },
-        "title": "",
+        "title": "Additional samples",
         "byond_id": "265b2260-4b38-11ea-9976-d3ab35e15a03",
         "custom_attributes": [
           {
@@ -2950,6 +2991,22 @@
                             "intensity": 0.75,
                             "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
                           }
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
                         }
                       ]
                     },
@@ -2996,7 +3053,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -3165,6 +3222,22 @@
                             "intensity": 0.75,
                             "url": "https://web-apps.byondxr.com/static_assets/showroom/hdr_map/default_equi.jpg"
                           }
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$center_pivot",
+                          "value": "true"
+                        },
+                        {
+                          "key": "$$set_double_sided_material",
+                          "value": "true"
                         }
                       ]
                     },
@@ -3211,7 +3284,7 @@
             ],
             "rotation": {
               "_x": 0,
-              "_y": 0,
+              "_y": 180,
               "_z": 0,
               "_order": "XYZ"
             },
@@ -3234,9 +3307,64 @@
       "key": "journy",
       "value": [
         {
-          "element": "265b2260-4b38-11ea-9976-d3ab35e15a03",
-          "viewElement": "265b2260-4b38-11ea-9976-d3ab35e15a03",
+          "element": "7b22a1d0-0f7c-11ea-bdb6-3b1d1d927cf4",
+          "viewElement": "canvas_11111",
+          "cameraZoom": 41.51824599101249,
           "index": 0
+        },
+        {
+          "element": "8377cf90-0f7c-11ea-bdb6-3b1d1d927cf4",
+          "viewElement": "8377cf90-0f7c-11ea-bdb6-3b1d1d927cf4",
+          "cameraZoom": 4.943653605555965,
+          "index": 1
+        },
+        {
+          "element": "de6ae020-0f83-11ea-bdb6-3b1d1d927cf4",
+          "viewElement": "canvas_11111",
+          "cameraZoom": 55.35766132134999,
+          "index": 2
+        },
+        {
+          "element": "69795090-4b4b-11ea-94b2-dd4cbdc1990e",
+          "viewElement": "69795090-4b4b-11ea-94b2-dd4cbdc1990e",
+          "cameraZoom": 6.844983436206456,
+          "index": 3
+        },
+        {
+          "element": "f76b5080-1043-11ea-93fc-d9e3f13549bb",
+          "viewElement": "canvas_11111",
+          "cameraZoom": 55.35766132134999,
+          "index": 4
+        },
+        {
+          "element": "ebd7c660-4b38-11ea-9976-d3ab35e15a03",
+          "viewElement": "ebd7c660-4b38-11ea-9976-d3ab35e15a03",
+          "cameraZoom": 6.556466559986098,
+          "index": 5
+        },
+        {
+          "element": "265b2260-4b38-11ea-9976-d3ab35e15a03",
+          "viewElement": "canvas_11111",
+          "cameraZoom": 55.352661321349984,
+          "index": 6
+        },
+        {
+          "element": "2b45fc00-4b38-11ea-9976-d3ab35e15a03",
+          "viewElement": "2b45fc00-4b38-11ea-9976-d3ab35e15a03",
+          "cameraZoom": 4.312764780104495,
+          "index": 7
+        },
+        {
+          "element": "2f290290-4b38-11ea-9976-d3ab35e15a03",
+          "viewElement": "2f290290-4b38-11ea-9976-d3ab35e15a03",
+          "cameraZoom": 11.34830809520303,
+          "index": 8
+        },
+        {
+          "element": "3109f790-4b38-11ea-9976-d3ab35e15a03",
+          "viewElement": "3109f790-4b38-11ea-9976-d3ab35e15a03",
+          "cameraZoom": 6.598408135138034,
+          "index": 9
         }
       ]
     }
